@@ -165,17 +165,6 @@
     
     
     <entry>
-      <title>LUCKY</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>问题解答区</title>
       <link href="/arch/index.html"/>
       <url>/arch/index.html</url>
@@ -187,31 +176,20 @@
     
     
     <entry>
+      <title>LUCKY</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>归档</title>
       <link href="/archives/index.html"/>
       <url>/archives/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>源码资料库</title>
-      <link href="/categor/index.html"/>
-      <url>/categor/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -242,6 +220,28 @@
     
     
     <entry>
+      <title>源码资料库</title>
+      <link href="/categor/index.html"/>
+      <url>/categor/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/font.css"/>
       <url>/css/font.css</url>
@@ -253,9 +253,9 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>论文</title>
+      <link href="/lunwen/index.html"/>
+      <url>/lunwen/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -264,9 +264,9 @@
     
     
     <entry>
-      <title>论文</title>
-      <link href="/lunwen/index.html"/>
-      <url>/lunwen/index.html</url>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
