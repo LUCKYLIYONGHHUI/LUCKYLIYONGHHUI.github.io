@@ -143,9 +143,9 @@
     
     
     <entry>
-      <title>C4D</title>
-      <link href="/C4D/index.html"/>
-      <url>/C4D/index.html</url>
+      <title>英语</title>
+      <link href="/English/index.html"/>
+      <url>/English/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -154,9 +154,9 @@
     
     
     <entry>
-      <title>英语</title>
-      <link href="/English/index.html"/>
-      <url>/English/index.html</url>
+      <title>C4D</title>
+      <link href="/C4D/index.html"/>
+      <url>/C4D/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -198,17 +198,6 @@
     
     
     <entry>
-      <title>源码资料库</title>
-      <link href="/categor/index.html"/>
-      <url>/categor/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -223,6 +212,17 @@
       <title>计算机</title>
       <link href="/computer/index.html"/>
       <url>/computer/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>源码资料库</title>
+      <link href="/categor/index.html"/>
+      <url>/categor/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -253,9 +253,9 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>论文</title>
+      <link href="/lunwen/index.html"/>
+      <url>/lunwen/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -264,9 +264,9 @@
     
     
     <entry>
-      <title>论文</title>
-      <link href="/lunwen/index.html"/>
-      <url>/lunwen/index.html</url>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
