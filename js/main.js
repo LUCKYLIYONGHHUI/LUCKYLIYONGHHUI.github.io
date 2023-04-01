@@ -492,42 +492,6 @@ document.addEventListener('DOMContentLoaded', function () {
     window.addEventListener('scroll', tocScrollFn)
   }
 
-  window.scrollCollect = () => {
-    return btf.throttle(function (e) {
-      const currentTop = window.scrollY || document.documentElement.scrollTop
-      const isDown = scrollDirection(currentTop)
-      if (currentTop > 56) {
-        $header.classList.add('is-top-bar')
-        if (isDown) {
-          if ($header.classList.contains('nav-visible')) $header.classList.remove('nav-visible')
-          if (isChatBtnShow && isChatShow === true) {
-            chatBtnHide()
-            isChatShow = false
-          }
-        } else {
-          if (!$header.classList.contains('nav-visible')) $header.classList.add('nav-visible')
-          if (isChatBtnHide && isChatShow === false) {
-            chatBtnShow()
-            isChatShow = true
-          }
-        }
-        $header.classList.add('nav-fixed')
-        if (window.getComputedStyle($rightside).getPropertyValue('opacity') === '0') {
-          $rightside.style.cssText = 'opacity: 0.8; transform: translateX(-58px)'
-        }
-      } else {
-        if (currentTop === 0) {
-          $header.classList.remove('is-top-bar')
-        }
-        $rightside.style.cssText = "opacity: ''; transform: ''"
-      }
-
-      if (document.body.scrollHeight <= innerHeight) {
-        $rightside.style.cssText = 'opacity: 0.8; transform: translateX(-58px)'
-      }
-    }, 200)()
-  }
-
   /**
    * Rightside
    */
