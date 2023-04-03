@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>815计算机基础综合</title>
+      <link href="/post/8651c904.html"/>
+      <url>/post/8651c904.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、考试科目"><a href="#一、考试科目" class="headerlink" title="一、考试科目"></a>一、考试科目</h2><p>考试名称：815计算机基础综合</p><p>考试科目：数据结构，操作系统，计算机组成原理</p><h2 id="二、考试题型"><a href="#二、考试题型" class="headerlink" title="二、考试题型"></a>二、考试题型</h2><p>总共三种题型：（各科均占50分）</p><p>1、选择题50分（25*2分）</p><p>其中数据结构10题，机组10题，操作系统5题</p><p>2、填空题 30分（15*2分）</p><p>其中数据结构10题，操作系统5题</p><p>3、综合题 70分 （7*10分）</p><p>其中数据结构1题，机组3题，操作系统3题</p><h2 id="三、考试大纲"><a href="#三、考试大纲" class="headerlink" title="三、考试大纲"></a>三、考试大纲</h2><p>1、<strong>数据结构</strong>：（1）数据结构的基本概念，算法及其特征，算法的简单分析与时间&#x2F;空间复杂度。（2）线性表的概念特征及的实现。（3）栈和队列的概念特征及实现，递归。（4）多维数组与存储。（5）二叉树的性质及实现，线索二叉树，二叉排序树，平衡二叉树，哈夫曼树，堆的建立，插入和删除算法的实现。（6）树与森林的概念，存储及操作算法，B树，B+树的定义及操作的实现。（7）图的概念，存储表示，操作及应用的实现。（8）查找的概念及典型查找算法的实现，哈希表。（9）排序的概念及典型排序算法的实现。</p><p>2、<strong>操作系统</strong>：（1）操作系统的概念、特征、功能和提供的服务。（2）进程与线程，处理机调度，进程同步与互斥(信号量机制，经典同步问题)，死锁(系统安全状态，银行家算法)。（3）内存管理(分页管理方式，分段管理方式)，虚拟内存管理(请求分页管理方式，页面置换算法)。（4）文件管理，设备管理，磁盘组织与管理(磁盘调度算法)。</p><p>3、<strong>计算机组成原理</strong>：（1） 计算机概要与技术:程序概念入门；硬件概念入门；性能和功耗；性能的测试方法，Amdahl定律。（2） 指令：计算机的语言；操作码的编制方式；计算机的操作数，不同的寻址方式；各种指令的基本格式以及原理，计算机硬件对过程的支持；基本的MIPS指令集体系结构。（3）计算机的算术运算：计算机加减乘除法运算。浮点数表示，IEEE754标准，浮点运算。（4）处理器：数据通路的概念以及建立数据通路的思想；流水线概述；流水线数据通路及其控制；结构冒险、数据冒险、控制冒险；数据冒险的转发与阻塞；控制冒险中假设分支不发生、缩短分支的延迟、动态分支预测的思想与实现方法。（5）存储器的层次结构：大容量存储器的层次结构；cache的基本原理；cache的性能评估与改进。虚拟存储器；集成虚拟存储器、快表和cache。虚拟存储器、cache、内存数据一致性问题。（6）存储系统和其他I&#x2F;O主题：可信度、可靠性和可用性；磁盘存储器；flash；处理器、内存及I&#x2F;O设备的连接。</p><p>华东理工大学官网： <a href="https://gschool.ecust.edu.cn/2021/0915/c8311a133115/page.htm">815《计算机专业基础综合》 (ecust.edu.cn)</a></p><h2 id="四、初试参考书推荐"><a href="#四、初试参考书推荐" class="headerlink" title="四、初试参考书推荐"></a>四、初试参考书推荐</h2><p><strong>数据结构</strong>：<u>王道考研+数据结构（C语言版）</u>作者：严蔚敏著作清华大学出版社</p><p><strong>操作系统</strong>：<u>王道考研+计算机操作系统（第四版）</u>作者：汤小丹著作西安电子科技大学出版社</p><p><strong>计算机组成原理</strong>：<u>王道考研+计算机组成与设计硬件&#x2F;软件接口（原书第5版）</u>作者：戴维A.帕特森约翰L.亨尼斯机械工业出版社</p><h2 id="五、专业课的重难点分析"><a href="#五、专业课的重难点分析" class="headerlink" title="五、专业课的重难点分析"></a>五、专业课的重难点分析</h2><p><strong>数据结构</strong>：代码大题</p><p><strong>操作系统</strong>：PV操作+内存管理+概念填空</p><p><strong>计算机组成原理</strong>：考题多来自于大黑书，出题灵活</p><h2 id="六、复习建议和规划"><a href="#六、复习建议和规划" class="headerlink" title="六、复习建议和规划"></a>六、复习建议和规划</h2><p>复习顺序：①数据结构（王道考研+课本） ②操作系统（王道考研+课本） ③计算机组成原理（王道考研+课本）</p><p>规划：6-8月完成一轮基础复习，9-10完成二轮强化，11-12进行总结冲刺</p><p>具体：每天3~4小时，第一遍细看课本+看完一章做一章对应王道考研书上习题（红笔标注错题），第一遍持续2个月。第二遍主攻王道考研（红笔标注重难点）+辅看课本。（建议再速看第三遍，特别针对错题和重难点；模拟题做完后再跳看第四遍）</p><h2 id="七、常见问题解答"><a href="#七、常见问题解答" class="headerlink" title="七、常见问题解答"></a>七、常见问题解答</h2><p>1、数据结构代码大题不会写怎么办？</p><p>针对代码题，通常就是三部（抄，看，写）。</p><p>2、操作系统概念偏多，该如何整理复习？</p><p>首先，对于第二第三章常见的概念，做到理解记忆背诵。其次，对于第一第四第五章节比较偏的概念，建议参考资料的总结和期末试题进行巩固记忆。</p><p>3、计算机组成原理内容很多，王道考研和课本该怎么权衡？</p><p>建议课本为主，王道考研为辅，因为计算机组成原理出题灵活，所以我们必须做到全部掌握，以不变应万变。</p><hr><p>具体可以参照知乎：<a href="https://zhuanlan.zhihu.com/p/547716098">华东理工大学815计算机 - 知乎 (zhihu.com)</a></p><p>以及个人目标院校的招生简历（学校官网），我这里以华东理工大学815计算机为参考！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 问题解答区 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 考研知识 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>30个英语写作功能句（二）</title>
       <link href="/post/5fb812a5.html"/>
       <url>/post/5fb812a5.html</url>
@@ -83,7 +108,7 @@
       <link href="/post/20418e0d.html"/>
       <url>/post/20418e0d.html</url>
       
-        <content type="html"><![CDATA[<p>2.6.41版本以上有水印的是因为当前版本破解不完美，有很多小伙伴都为此感到困惑，今天我给大家带来解决办法。</p><p>首先，咱们随便搭建一个小场景。</p><p><img src="/post/20418e0d/img_1.jpg" alt="图片一"></p><p>再到Redshift工作界（按照自己喜好去设置Redshift界面）面去，你再点击 开始 渲染，之后你会发现Redshift渲染窗口有水印覆盖。</p><p><img src="/post/20418e0d/img_2.jpg" alt="图片二"></p><p>然后你再按键盘的Ctrl+B（渲染设置），将 渲染器 后面的 标准 改成 Redshift，就会出现下面这个界面。</p><p><img src="/post/20418e0d/img_3.jpg" alt="图片三"></p><p>默认是 多通道 属性，在 多通道 属性面板下找到 多通道 下的 Quick Add，再点击 Quick Add 后面的下拉符号，就会出现一条很长的名词，咱们选择 完整渲染。</p><p><img src="/post/20418e0d/img_4.jpg" alt="图片四"></p><p>选择了 完整渲染之后，下面就会出现 AOV1 （完整渲染：多通道&#x2F;IPR（Bucket）），咱们点击它，就会出现很多内容，载将 选项 下面 名字 Beauty 改成一个你喜欢的名字，我在这里就改成zhihu来演示。</p><p><img src="/post/20418e0d/img_5.jpg" alt="图片五"></p><p>此时你再点击 Quick Add 后面的 Show AOV Manager，就会出现 Redshift AOV 管理器，然后取消勾选 Multi-Pass，勾选 Direct。</p><p><img src="/post/20418e0d/img_6.jpg" alt="图片六"></p><p>任意点击 完整渲染 这一条，右边就会出现一系列参数，找到 格式，你可以将他的格式改成PNG（这只是其中一种，按照你所需要的来）</p><p><img src="/post/20418e0d/img_7.jpg" alt="图片七"></p><p>关闭 Redshift AOV 管理器 面板，点击 保存，取消勾选 常规图像 下面的 保存，勾选 多通道 下面的 保存，再选择文件保存路径，还可以改 格式，我这里就改成PNG。</p><p><img src="/post/20418e0d/img_8.jpg" alt="图片八"></p><p>所有设置好之后，关闭渲染设置，回到Redshift工作界面，将多通道 Beauty 换成 zhihu(就是我们在上面改的名字)，再点击旁边的刷新按钮，就会发现渲染面板的水印没有了。</p><p><img src="/post/20418e0d/img_9.jpg" alt="图片九"></p><p>最后按键盘的Shift+R 图片查看器，会发现这里有水印，这里有水印不会影响咱们最终的结果，你可以打开之前保存路径之下的文件夹去看看。</p><p><img src="/post/20418e0d/img_10.jpg" alt="图片十"></p><p><img src="/post/20418e0d/img_11.jpg" alt="图片十一"></p><p>好了，祝大家C4D学习越来越好，加油！！！</p><p>大家也可以参考我的知乎上面！</p><p><a href="https://zhuanlan.zhihu.com/p/372989696" target="_blank">知乎：https://zhuanlan.zhihu.com/p/372989696</a></p>]]></content>
+        <content type="html"><![CDATA[<p>2.6.41版本以上有水印的是因为当前版本破解不完美，有很多小伙伴都为此感到困惑，今天我给大家带来解决办法。</p><p>首先，咱们随便搭建一个小场景。</p><p><img src="/post/20418e0d/img_1.jpg" alt="图片一"></p><p>再到Redshift工作界（按照自己喜好去设置Redshift界面）面去，你再点击 开始 渲染，之后你会发现Redshift渲染窗口有水印覆盖。</p><p><img src="/post/20418e0d/img_2.jpg" alt="图片二"></p><p>然后你再按键盘的Ctrl+B（渲染设置），将 渲染器 后面的 标准 改成 Redshift，就会出现下面这个界面。</p><p><img src="/post/20418e0d/img_3.jpg" alt="图片三"></p><p>默认是 多通道 属性，在 多通道 属性面板下找到 多通道 下的 Quick Add，再点击 Quick Add 后面的下拉符号，就会出现一条很长的名词，咱们选择 完整渲染。</p><p><img src="/post/20418e0d/img_4.jpg" alt="图片四"></p><p>选择了 完整渲染之后，下面就会出现 AOV1 （完整渲染：多通道&#x2F;IPR（Bucket）），咱们点击它，就会出现很多内容，载将 选项 下面 名字 Beauty 改成一个你喜欢的名字，我在这里就改成zhihu来演示。</p><p><img src="/post/20418e0d/img_5.jpg" alt="图片五"></p><p>此时你再点击 Quick Add 后面的 Show AOV Manager，就会出现 Redshift AOV 管理器，然后取消勾选 Multi-Pass，勾选 Direct。</p><p><img src="/post/20418e0d/img_6.jpg" alt="图片六"></p><p>任意点击 完整渲染 这一条，右边就会出现一系列参数，找到 格式，你可以将他的格式改成PNG（这只是其中一种，按照你所需要的来）</p><p><img src="/post/20418e0d/img_7.jpg" alt="图片七"></p><p>关闭 Redshift AOV 管理器 面板，点击 保存，取消勾选 常规图像 下面的 保存，勾选 多通道 下面的 保存，再选择文件保存路径，还可以改 格式，我这里就改成PNG。</p><p><img src="/post/20418e0d/img_8.jpg" alt="图片八"></p><p>所有设置好之后，关闭渲染设置，回到Redshift工作界面，将多通道 Beauty 换成 zhihu(就是我们在上面改的名字)，再点击旁边的刷新按钮，就会发现渲染面板的水印没有了。</p><p><img src="/post/20418e0d/img_9.jpg" alt="图片九"></p><p>最后按键盘的Shift+R 图片查看器，会发现这里有水印，这里有水印不会影响咱们最终的结果，你可以打开之前保存路径之下的文件夹去看看。</p><p><img src="/post/20418e0d/img_10.jpg" alt="图片十"></p><p><img src="/post/20418e0d/img_11.jpg" alt="图片十一"></p><p>好了，祝大家C4D学习越来越好，加油！！！</p><p>大家也可以参考我的知乎：</p><p><a href="https://zhuanlan.zhihu.com/p/365135282">C4D Redshift 2.6.41渲染器如何去水印？图文详解 - 知乎 (zhihu.com)</a></p>]]></content>
       
       
       <categories>
@@ -108,7 +133,7 @@
       <link href="/post/e67bab62.html"/>
       <url>/post/e67bab62.html</url>
       
-        <content type="html"><![CDATA[<p>今天我为大家解答一下C4D R21如何安装插件的问题，想必大家都知道R19以上的插件安装方法，直接找到安装目录下的Plugins，将插件文件拖入就可以了。但是R21的插件安装与之前的就有所不同了，在安装目录下就找不到Plugins文件了。如下：</p><p><img src="/post/e67bab62/picture_1.jpg" alt="图片一"></p><p>以下就来说说我的解决方法，首先咱们现在安装目录下新建一个Plugins文件夹。</p><p><img src="/post/e67bab62/picture_2.jpg" alt="图片二"></p><p>再打开C4D R21，按Ctrl+E（设置）打开窗口。<strong>（插件在plugins文件夹里，脚本在prefs文件夹里，预设在library-browser文件夹里。）</strong>然后再找到Plugins，在Plugins面板中选择我们之前安装目录下新建的Plugins文件夹。</p><p><img src="/post/e67bab62/picture_3.jpg" alt="图片三"></p><p>然后再将插件文件夹拖入安装目录下的Plugins中，再在C4D中Extensions（扩展）中可以看到咱们安装的插件的名字。</p><p><img src="/post/e67bab62/picture_4.jpg" alt="图片四"></p><p>以上就是解决R21安装插件的问题。如果大家还有什么问题可以留言一起讨论！！！谢谢大家。</p><p>大家也可以参考我的知乎上面！</p><p><a href="https://zhuanlan.zhihu.com/p/372989696" target="_blank">知乎：https://zhuanlan.zhihu.com/p/372989696</a></p>]]></content>
+        <content type="html"><![CDATA[<p>今天我为大家解答一下C4D R21如何安装插件的问题，想必大家都知道R19以上的插件安装方法，直接找到安装目录下的Plugins，将插件文件拖入就可以了。但是R21的插件安装与之前的就有所不同了，在安装目录下就找不到Plugins文件了。如下：</p><p><img src="/post/e67bab62/picture_1.jpg" alt="图片一"></p><p>以下就来说说我的解决方法，首先咱们现在安装目录下新建一个Plugins文件夹。</p><p><img src="/post/e67bab62/picture_2.jpg" alt="图片二"></p><p>再打开C4D R21，按Ctrl+E（设置）打开窗口。<strong>（插件在plugins文件夹里，脚本在prefs文件夹里，预设在library-browser文件夹里。）</strong>然后再找到Plugins，在Plugins面板中选择我们之前安装目录下新建的Plugins文件夹。</p><p><img src="/post/e67bab62/picture_3.jpg" alt="图片三"></p><p>然后再将插件文件夹拖入安装目录下的Plugins中，再在C4D中Extensions（扩展）中可以看到咱们安装的插件的名字。</p><p><img src="/post/e67bab62/picture_4.jpg" alt="图片四"></p><p>以上就是解决R21安装插件的问题。如果大家还有什么问题可以留言一起讨论！！！谢谢大家。</p><p>大家也可以参考我的知乎：</p><p><a href="https://zhuanlan.zhihu.com/p/372989696">C4D R21如何安装插件？ - 知乎 (zhihu.com)</a></p>]]></content>
       
       
       <categories>
@@ -154,20 +179,9 @@
     
     
     <entry>
-      <title>英语</title>
-      <link href="/English/index.html"/>
-      <url>/English/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>归档</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>问题解答区</title>
+      <link href="/arch/index.html"/>
+      <url>/arch/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -187,20 +201,9 @@
     
     
     <entry>
-      <title>问题解答区</title>
-      <link href="/arch/index.html"/>
-      <url>/arch/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>归档</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -220,17 +223,6 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/font.css"/>
-      <url>/css/font.css</url>
-      
-        <content type="html"><![CDATA[/* Logo 字体 */@font-face {    font-family: "iconfont logo";    src: url('https://at.alicdn.com/t/font_985780_km7mi63cihi.eot?t=1545807318834');    src: url('https://at.alicdn.com/t/font_985780_km7mi63cihi.eot?t=1545807318834#iefix') format('embedded-opentype'),      url('https://at.alicdn.com/t/font_985780_km7mi63cihi.woff?t=1545807318834') format('woff'),      url('https://at.alicdn.com/t/font_985780_km7mi63cihi.ttf?t=1545807318834') format('truetype'),      url('https://at.alicdn.com/t/font_985780_km7mi63cihi.svg?t=1545807318834#iconfont') format('svg');  }  @font-face {    font-family: "iconfont"; /* Project id  */    src: url('iconfont.ttf?t=1679044307845') format('truetype');  }    .iconfont {    font-family: "iconfont" !important;    font-size: 24px;    font-style: normal;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;  }    .icon-zhihutubiao:before {    content: "\e693";  }    ]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>计算机</title>
       <link href="/computer/index.html"/>
       <url>/computer/index.html</url>
@@ -242,31 +234,42 @@
     
     
     <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/font.css"/>
+      <url>/css/font.css</url>
+      
+        <content type="html"><![CDATA[/* Logo 字体 */@font-face {    font-family: "iconfont logo";    src: url('https://at.alicdn.com/t/font_985780_km7mi63cihi.eot?t=1545807318834');    src: url('https://at.alicdn.com/t/font_985780_km7mi63cihi.eot?t=1545807318834#iefix') format('embedded-opentype'),      url('https://at.alicdn.com/t/font_985780_km7mi63cihi.woff?t=1545807318834') format('woff'),      url('https://at.alicdn.com/t/font_985780_km7mi63cihi.ttf?t=1545807318834') format('truetype'),      url('https://at.alicdn.com/t/font_985780_km7mi63cihi.svg?t=1545807318834#iconfont') format('svg');  }  @font-face {    font-family: "iconfont"; /* Project id  */    src: url('iconfont.ttf?t=1679044307845') format('truetype');  }    .iconfont {    font-family: "iconfont" !important;    font-size: 24px;    font-style: normal;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;  }    .icon-zhihutubiao:before {    content: "\e693";  }    ]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/nav.css"/>
+      <url>/css/nav.css</url>
+      
+        <content type="html"><![CDATA[#nav-right {    flex: 1 1 auto;    justify-content: flex-end;    margin-left: auto;    display: flex;    flex-wrap: nowrap;}#nav *::after {    background-color: transparent !important;}#nav {    font-size: 22px !important;}.site-page {    padding: 5px;    margin: 3px;    padding-left: 10px;    padding-right: 10px;    white-space: nowrap;    font-size: 0.78em;}.site-page:hover {    background-color: var(--mlemontx-theme);    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 7px;}.site-page.child:hover {    background-color: var(--mlemontx-theme) !important;    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 4px;}.menus_item_child li:not(#sidebar-menus li) {    float: left;    border-radius: 6px !important;    -webkit-border-radius: 6px !important;    -moz-border-radius: 6px !important;    -ms-border-radius: 6px !important;    -o-border-radius: 6px !important;}.menus_item_child:not(#sidebar-menus ul) {    left: 50%;    translate: -50%;}#blog-info a {    padding: 8px}.site-name::before {    opacity: 0;    background-color: var(--mlemontx-theme) !important;    border-radius: 12px;    -webkit-border-radius: 12px;    -moz-border-radius: 12px;    -ms-border-radius: 12px;    -o-border-radius: 12px;    transition: .3s;    -webkit-transition: .3s;    -moz-transition: .3s;    -ms-transition: .3s;    -o-transition: .3s;    position: absolute;    top: 0 !important;    right: 0 !important;    width: 100%;    height: 100%;    content: "\f015";    box-shadow: 0 0 5px var(--mlemontx-theme);    font-family: "Font Awesome 6 Free";    text-align: center;    color: white;    line-height: 34px;    font-size: 18px;}.site-name:hover::before {    opacity: 1;    scale: 1.03;}.site-name {    position: relative;    font-size: 24px;}.nav-fixed #nav {    transform: translateY(58px) !important;    -webkit-transform: translateY(58px) !important;    -moz-transform: translateY(58px) !important;    -ms-transform: translateY(58px) !important;    -o-transform: translateY(58px) !important;}#nav {    transition: none !important;    -webkit-transition: none !important;    -moz-transition: none !important;    -ms-transition: none !important;    -o-transition: none !important;}#page-name::before {    font-size: 18px;    position: absolute;    width: 100%;    height: 100%;    border-radius: 8px;    color: white !important;    top: 0;    left: 0;    content: '回到顶部';    background-color: var(--mlemontx-theme);    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;    opacity: 0;    box-shadow: 0 0 3px var(--mlemontx-theme);    line-height: 45px;}#page-name:hover:before {    opacity: 1;}@media screen and (max-width: 900px) {    #page-name, #menus {        display: none !important;    }}#name-container {    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;}#name-container:hover {    scale: 1.03;}#page-name {    position: relative;    padding: 10px 30px;}#nav {    padding: 0 20px;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>高数</title>
       <link href="/gaoshu/index.html"/>
       <url>/gaoshu/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>论文</title>
-      <link href="/lunwen/index.html"/>
-      <url>/lunwen/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -286,11 +289,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/nav.css"/>
-      <url>/css/nav.css</url>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[#nav-right {    flex: 1 1 auto;    justify-content: flex-end;    margin-left: auto;    display: flex;    flex-wrap: nowrap;}#nav *::after {    background-color: transparent !important;}#nav {    font-size: 22px !important;}.site-page {    padding: 5px;    margin: 3px;    padding-left: 10px;    padding-right: 10px;    white-space: nowrap;    font-size: 0.78em;}.site-page:hover {    background-color: var(--mlemontx-theme);    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 7px;}.site-page.child:hover {    background-color: var(--mlemontx-theme) !important;    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 4px;}.menus_item_child li:not(#sidebar-menus li) {    float: left;    border-radius: 6px !important;    -webkit-border-radius: 6px !important;    -moz-border-radius: 6px !important;    -ms-border-radius: 6px !important;    -o-border-radius: 6px !important;}.menus_item_child:not(#sidebar-menus ul) {    left: 50%;    translate: -50%;}#blog-info a {    padding: 8px}.site-name::before {    opacity: 0;    background-color: var(--mlemontx-theme) !important;    border-radius: 12px;    -webkit-border-radius: 12px;    -moz-border-radius: 12px;    -ms-border-radius: 12px;    -o-border-radius: 12px;    transition: .3s;    -webkit-transition: .3s;    -moz-transition: .3s;    -ms-transition: .3s;    -o-transition: .3s;    position: absolute;    top: 0 !important;    right: 0 !important;    width: 100%;    height: 100%;    content: "\f015";    box-shadow: 0 0 5px var(--mlemontx-theme);    font-family: "Font Awesome 6 Free";    text-align: center;    color: white;    line-height: 34px;    font-size: 18px;}.site-name:hover::before {    opacity: 1;    scale: 1.03;}.site-name {    position: relative;    font-size: 24px;}.nav-fixed #nav {    transform: translateY(58px) !important;    -webkit-transform: translateY(58px) !important;    -moz-transform: translateY(58px) !important;    -ms-transform: translateY(58px) !important;    -o-transform: translateY(58px) !important;}#nav {    transition: none !important;    -webkit-transition: none !important;    -moz-transition: none !important;    -ms-transition: none !important;    -o-transition: none !important;}#page-name::before {    font-size: 18px;    position: absolute;    width: 100%;    height: 100%;    border-radius: 8px;    color: white !important;    top: 0;    left: 0;    content: '回到顶部';    background-color: var(--mlemontx-theme);    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;    opacity: 0;    box-shadow: 0 0 3px var(--mlemontx-theme);    line-height: 45px;}#page-name:hover:before {    opacity: 1;}@media screen and (max-width: 900px) {    #page-name, #menus {        display: none !important;    }}#name-container {    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;}#name-container:hover {    scale: 1.03;}#page-name {    position: relative;    padding: 10px 30px;}#nav {    padding: 0 20px;}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -300,6 +303,28 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>论文</title>
+      <link href="/lunwen/index.html"/>
+      <url>/lunwen/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>英语</title>
+      <link href="/English/index.html"/>
+      <url>/English/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
