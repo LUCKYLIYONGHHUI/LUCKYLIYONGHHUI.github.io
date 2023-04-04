@@ -201,9 +201,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>问题解答区</title>
+      <link href="/arch/index.html"/>
+      <url>/arch/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -212,9 +212,9 @@
     
     
     <entry>
-      <title>问题解答区</title>
-      <link href="/arch/index.html"/>
-      <url>/arch/index.html</url>
+      <title>计算机</title>
+      <link href="/computer/index.html"/>
+      <url>/computer/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -267,9 +267,20 @@
     
     
     <entry>
-      <title>计算机</title>
-      <link href="/computer/index.html"/>
-      <url>/computer/index.html</url>
+      <title>高数</title>
+      <link href="/gaoshu/index.html"/>
+      <url>/gaoshu/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -294,17 +305,6 @@
       <url>/js/nav.js</url>
       
         <content type="html"><![CDATA[document.addEventListener('pjax:complete', tonav);document.addEventListener('DOMContentLoaded', tonav);function tonav() {    document.getElementById("name-container").setAttribute("style", "display:none");    var position = $(window).scrollTop();    $(window).scroll(function () {        var scroll = $(window).scrollTop();        if (scroll > position) {            document.getElementById("name-container").setAttribute("style", "");            document.getElementsByClassName("menus_items")[1].setAttribute("style", "display:none!important");        } else {            document.getElementsByClassName("menus_items")[1].setAttribute("style", "");            document.getElementById("name-container").setAttribute("style", "display:none");        }        position = scroll;    });    document.getElementById("page-name").innerText = document.title.split(" |柠檬mlemontx")[0];}function scrollToTop() {    document.getElementsByClassName("menus_items")[1].setAttribute("style", "");    document.getElementById("name-container").setAttribute("style", "display:none");    btf.scrollToDest(0, 500);}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>高数</title>
-      <link href="/gaoshu/index.html"/>
-      <url>/gaoshu/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
