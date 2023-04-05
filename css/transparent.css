@@ -1,7 +1,7 @@
 /* 主页所有文章页面背景 */
 #aside_content .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{
     /* 以下代表透明度为0.5 */
-    background: rgba(255,255,255,.9);
+    background: rgba(255, 255, 255, 0.98);
 }
 /*侧边栏页面*/
 #aside-content>.card-widget  {
