@@ -8,7 +8,7 @@
       <link href="/post/c2b5e386.html"/>
       <url>/post/c2b5e386.html</url>
       
-        <content type="html"><![CDATA[<h1 id="一、【前言】"><a href="#一、【前言】" class="headerlink" title="一、【前言】"></a>一、【前言】</h1><p align="justify" style="text-indent:2em">Markdown 是一种轻量级标记语言，它用简洁的语法代替排版，使我们专心于码字。它的目标是实现易读易写，成为一种适用于网络的书写语言。同时，Markdown支持嵌入html标签。</p><p align="justify" style="text-indent:2em">通过使用Github Pages + butterfly的方法也算是搭建了一个属于自己的博客，由于之后post主要都以markdown的文章发布，所以我总结了markdown一些实用的语法（结合了HTML语法），都是自己亲测的。</p><h1>二、标题</h1><code>## 这是一级标题,也就是字最大的<br>## 这是二级标题<br>### 这是三级标题<br>#### 这是四级标题<br>##### 这是五级标题<br>###### 这是六级标题<br></code>]]></content>
+        <content type="html"><![CDATA[<h1 id="一、【前言】"><a href="#一、【前言】" class="headerlink" title="一、【前言】"></a>一、【前言】</h1><p align="justify" style="text-indent:2em">Markdown 是一种轻量级标记语言，它用简洁的语法代替排版，使我们专心于码字。它的目标是实现易读易写，成为一种适用于网络的书写语言。同时，Markdown支持嵌入html标签。</p><p align="justify" style="text-indent:2em">通过使用Github Pages + butterfly的方法也算是搭建了一个属于自己的博客，由于之后post主要都以markdown的文章发布，所以我总结了markdown一些实用的语法（结合了HTML语法），都是自己亲测的。</p><h1>二、标题</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">## 这是一级标题,也就是字最大的</span><br><span class="line">## 这是二级标题</span><br><span class="line">### 这是三级标题</span><br><span class="line">#### 这是四级标题</span><br><span class="line">##### 这是五级标题</span><br><span class="line">###### 这是六级标题</span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
@@ -221,9 +221,9 @@
     
     
     <entry>
-      <title>英语</title>
-      <link href="/English/index.html"/>
-      <url>/English/index.html</url>
+      <title>C4D</title>
+      <link href="/C4D/index.html"/>
+      <url>/C4D/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -243,9 +243,9 @@
     
     
     <entry>
-      <title>C4D</title>
-      <link href="/C4D/index.html"/>
-      <url>/C4D/index.html</url>
+      <title>英语</title>
+      <link href="/English/index.html"/>
+      <url>/English/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -265,9 +265,9 @@
     
     
     <entry>
-      <title>问题解答区</title>
-      <link href="/arch/index.html"/>
-      <url>/arch/index.html</url>
+      <title>源码资料库</title>
+      <link href="/categor/index.html"/>
+      <url>/categor/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -276,9 +276,9 @@
     
     
     <entry>
-      <title>归档</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>问题解答区</title>
+      <link href="/arch/index.html"/>
+      <url>/arch/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -309,9 +309,9 @@
     
     
     <entry>
-      <title>源码资料库</title>
-      <link href="/categor/index.html"/>
-      <url>/categor/index.html</url>
+      <title>归档</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -342,11 +342,11 @@
     
     
     <entry>
-      <title>高数</title>
-      <link href="/gaoshu/index.html"/>
-      <url>/gaoshu/index.html</url>
+      <title></title>
+      <link href="/css/nav.css"/>
+      <url>/css/nav.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[#nav-right {    flex: 1 1 auto;    justify-content: flex-end;    margin-left: auto;    display: flex;    flex-wrap: nowrap;}#nav *::after {    background-color: transparent !important;}#nav {    font-size: 22px !important;}.site-page {    padding: 5px;    margin: 3px;    padding-left: 10px;    padding-right: 10px;    white-space: nowrap;    font-size: 0.78em;}.site-page:hover {    background-color: var(--mlemontx-theme);    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 7px;}.site-page.child:hover {    background-color: var(--mlemontx-theme) !important;    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 4px;}.menus_item_child li:not(#sidebar-menus li) {    float: left;    border-radius: 6px !important;    -webkit-border-radius: 6px !important;    -moz-border-radius: 6px !important;    -ms-border-radius: 6px !important;    -o-border-radius: 6px !important;}.menus_item_child:not(#sidebar-menus ul) {    left: 50%;    translate: -50%;}#blog-info a {    padding: 8px}.site-name::before {    opacity: 0;    background-color: var(--mlemontx-theme) !important;    border-radius: 12px;    -webkit-border-radius: 12px;    -moz-border-radius: 12px;    -ms-border-radius: 12px;    -o-border-radius: 12px;    transition: .3s;    -webkit-transition: .3s;    -moz-transition: .3s;    -ms-transition: .3s;    -o-transition: .3s;    position: absolute;    top: 0 !important;    right: 0 !important;    width: 100%;    height: 100%;    content: "\f015";    box-shadow: 0 0 5px var(--mlemontx-theme);    font-family: "Font Awesome 6 Free";    text-align: center;    color: white;    line-height: 34px;    font-size: 18px;}.site-name:hover::before {    opacity: 1;    scale: 1.03;}.site-name {    position: relative;    font-size: 24px;}.nav-fixed #nav {    transform: translateY(58px) !important;    -webkit-transform: translateY(58px) !important;    -moz-transform: translateY(58px) !important;    -ms-transform: translateY(58px) !important;    -o-transform: translateY(58px) !important;}#nav {    transition: none !important;    -webkit-transition: none !important;    -moz-transition: none !important;    -ms-transition: none !important;    -o-transition: none !important;}#page-name::before {    font-size: 18px;    position: absolute;    width: 100%;    height: 100%;    border-radius: 8px;    color: white !important;    top: 0;    left: 0;    content: '回到顶部';    background-color: var(--mlemontx-theme);    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;    opacity: 0;    box-shadow: 0 0 3px var(--mlemontx-theme);    line-height: 45px;}#page-name:hover:before {    opacity: 1;}@media screen and (max-width: 900px) {    #page-name, #menus {        display: none !important;    }}#name-container {    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;}#name-container:hover {    scale: 1.03;}#page-name {    position: relative;    padding: 10px 30px;}#nav {    padding: 0 20px;}]]></content>
       
     </entry>
     
@@ -364,11 +364,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/nav.js"/>
-      <url>/js/nav.js</url>
+      <title>高数</title>
+      <link href="/gaoshu/index.html"/>
+      <url>/gaoshu/index.html</url>
       
-        <content type="html"><![CDATA[document.addEventListener('pjax:complete', tonav);document.addEventListener('DOMContentLoaded', tonav);function tonav() {    document.getElementById("name-container").setAttribute("style", "display:none");    var position = $(window).scrollTop();    $(window).scroll(function () {        var scroll = $(window).scrollTop();        if (scroll > position) {            document.getElementById("name-container").setAttribute("style", "");            document.getElementsByClassName("menus_items")[1].setAttribute("style", "display:none!important");        } else {            document.getElementsByClassName("menus_items")[1].setAttribute("style", "");            document.getElementById("name-container").setAttribute("style", "display:none");        }        position = scroll;    });    document.getElementById("page-name").innerText = document.title.split(" |柠檬mlemontx")[0];}function scrollToTop() {    document.getElementsByClassName("menus_items")[1].setAttribute("style", "");    document.getElementById("name-container").setAttribute("style", "display:none");    btf.scrollToDest(0, 500);}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -376,10 +376,10 @@
     
     <entry>
       <title></title>
-      <link href="/css/nav.css"/>
-      <url>/css/nav.css</url>
+      <link href="/js/nav.js"/>
+      <url>/js/nav.js</url>
       
-        <content type="html"><![CDATA[#nav-right {    flex: 1 1 auto;    justify-content: flex-end;    margin-left: auto;    display: flex;    flex-wrap: nowrap;}#nav *::after {    background-color: transparent !important;}#nav {    font-size: 22px !important;}.site-page {    padding: 5px;    margin: 3px;    padding-left: 10px;    padding-right: 10px;    white-space: nowrap;    font-size: 0.78em;}.site-page:hover {    background-color: var(--mlemontx-theme);    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 7px;}.site-page.child:hover {    background-color: var(--mlemontx-theme) !important;    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 4px;}.menus_item_child li:not(#sidebar-menus li) {    float: left;    border-radius: 6px !important;    -webkit-border-radius: 6px !important;    -moz-border-radius: 6px !important;    -ms-border-radius: 6px !important;    -o-border-radius: 6px !important;}.menus_item_child:not(#sidebar-menus ul) {    left: 50%;    translate: -50%;}#blog-info a {    padding: 8px}.site-name::before {    opacity: 0;    background-color: var(--mlemontx-theme) !important;    border-radius: 12px;    -webkit-border-radius: 12px;    -moz-border-radius: 12px;    -ms-border-radius: 12px;    -o-border-radius: 12px;    transition: .3s;    -webkit-transition: .3s;    -moz-transition: .3s;    -ms-transition: .3s;    -o-transition: .3s;    position: absolute;    top: 0 !important;    right: 0 !important;    width: 100%;    height: 100%;    content: "\f015";    box-shadow: 0 0 5px var(--mlemontx-theme);    font-family: "Font Awesome 6 Free";    text-align: center;    color: white;    line-height: 34px;    font-size: 18px;}.site-name:hover::before {    opacity: 1;    scale: 1.03;}.site-name {    position: relative;    font-size: 24px;}.nav-fixed #nav {    transform: translateY(58px) !important;    -webkit-transform: translateY(58px) !important;    -moz-transform: translateY(58px) !important;    -ms-transform: translateY(58px) !important;    -o-transform: translateY(58px) !important;}#nav {    transition: none !important;    -webkit-transition: none !important;    -moz-transition: none !important;    -ms-transition: none !important;    -o-transition: none !important;}#page-name::before {    font-size: 18px;    position: absolute;    width: 100%;    height: 100%;    border-radius: 8px;    color: white !important;    top: 0;    left: 0;    content: '回到顶部';    background-color: var(--mlemontx-theme);    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;    opacity: 0;    box-shadow: 0 0 3px var(--mlemontx-theme);    line-height: 45px;}#page-name:hover:before {    opacity: 1;}@media screen and (max-width: 900px) {    #page-name, #menus {        display: none !important;    }}#name-container {    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;}#name-container:hover {    scale: 1.03;}#page-name {    position: relative;    padding: 10px 30px;}#nav {    padding: 0 20px;}]]></content>
+        <content type="html"><![CDATA[document.addEventListener('pjax:complete', tonav);document.addEventListener('DOMContentLoaded', tonav);function tonav() {    document.getElementById("name-container").setAttribute("style", "display:none");    var position = $(window).scrollTop();    $(window).scroll(function () {        var scroll = $(window).scrollTop();        if (scroll > position) {            document.getElementById("name-container").setAttribute("style", "");            document.getElementsByClassName("menus_items")[1].setAttribute("style", "display:none!important");        } else {            document.getElementsByClassName("menus_items")[1].setAttribute("style", "");            document.getElementById("name-container").setAttribute("style", "display:none");        }        position = scroll;    });    document.getElementById("page-name").innerText = document.title.split(" |柠檬mlemontx")[0];}function scrollToTop() {    document.getElementsByClassName("menus_items")[1].setAttribute("style", "");    document.getElementById("name-container").setAttribute("style", "display:none");    btf.scrollToDest(0, 500);}]]></content>
       
     </entry>
     

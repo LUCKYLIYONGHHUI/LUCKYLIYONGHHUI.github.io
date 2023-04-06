@@ -200,13 +200,6 @@
 
   
   <url>
-    <loc>https://www.luckylyh.top/tags/%E8%80%83%E7%A0%94%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2023-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.luckylyh.top/tags/%E8%8B%B1%E8%AF%AD/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -215,6 +208,13 @@
   
   <url>
     <loc>https://www.luckylyh.top/tags/%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9D%97/</loc>
+    <lastmod>2023-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.luckylyh.top/tags/%E8%80%83%E7%A0%94%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -258,14 +258,14 @@
 
   
   <url>
-    <loc>https://www.luckylyh.top/categories/%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94%E5%8C%BA/</loc>
+    <loc>https://www.luckylyh.top/categories/%E8%8B%B1%E8%AF%AD/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.luckylyh.top/categories/%E8%8B%B1%E8%AF%AD/</loc>
+    <loc>https://www.luckylyh.top/categories/%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94%E5%8C%BA/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
