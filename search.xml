@@ -8,7 +8,7 @@
       <link href="/post/b960f285.html"/>
       <url>/post/b960f285.html</url>
       
-        <content type="html"><![CDATA[<h2>一、导数与微分的概念</h2><h3>1、导数的概念</h3><p><img src="/post/b960f285/img_23040701.png"></p><p><b>【注】</b>f’(x_0)与f(x_0)有关</p><hr><h3>例题1</h3><p><img src="/post/b960f285/img_23040702.png"></p><hr><h3>例题2</h3><p><img src="/post/b960f285/img_23040703.png"></p><hr><h3>2、微分的概念</h3><p><img src="/post/b960f285/img_23040704.png"></p><hr><h3>例题3</h3><p><img src="/post/b960f285/img_23040705.png"></p><hr><h3>3、导数与微分的几何意义</h3><p><img src="/post/b960f285/img_23040706.png"></p><hr><h3>例题4</h3><p><img src="/post/b960f285/img_23040707.png"></p><hr><h3>4、连续、可导、可微之间的关系</h3><p><img src="/post/b960f285/img_23040708.png"></p><p align="justify"><b>【注】</b>n阶可导，用洛必达法则，最多可以用到出现n-1阶可导；n阶连续可导，用洛必达法则，最多可以用到出现n阶可导。如：二阶可导，用洛必达法则，最多可以用到出现一阶可导，不能出现二阶可导</p><hr><h3>例题5</h3><p><img src="/post/b960f285/img_23040709.png"></p><hr><h2>二、导数公式及求导法则</h2><h3>1、基本初等函数的导数公式</h3><p><img src="/post/b960f285/img_23040710.png"></p><hr><h3>2、求导法则</h3><p><img src="/post/b960f285/img_23040711.png"></p><hr><h3>例题7~8</h3><p><img src="/post/b960f285/img_23040712.png"></p><hr><h3>3、隐函数求导法</h3><p><img src="/post/b960f285/img_23040713.png"></p><hr><h3>4、反函数的导数</h3><p><img src="/post/b960f285/img_23040714.png"></p><hr><h3>5、参数方程求导法</h3><p><img src="/post/b960f285/img_23040715.png"></p><hr><h3>例题11</h3><p><img src="/post/b960f285/img_23040716.png"></p><hr><h3>6、对数求导法</h3><p><img src="/post/b960f285/img_23040717.png"></p><hr><h3>例题13</h3><p><img src="/post/b960f285/img_23040718.png"></p><hr><h3>总结</h3><p><img src="/post/b960f285/img_23040719.png"></p><hr><h2>三、高阶导数</h2><h3>1、高阶导数的概念</h3><p><img src="/post/b960f285/img_23040720.png"></p><hr><h3>2、常用的高阶导数公式</h3><p><img src="/post/b960f285/img_23040721.png"></p><hr><h3>例题14~15</h3><p><img src="/post/b960f285/img_23040722.png"></p><hr><h2>常考题型与典型例题</h2><p>1、导数定义</p><p>2、复合函数、隐函数、参数方程求导</p><p>3、高阶导数</p><p>4、导数应用</p><hr><h3>例题16</h3><p><img src="/post/b960f285/img_23040723.png"></p><hr><h3>例题17</h3><p><img src="/post/b960f285/img_23040724.png"></p><hr><h3>例题18</h3><p><img src="/post/b960f285/img_23040725.png"></p><hr><h3>例题19</h3><p><img src="/post/b960f285/img_23040726.png"></p><hr><h3>例题20</h3><p><img src="/post/b960f285/img_23040727.png"></p><hr><h3>例题21</h3><p><img src="/post/b960f285/img_23040728.png"></p><hr><h3>例题22</h3><p><img src="/post/b960f285/img_23040729.png"></p><hr><h3>例题23</h3><p><img src="/post/b960f285/img_23040730.png"></p><hr><h3>例题24</h3><p><img src="/post/b960f285/img_23040731.png"></p><hr><h3>例题25</h3><p><img src="/post/b960f285/img_23040732.png"></p><hr><h3>例题26</h3><p><img src="/post/b960f285/img_23040733.png"></p><hr><h3>例题27</h3><p><img src="/post/b960f285/img_23040734.png"></p><hr><h3>例题28</h3><p><img src="/post/b960f285/img_23040735.png"></p><hr><h3>例题29</h3><p><img src="/post/b960f285/img_23040736.png"></p><hr><p>内容取自武忠祥老师基础班教程，参考书《高等数学·基础篇》</p>]]></content>
+        <content type="html"><![CDATA[<h2>一、导数与微分的概念</h2><h3>1、导数的概念</h3><p><img src="/post/b960f285/img_23040701.png"></p><p><b>【注】</b>f’(x_0)与f(x_0)有关</p><hr><h3>例题1</h3><p><img src="/post/b960f285/img_23040702.png"></p><hr><h3>例题2</h3><p><img src="/post/b960f285/img_23040703.png"></p><hr><h3>2、微分的概念</h3><p><img src="/post/b960f285/img_23040704.png"></p><hr><h3>例题3</h3><p><img src="/post/b960f285/img_23040705.png"></p><hr><h3>3、导数与微分的几何意义</h3><p><img src="/post/b960f285/img_23040706.png"></p><hr><h3>例题4</h3><p><img src="/post/b960f285/img_23040707.png"></p><hr><h3>4、连续、可导、可微之间的关系</h3><p><img src="/post/b960f285/img_23040708.png"></p><p align="justify"><b>【注】</b>n阶可导，用洛必达法则，最多可以用到出现n-1阶可导；n阶连续可导，用洛必达法则，最多可以用到出现n阶可导。如：二阶可导，用洛必达法则，最多可以用到出现一阶可导，不能出现二阶可导</p><hr><h3>例题5</h3><p><img src="/post/b960f285/img_23040709.png"></p><hr><h2>二、导数公式及求导法则</h2><h3>1、基本初等函数的导数公式</h3><p><img src="/post/b960f285/img_23040710.png"></p><hr><h3>2、求导法则</h3><p><img src="/post/b960f285/img_23040711.png"></p><hr><h3>例题7~8</h3><p><img src="/post/b960f285/img_23040712.png"></p><p><img src="/post/b960f285/img_23040737.png"></p><hr><h3>3、隐函数求导法</h3><p><img src="/post/b960f285/img_23040713.png"></p><hr><h3>4、反函数的导数</h3><p><img src="/post/b960f285/img_23040714.png"></p><hr><h3>5、参数方程求导法</h3><p><img src="/post/b960f285/img_23040715.png"></p><hr><h3>例题11</h3><p><img src="/post/b960f285/img_23040716.png"></p><hr><h3>6、对数求导法</h3><p><img src="/post/b960f285/img_23040717.png"></p><hr><h3>例题13</h3><p><img src="/post/b960f285/img_23040718.png"></p><hr><h3>总结</h3><p><img src="/post/b960f285/img_23040719.png"></p><hr><h2>三、高阶导数</h2><h3>1、高阶导数的概念</h3><p><img src="/post/b960f285/img_23040720.png"></p><hr><h3>2、常用的高阶导数公式</h3><p><img src="/post/b960f285/img_23040721.png"></p><hr><h3>例题14~15</h3><p><img src="/post/b960f285/img_23040722.png"></p><hr><h2>常考题型与典型例题</h2><p>1、导数定义</p><p>2、复合函数、隐函数、参数方程求导</p><p>3、高阶导数</p><p>4、导数应用</p><hr><h3>例题16</h3><p><img src="/post/b960f285/img_23040723.png"></p><hr><h3>例题17</h3><p><img src="/post/b960f285/img_23040724.png"></p><hr><h3>例题18</h3><p><img src="/post/b960f285/img_23040725.png"></p><hr><h3>例题19</h3><p><img src="/post/b960f285/img_23040726.png"></p><hr><h3>例题20</h3><p><img src="/post/b960f285/img_23040727.png"></p><hr><h3>例题21</h3><p><img src="/post/b960f285/img_23040728.png"></p><hr><h3>例题22</h3><p><img src="/post/b960f285/img_23040729.png"></p><hr><h3>例题23</h3><p><img src="/post/b960f285/img_23040730.png"></p><hr><h3>例题24</h3><p><img src="/post/b960f285/img_23040731.png"></p><hr><h3>例题25</h3><p><img src="/post/b960f285/img_23040732.png"></p><hr><h3>例题26</h3><p><img src="/post/b960f285/img_23040733.png"></p><hr><h3>例题27</h3><p><img src="/post/b960f285/img_23040734.png"></p><hr><h3>例题28</h3><p><img src="/post/b960f285/img_23040735.png"></p><hr><h3>例题29</h3><p><img src="/post/b960f285/img_23040736.png"></p><hr><p>内容取自武忠祥老师基础班教程，参考书《高等数学·基础篇》</p>]]></content>
       
       
       <categories>
@@ -259,6 +259,17 @@
     
     
     <entry>
+      <title>C4D</title>
+      <link href="/C4D/index.html"/>
+      <url>/C4D/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>英语</title>
       <link href="/English/index.html"/>
       <url>/English/index.html</url>
@@ -270,9 +281,9 @@
     
     
     <entry>
-      <title>C4D</title>
-      <link href="/C4D/index.html"/>
-      <url>/C4D/index.html</url>
+      <title>问题解答区</title>
+      <link href="/arch/index.html"/>
+      <url>/arch/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -303,28 +314,6 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>问题解答区</title>
-      <link href="/arch/index.html"/>
-      <url>/arch/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>源码资料库</title>
       <link href="/categor/index.html"/>
       <url>/categor/index.html</url>
@@ -336,11 +325,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[/* 文章页H1-H6图标样式效果 */h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {    -webkit-animation: ccc 1.6s linear infinite ;    animation: ccc 1.6s linear infinite ;}@-webkit-keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}@keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}#content-inner.layout h1:hover, #content-inner.layout h2:hover, #content-inner.layout h3:hover, #content-inner.layout h4:hover, #content-inner.layout h5:hover, #content-inner.layout h6:hover {    color: #49b1f5 ;}#content-inner.layout h1:hover::after, #content-inner.layout h2:hover::after, #content-inner.layout h3:hover::after, #content-inner.layout h4:hover::after, #content-inner.layout h5:hover::after, #content-inner.layout h6:hover::after {    color: #49b1f5 ;    -webkit-animation: ccc 3.2s linear infinite ;    animation: ccc 3.2s linear infinite ;}#content-inner.layout h1::after {    color: #ef50a8 ;    margin-left: -1.55rem;    font-size: 1.3rem;    margin-top: -0.23rem;}#content-inner.layout h2::after {    color: #fb7061 ;    margin-left: -1.35rem;    font-size: 1.1rem;    margin-top: -0.12rem;}#content-inner.layout h3::after {    color: #ffbf00 ;    margin-left: -1.22rem;    font-size: 0.95rem;    margin-top: -0.09rem;}#content-inner.layout h4::after {    color: #a9e000 ;    margin-left: -1.05rem;    font-size: 0.8rem;    margin-top: -0.09rem;}#content-inner.layout h5::after {    color: #57c850 ;    margin-left: -0.9rem;    font-size: 0.7rem;    margin-top: 0.0rem;}#content-inner.layout h6::after {    color: #5ec1e0 ;    margin-left: -0.9rem;    font-size: 0.66rem;    margin-top: 0.0rem;}/* 页面设置icon转动速度调整 */#rightside_config i.fas.fa-cog.fa-spin {    animation: fa-spin 5s linear infinite ;}]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机</title>
+      <link href="/computer/index.html"/>
+      <url>/computer/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -352,6 +352,17 @@
       <url>/css/icon.css</url>
       
         <content type="html"><![CDATA[@font-face {    font-family: "iconfont"; /* Project id 3963606 */    src: url('//at.alicdn.com/t/c/font_3963606_euanu18tb3u.woff2?t=1680620361256') format('woff2'),         url('//at.alicdn.com/t/c/font_3963606_euanu18tb3u.woff?t=1680620361256') format('woff'),         url('//at.alicdn.com/t/c/font_3963606_euanu18tb3u.ttf?t=1680620361256') format('truetype');  }    .iconfont {    font-family: "iconfont" !important;    font-size: 22px;    font-style: normal;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;  }    .icon-shouye:before {    content: "\e7cd";  }    .icon-gongneng:before {    content: "\e7ce";  }    .icon-wode:before {    content: "\e7d0";  }    .icon-xitongjicheng:before {    content: "\e7df";  }    .icon-xinwenzixun:before {    content: "\e7e1";  }    .icon-xiangmu:before {    content: "\e7f7";  }  ]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* 文章页H1-H6图标样式效果 */h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {    -webkit-animation: ccc 1.6s linear infinite ;    animation: ccc 1.6s linear infinite ;}@-webkit-keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}@keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}#content-inner.layout h1:hover, #content-inner.layout h2:hover, #content-inner.layout h3:hover, #content-inner.layout h4:hover, #content-inner.layout h5:hover, #content-inner.layout h6:hover {    color: #49b1f5 ;}#content-inner.layout h1:hover::after, #content-inner.layout h2:hover::after, #content-inner.layout h3:hover::after, #content-inner.layout h4:hover::after, #content-inner.layout h5:hover::after, #content-inner.layout h6:hover::after {    color: #49b1f5 ;    -webkit-animation: ccc 3.2s linear infinite ;    animation: ccc 3.2s linear infinite ;}#content-inner.layout h1::after {    color: #ef50a8 ;    margin-left: -1.55rem;    font-size: 1.3rem;    margin-top: -0.23rem;}#content-inner.layout h2::after {    color: #fb7061 ;    margin-left: -1.35rem;    font-size: 1.1rem;    margin-top: -0.12rem;}#content-inner.layout h3::after {    color: #ffbf00 ;    margin-left: -1.22rem;    font-size: 0.95rem;    margin-top: -0.09rem;}#content-inner.layout h4::after {    color: #a9e000 ;    margin-left: -1.05rem;    font-size: 0.8rem;    margin-top: -0.09rem;}#content-inner.layout h5::after {    color: #57c850 ;    margin-left: -0.9rem;    font-size: 0.7rem;    margin-top: 0.0rem;}#content-inner.layout h6::after {    color: #5ec1e0 ;    margin-left: -0.9rem;    font-size: 0.66rem;    margin-top: 0.0rem;}/* 页面设置icon转动速度调整 */#rightside_config i.fas.fa-cog.fa-spin {    animation: fa-spin 5s linear infinite ;}]]></content>
       
     </entry>
     
@@ -402,33 +413,22 @@
     
     
     <entry>
-      <title>论文</title>
-      <link href="/lunwen/index.html"/>
-      <url>/lunwen/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>计算机</title>
-      <link href="/computer/index.html"/>
-      <url>/computer/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/transparent.css"/>
       <url>/css/transparent.css</url>
       
         <content type="html"><![CDATA[/* 主页所有文章页面背景 */#aside_content .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{    /* 以下代表透明度为0.5 */    background: rgba(255, 255, 255, .98);}/*侧边栏页面*/#aside-content>.card-widget  {    background: rgba(255,255,255,.98);}#aside-content>.sticky_layout>.card-widget{    background: rgba(255,255,255,.98);}/*文章页面*/.layout>#post{    background: rgba(255,255,255,.98);}/*分类页面*/.layout>#page{        background: rgba(255,255,255,.98);}/*时间轴页面*/.layout>#archive{    background: rgba(255,255,255,.98);}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -446,9 +446,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>论文</title>
+      <link href="/lunwen/index.html"/>
+      <url>/lunwen/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
