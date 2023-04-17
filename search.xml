@@ -530,9 +530,9 @@
     
     
     <entry>
-      <title>源码资料库</title>
-      <link href="/categor/index.html"/>
-      <url>/categor/index.html</url>
+      <title>计算机</title>
+      <link href="/computer/index.html"/>
+      <url>/computer/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -541,22 +541,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>源码资料库</title>
+      <link href="/categor/index.html"/>
+      <url>/categor/index.html</url>
       
-        <content type="html"><![CDATA[/* 文章页H1-H6图标样式效果 */h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {    -webkit-animation: ccc 1.6s linear infinite ;    animation: ccc 1.6s linear infinite ;}@-webkit-keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}@keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}#content-inner.layout h1:hover, #content-inner.layout h2:hover, #content-inner.layout h3:hover, #content-inner.layout h4:hover, #content-inner.layout h5:hover, #content-inner.layout h6:hover {    color: #49b1f5 ;}#content-inner.layout h1:hover::after, #content-inner.layout h2:hover::after, #content-inner.layout h3:hover::after, #content-inner.layout h4:hover::after, #content-inner.layout h5:hover::after, #content-inner.layout h6:hover::after {    color: #49b1f5 ;    -webkit-animation: ccc 3.2s linear infinite ;    animation: ccc 3.2s linear infinite ;}#content-inner.layout h1::after {    color: #ef50a8 ;    margin-left: -1.55rem;    font-size: 1.3rem;    margin-top: -0.23rem;}#content-inner.layout h2::after {    color: #fb7061 ;    margin-left: -1.35rem;    font-size: 1.1rem;    margin-top: -0.12rem;}#content-inner.layout h3::after {    color: #ffbf00 ;    margin-left: -1.22rem;    font-size: 0.95rem;    margin-top: -0.09rem;}#content-inner.layout h4::after {    color: #a9e000 ;    margin-left: -1.05rem;    font-size: 0.8rem;    margin-top: -0.09rem;}#content-inner.layout h5::after {    color: #57c850 ;    margin-left: -0.9rem;    font-size: 0.7rem;    margin-top: 0.0rem;}#content-inner.layout h6::after {    color: #5ec1e0 ;    margin-left: -0.9rem;    font-size: 0.66rem;    margin-top: 0.0rem;}/* 页面设置icon转动速度调整 */#rightside_config i.fas.fa-cog.fa-spin {    animation: fa-spin 5s linear infinite ;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/icon.css"/>
-      <url>/css/icon.css</url>
-      
-        <content type="html"><![CDATA[@font-face {    font-family: "iconfont"; /* Project id 3963606 */    src: url('//at.alicdn.com/t/c/font_3963606_euanu18tb3u.woff2?t=1680620361256') format('woff2'),         url('//at.alicdn.com/t/c/font_3963606_euanu18tb3u.woff?t=1680620361256') format('woff'),         url('//at.alicdn.com/t/c/font_3963606_euanu18tb3u.ttf?t=1680620361256') format('truetype');  }    .iconfont {    font-family: "iconfont" !important;    font-size: 22px;    font-style: normal;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;  }    .icon-shouye:before {    content: "\e7cd";  }    .icon-gongneng:before {    content: "\e7ce";  }    .icon-wode:before {    content: "\e7d0";  }    .icon-xitongjicheng:before {    content: "\e7df";  }    .icon-xinwenzixun:before {    content: "\e7e1";  }    .icon-xiangmu:before {    content: "\e7f7";  }  ]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -575,6 +564,17 @@
     
     <entry>
       <title></title>
+      <link href="/css/icon.css"/>
+      <url>/css/icon.css</url>
+      
+        <content type="html"><![CDATA[@font-face {    font-family: "iconfont"; /* Project id 3963606 */    src: url('//at.alicdn.com/t/c/font_3963606_euanu18tb3u.woff2?t=1680620361256') format('woff2'),         url('//at.alicdn.com/t/c/font_3963606_euanu18tb3u.woff?t=1680620361256') format('woff'),         url('//at.alicdn.com/t/c/font_3963606_euanu18tb3u.ttf?t=1680620361256') format('truetype');  }    .iconfont {    font-family: "iconfont" !important;    font-size: 22px;    font-style: normal;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;  }    .icon-shouye:before {    content: "\e7cd";  }    .icon-gongneng:before {    content: "\e7ce";  }    .icon-wode:before {    content: "\e7d0";  }    .icon-xitongjicheng:before {    content: "\e7df";  }    .icon-xinwenzixun:before {    content: "\e7e1";  }    .icon-xiangmu:before {    content: "\e7f7";  }  ]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/css/iconfont.css"/>
       <url>/css/iconfont.css</url>
       
@@ -585,22 +585,22 @@
     
     
     <entry>
-      <title>计算机</title>
-      <link href="/computer/index.html"/>
-      <url>/computer/index.html</url>
+      <title></title>
+      <link href="/css/nav.css"/>
+      <url>/css/nav.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[#nav-right {    flex: 1 1 auto;    justify-content: flex-end;    margin-left: auto;    display: flex;    flex-wrap: nowrap;}#nav *::after {    background-color: transparent !important;}#nav {    font-size: 22px !important;}.site-page {    padding: 5px;    margin: 3px;    padding-left: 10px;    padding-right: 10px;    white-space: nowrap;    font-size: 0.78em;}.site-page:hover {    background-color: var(--mlemontx-theme);    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 7px;}.site-page.child:hover {    background-color: var(--mlemontx-theme) !important;    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 4px;}.menus_item_child li:not(#sidebar-menus li) {    float: left;    border-radius: 6px !important;    -webkit-border-radius: 6px !important;    -moz-border-radius: 6px !important;    -ms-border-radius: 6px !important;    -o-border-radius: 6px !important;}.menus_item_child:not(#sidebar-menus ul) {    left: 50%;    translate: -50%;}#blog-info a {    padding: 8px}.site-name::before {    opacity: 0;    background-color: var(--mlemontx-theme) !important;    border-radius: 12px;    -webkit-border-radius: 12px;    -moz-border-radius: 12px;    -ms-border-radius: 12px;    -o-border-radius: 12px;    transition: .3s;    -webkit-transition: .3s;    -moz-transition: .3s;    -ms-transition: .3s;    -o-transition: .3s;    position: absolute;    top: 0 !important;    right: 0 !important;    width: 100%;    height: 100%;    content: "\f015";    box-shadow: 0 0 5px var(--mlemontx-theme);    font-family: "Font Awesome 6 Free";    text-align: center;    color: white;    line-height: 34px;    font-size: 18px;}.site-name:hover::before {    opacity: 1;    scale: 1.03;}.site-name {    position: relative;    font-size: 24px;}.nav-fixed #nav {    transform: translateY(58px) !important;    -webkit-transform: translateY(58px) !important;    -moz-transform: translateY(58px) !important;    -ms-transform: translateY(58px) !important;    -o-transform: translateY(58px) !important;}#nav {    transition: none !important;    -webkit-transition: none !important;    -moz-transition: none !important;    -ms-transition: none !important;    -o-transition: none !important;}#page-name::before {    font-size: 18px;    position: absolute;    width: 100%;    height: 100%;    border-radius: 8px;    color: white !important;    top: 0;    left: 0;    content: '回到顶部';    background-color: var(--mlemontx-theme);    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;    opacity: 0;    box-shadow: 0 0 3px var(--mlemontx-theme);    line-height: 45px;}#page-name:hover:before {    opacity: 1;}@media screen and (max-width: 900px) {    #page-name, #menus {        display: none !important;    }}#name-container {    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;}#name-container:hover {    scale: 1.03;}#page-name {    position: relative;    padding: 10px 30px;}#nav {    padding: 0 20px;}]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>高数</title>
-      <link href="/gaoshu/index.html"/>
-      <url>/gaoshu/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/* 文章页H1-H6图标样式效果 */h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {    -webkit-animation: ccc 1.6s linear infinite ;    animation: ccc 1.6s linear infinite ;}@-webkit-keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}@keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}#content-inner.layout h1:hover, #content-inner.layout h2:hover, #content-inner.layout h3:hover, #content-inner.layout h4:hover, #content-inner.layout h5:hover, #content-inner.layout h6:hover {    color: #49b1f5 ;}#content-inner.layout h1:hover::after, #content-inner.layout h2:hover::after, #content-inner.layout h3:hover::after, #content-inner.layout h4:hover::after, #content-inner.layout h5:hover::after, #content-inner.layout h6:hover::after {    color: #49b1f5 ;    -webkit-animation: ccc 3.2s linear infinite ;    animation: ccc 3.2s linear infinite ;}#content-inner.layout h1::after {    color: #ef50a8 ;    margin-left: -1.55rem;    font-size: 1.3rem;    margin-top: -0.23rem;}#content-inner.layout h2::after {    color: #fb7061 ;    margin-left: -1.35rem;    font-size: 1.1rem;    margin-top: -0.12rem;}#content-inner.layout h3::after {    color: #ffbf00 ;    margin-left: -1.22rem;    font-size: 0.95rem;    margin-top: -0.09rem;}#content-inner.layout h4::after {    color: #a9e000 ;    margin-left: -1.05rem;    font-size: 0.8rem;    margin-top: -0.09rem;}#content-inner.layout h5::after {    color: #57c850 ;    margin-left: -0.9rem;    font-size: 0.7rem;    margin-top: 0.0rem;}#content-inner.layout h6::after {    color: #5ec1e0 ;    margin-left: -0.9rem;    font-size: 0.66rem;    margin-top: 0.0rem;}/* 页面设置icon转动速度调整 */#rightside_config i.fas.fa-cog.fa-spin {    animation: fa-spin 5s linear infinite ;}]]></content>
       
     </entry>
     
@@ -618,11 +618,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/nav.css"/>
-      <url>/css/nav.css</url>
+      <title>高数</title>
+      <link href="/gaoshu/index.html"/>
+      <url>/gaoshu/index.html</url>
       
-        <content type="html"><![CDATA[#nav-right {    flex: 1 1 auto;    justify-content: flex-end;    margin-left: auto;    display: flex;    flex-wrap: nowrap;}#nav *::after {    background-color: transparent !important;}#nav {    font-size: 22px !important;}.site-page {    padding: 5px;    margin: 3px;    padding-left: 10px;    padding-right: 10px;    white-space: nowrap;    font-size: 0.78em;}.site-page:hover {    background-color: var(--mlemontx-theme);    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 7px;}.site-page.child:hover {    background-color: var(--mlemontx-theme) !important;    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 4px;}.menus_item_child li:not(#sidebar-menus li) {    float: left;    border-radius: 6px !important;    -webkit-border-radius: 6px !important;    -moz-border-radius: 6px !important;    -ms-border-radius: 6px !important;    -o-border-radius: 6px !important;}.menus_item_child:not(#sidebar-menus ul) {    left: 50%;    translate: -50%;}#blog-info a {    padding: 8px}.site-name::before {    opacity: 0;    background-color: var(--mlemontx-theme) !important;    border-radius: 12px;    -webkit-border-radius: 12px;    -moz-border-radius: 12px;    -ms-border-radius: 12px;    -o-border-radius: 12px;    transition: .3s;    -webkit-transition: .3s;    -moz-transition: .3s;    -ms-transition: .3s;    -o-transition: .3s;    position: absolute;    top: 0 !important;    right: 0 !important;    width: 100%;    height: 100%;    content: "\f015";    box-shadow: 0 0 5px var(--mlemontx-theme);    font-family: "Font Awesome 6 Free";    text-align: center;    color: white;    line-height: 34px;    font-size: 18px;}.site-name:hover::before {    opacity: 1;    scale: 1.03;}.site-name {    position: relative;    font-size: 24px;}.nav-fixed #nav {    transform: translateY(58px) !important;    -webkit-transform: translateY(58px) !important;    -moz-transform: translateY(58px) !important;    -ms-transform: translateY(58px) !important;    -o-transform: translateY(58px) !important;}#nav {    transition: none !important;    -webkit-transition: none !important;    -moz-transition: none !important;    -ms-transition: none !important;    -o-transition: none !important;}#page-name::before {    font-size: 18px;    position: absolute;    width: 100%;    height: 100%;    border-radius: 8px;    color: white !important;    top: 0;    left: 0;    content: '回到顶部';    background-color: var(--mlemontx-theme);    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;    opacity: 0;    box-shadow: 0 0 3px var(--mlemontx-theme);    line-height: 45px;}#page-name:hover:before {    opacity: 1;}@media screen and (max-width: 900px) {    #page-name, #menus {        display: none !important;    }}#name-container {    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;}#name-container:hover {    scale: 1.03;}#page-name {    position: relative;    padding: 10px 30px;}#nav {    padding: 0 20px;}]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -651,9 +662,9 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>论文</title>
+      <link href="/lunwen/index.html"/>
+      <url>/lunwen/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -665,17 +676,6 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>论文</title>
-      <link href="/lunwen/index.html"/>
-      <url>/lunwen/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
