@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>高数基础（四）不定积分</title>
+      <link href="/post/5617ee13.html"/>
+      <url>/post/5617ee13.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、不定积分的概念与性质"><a href="#一、不定积分的概念与性质" class="headerlink" title="一、不定积分的概念与性质"></a>一、不定积分的概念与性质</h2><h3 id="1、原函数"><a href="#1、原函数" class="headerlink" title="1、原函数"></a>1、原函数</h3><p><img src="/post/5617ee13/img_23041701.png"></p><hr><h3 id="2、不定积分"><a href="#2、不定积分" class="headerlink" title="2、不定积分"></a>2、不定积分</h3><hr><h3 id="3、不定积分的几何意义"><a href="#3、不定积分的几何意义" class="headerlink" title="3、不定积分的几何意义"></a>3、不定积分的几何意义</h3><hr><h3 id="4、原函数存在定理"><a href="#4、原函数存在定理" class="headerlink" title="4、原函数存在定理"></a>4、原函数存在定理</h3><p><img src="/post/5617ee13/img_23041702.png"></p><hr><h3 id="例题1"><a href="#例题1" class="headerlink" title="例题1"></a>例题1</h3><p><img src="/post/5617ee13/img_23041703.png"></p><p><img src="/post/5617ee13/img_23041704.png"></p><p><img src="/post/5617ee13/img_23041705.png"></p><hr><h3 id="5、不定积分的性质"><a href="#5、不定积分的性质" class="headerlink" title="5、不定积分的性质"></a>5、不定积分的性质</h3><p><img src="/post/5617ee13/img_23041706.png"></p><hr><h2 id="二、不定积分基本公式"><a href="#二、不定积分基本公式" class="headerlink" title="二、不定积分基本公式"></a>二、不定积分基本公式</h2><p><img src="/post/5617ee13/img_23041707.png"></p><p><img src="/post/5617ee13/img_23041708.png"></p><hr><h3 id="例题2"><a href="#例题2" class="headerlink" title="例题2"></a>例题2</h3><p><img src="/post/5617ee13/img_23041709.png"></p><p><img src="/post/5617ee13/img_23041710.png"></p><hr><h2 id="三、三种主要积分法"><a href="#三、三种主要积分法" class="headerlink" title="三、三种主要积分法"></a>三、三种主要积分法</h2><h3 id="1、第一换元积分法"><a href="#1、第一换元积分法" class="headerlink" title="1、第一换元积分法"></a>1、第一换元积分法</h3><p><img src="/post/5617ee13/img_23041711.png"></p><hr><h3 id="例题3"><a href="#例题3" class="headerlink" title="例题3"></a>例题3</h3><p><img src="/post/5617ee13/img_23041712.png"></p><p><img src="/post/5617ee13/img_23041713.png"></p><p><img src="/post/5617ee13/img_23041714.png"></p><hr><h3 id="例题4"><a href="#例题4" class="headerlink" title="例题4"></a>例题4</h3><p><img src="/post/5617ee13/img_23041715.png"></p><hr><h3 id="例题5"><a href="#例题5" class="headerlink" title="例题5"></a>例题5</h3><p><img src="/post/5617ee13/img_23041716.png"></p><hr><h3 id="2、第二换元积分法"><a href="#2、第二换元积分法" class="headerlink" title="2、第二换元积分法"></a>2、第二换元积分法</h3><p><img src="/post/5617ee13/img_23041717.png"></p><hr><h3 id="例题6"><a href="#例题6" class="headerlink" title="例题6"></a>例题6</h3><p><img src="/post/5617ee13/img_23041718.png"></p><p><img src="/post/5617ee13/img_23041719.png"></p><p><img src="/post/5617ee13/img_23041720.png"></p><p><img src="/post/5617ee13/img_23041721.png"></p><p><img src="/post/5617ee13/img_23041722.png"></p><hr><h3 id="3、分部积分法"><a href="#3、分部积分法" class="headerlink" title="3、分部积分法"></a>3、分部积分法</h3><p><img src="/post/5617ee13/img_23041723.png"></p><hr><h3 id="例题7"><a href="#例题7" class="headerlink" title="例题7"></a>例题7</h3><p><img src="/post/5617ee13/img_23041724.png"></p><hr><h3 id="例题8"><a href="#例题8" class="headerlink" title="例题8"></a>例题8</h3><p><img src="/post/5617ee13/img_23041725.png"></p><hr><h3 id="例题9"><a href="#例题9" class="headerlink" title="例题9"></a>例题9</h3><p><img src="/post/5617ee13/img_23041726.png"></p><hr><h2 id="四、三类常见可积函数积分"><a href="#四、三类常见可积函数积分" class="headerlink" title="四、三类常见可积函数积分"></a>四、三类常见可积函数积分</h2><h3 id="1、有理函数积分"><a href="#1、有理函数积分" class="headerlink" title="1、有理函数积分"></a>1、有理函数积分</h3><p><img src="/post/5617ee13/img_23041727.png"></p><hr><h3 id="例题10"><a href="#例题10" class="headerlink" title="例题10"></a>例题10</h3><p><img src="/post/5617ee13/img_23041728.png"></p><hr><h3 id="例题11"><a href="#例题11" class="headerlink" title="例题11"></a>例题11</h3><p><img src="/post/5617ee13/img_23041729.png"></p><hr><h3 id="例题12"><a href="#例题12" class="headerlink" title="例题12"></a>例题12</h3><p><img src="/post/5617ee13/img_23041730.png"></p><hr><h3 id="2、三角有理式积分"><a href="#2、三角有理式积分" class="headerlink" title="2、三角有理式积分"></a>2、三角有理式积分</h3><p><img src="/post/5617ee13/img_23041731.png"></p><hr><h3 id="例题13"><a href="#例题13" class="headerlink" title="例题13"></a>例题13</h3><p><img src="/post/5617ee13/img_23041732.png"></p><hr><h3 id="例题14"><a href="#例题14" class="headerlink" title="例题14"></a>例题14</h3><p><img src="/post/5617ee13/img_23041733.png"></p><hr><h3 id="例题15-16"><a href="#例题15-16" class="headerlink" title="例题15~16"></a>例题15~16</h3><p><img src="/post/5617ee13/img_23041734.png"></p><hr><h3 id="3、简单无理函数积分"><a href="#3、简单无理函数积分" class="headerlink" title="3、简单无理函数积分"></a>3、简单无理函数积分</h3><p><img src="/post/5617ee13/img_23041735.png"></p><hr><h3 id="例题17"><a href="#例题17" class="headerlink" title="例题17"></a>例题17</h3><p><img src="/post/5617ee13/img_23041736.png"></p><p><img src="/post/5617ee13/img_23041737.png"></p><hr><h2 id="常考题型与典型例题"><a href="#常考题型与典型例题" class="headerlink" title="常考题型与典型例题"></a>常考题型与典型例题</h2><p>求不定积分（换元、分部）</p><hr><h3 id="例题18"><a href="#例题18" class="headerlink" title="例题18"></a>例题18</h3><p><img src="/post/5617ee13/img_23041738.png"></p><hr><h3 id="例题19"><a href="#例题19" class="headerlink" title="例题19"></a>例题19</h3><p><img src="/post/5617ee13/img_23041739.png"></p><hr><h3 id="例题20"><a href="#例题20" class="headerlink" title="例题20"></a>例题20</h3><p><img src="/post/5617ee13/img_23041740.png"></p><hr><h3 id="例题21"><a href="#例题21" class="headerlink" title="例题21"></a>例题21</h3><p><img src="/post/5617ee13/img_23041741.png"></p><hr><h3 id="例题22"><a href="#例题22" class="headerlink" title="例题22"></a>例题22</h3><p><img src="/post/5617ee13/img_23041742.png"></p><p><img src="/post/5617ee13/img_23041743.png"></p><hr><h3 id="例题23"><a href="#例题23" class="headerlink" title="例题23"></a>例题23</h3><p><img src="/post/5617ee13/img_23041744.png"></p><hr><h3 id="例题24"><a href="#例题24" class="headerlink" title="例题24"></a>例题24</h3><p><img src="/post/5617ee13/img_23041745.png"></p><hr><h3 id="例题25"><a href="#例题25" class="headerlink" title="例题25"></a>例题25</h3><p><img src="/post/5617ee13/img_23041746.png"></p><hr><h3 id="例题26"><a href="#例题26" class="headerlink" title="例题26"></a>例题26</h3><p><img src="/post/5617ee13/img_23041747.png"></p><hr><p>内容取自武忠祥老师基础班教程，参考书《高等数学·基础篇》</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 高数 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高数 </tag>
+            
+            <tag> 高数基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>考研英语二阅读真题词汇（七）</title>
       <link href="/post/795dafa6.html"/>
       <url>/post/795dafa6.html</url>
@@ -251,7 +278,7 @@
       <link href="/post/c2b5e386.html"/>
       <url>/post/c2b5e386.html</url>
       
-        <content type="html"><![CDATA[<h1 id="一、【前言】"><a href="#一、【前言】" class="headerlink" title="一、【前言】"></a>一、【前言】</h1><!-- <div style="写css样式 如:display:inline;"> --><p align="justify" style="text-indent:2em">Markdown 是一种轻量级标记语言，它用简洁的语法代替排版，使我们专心于码字。它的目标是实现易读易写，成为一种适用于网络的书写语言。同时，Markdown支持嵌入html标签。</p><p align="justify" style="text-indent:2em">通过使用Github Pages + butterfly的方法也算是搭建了一个属于自己的博客，由于之后post主要都以markdown的文章发布，所以我总结了markdown一些实用的语法（结合了HTML语法），都是自己亲测的。</p><h1 id="二、标题"><a href="#二、标题" class="headerlink" title="二、标题"></a>二、标题</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 这是一级标题,也就是字最大的</span><br><span class="line">## 这是二级标题</span><br><span class="line">### 这是三级标题</span><br><span class="line">#### 这是四级标题</span><br><span class="line">##### 这是五级标题</span><br><span class="line">###### 这是六级标题</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><h2 id="这是一级标题-也就是字最大的"><a href="#这是一级标题-也就是字最大的" class="headerlink" title="这是一级标题,也就是字最大的"></a>这是一级标题,也就是字最大的</h2><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><hr><p>也可以使用html的 <b>h1~h6</b>标签：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;h1&gt;这是一级标题,也就是字最大的&lt;/h1&gt;</span><br><span class="line">&lt;h2&gt;这是二级标题的&lt;/h2&gt;</span><br><span class="line">&lt;h3&gt;这是三级标题&lt;/h3&gt;</span><br><span class="line">&lt;h4&gt;这是四级标题&lt;/h41&gt;</span><br><span class="line">&lt;h5&gt;这是五级标题&lt;/h5&gt;</span><br><span class="line">&lt;h6&gt;这是六级标题&lt;/h6&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><h1>这是一级标题,也就是字最大的</h1><h2>这是二级标题的</h2><h3>这是三级标题</h3><h4>这是四级标题<h5>这是五级标题</h5><h6>这是六级标题</h6><h1 id="三、字体"><a href="#三、字体" class="headerlink" title="三、字体"></a>三、字体</h1><ul><li><p><strong>加粗</strong></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">**这里是要加粗的字体**</span><br></pre></td></tr></table></figure></li><li><p><b>加粗</b></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;b&gt;这里是要加粗的字体&lt;/b&gt;</span><br></pre></td></tr></table></figure></li><li><p><strong>加粗</strong></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;strong&gt;这里是要加粗的字体&lt;/strong&gt;</span><br></pre></td></tr></table></figure></li></ul><hr><ul><li><p><em>斜体</em></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">*这里是要倾斜的字体*</span><br></pre></td></tr></table></figure></li><li><p><i>斜体</i></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;i&gt;这里是要倾斜的字体&lt;/i&gt;</span><br></pre></td></tr></table></figure></li><li><p><em>斜体</em></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;i&gt;这里是要倾斜的字体&lt;/i&gt;</span><br></pre></td></tr></table></figure></li></ul><hr><ul><li><p><em><strong>斜体加粗</strong></em></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">***这里是要斜体并且加粗的字体***</span><br></pre></td></tr></table></figure></li></ul><hr><ul><li><p><del>删除线</del></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">~~这里是要打删除线的字体~~</span><br></pre></td></tr></table></figure></li><li><p><del>删除线</del></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;del&gt;这里是要打删除线的字体&lt;/del&gt;</span><br></pre></td></tr></table></figure><hr></li><li><p><u>下划线</u></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;u&gt;这里是要加下划线的字体&lt;/u&gt;</span><br></pre></td></tr></table></figure></li></ul><h1 id="四、分割线"><a href="#四、分割线" class="headerlink" title="四、分割线"></a>四、分割线</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">----</span><br><span class="line">***</span><br><span class="line">****</span><br></pre></td></tr></table></figure><h1 id="五、图片"><a href="#五、图片" class="headerlink" title="五、图片"></a>五、图片</h1><p>Markdown中的图片分为三个部分，分别是“图片介绍”，“图床地址”和“图片信息title”</p><ul><li>图片介绍是在图片如果加载失败的时候，将会显示的文字内容</li><li>图床地址用于填写图片存放的位置</li><li>图片信息显示的title，为鼠标移动到图片上面的时候显示的小字内容(可有可无)</li></ul><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![图片介绍](图片url &quot;图片信息显示&quot;) # ![背景](https://lsky.halc.top/LY53bA.jpg)</span><br><span class="line">![可以不写](/文件夹名字/图片名字) # ![](/风景图库/img.png)</span><br></pre></td></tr></table></figure><h1 id="六、超链接"><a href="#六、超链接" class="headerlink" title="六、超链接"></a>六、超链接</h1><h3 id="（1）文本超链接"><a href="#（1）文本超链接" class="headerlink" title="（1）文本超链接"></a>（1）文本超链接</h3><p>超链接的语法和图片的语法很像，唯一的区别就是前面是否有那个感叹号，示例如下:</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[超链接的内容](超链接地址 &quot;超链接的title&quot;) # [百度](http://baidu.com)</span><br></pre></td></tr></table></figure><p>也可以使用html的 <b>a</b> 标签：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;a href=&quot;超链接地址&quot; target=&quot;规定在何处打开目标 URL；_blank：新窗口打开；_parent：在父窗口中打开链接；_self：默认，当前页面跳转；_top：在当前窗体打开链接，并替换当前的整个窗体(框架页)&quot;&gt;超链接名&lt;/a&gt;</span><br><span class="line"># &lt;a href=&quot;https://www.luckylyh.top/index.html&quot; target=&quot;_blank&quot;&gt;LUCKY的博客&lt;/a&gt;</span><br></pre></td></tr></table></figure><h3 id="（2）图片超链接"><a href="#（2）图片超链接" class="headerlink" title="（2）图片超链接"></a>（2）图片超链接</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;a href=&quot;超链接地址&quot;&gt;</span><br><span class="line">&lt;img  border=&quot;规定图像周围的边框&quot; src=&quot;规定显示图像的 URL&quot; alt=&quot;规定图像的替代文本&quot; width=&quot;规定图像的宽度&quot; height=&quot;规定图像的高度&quot;&gt;&lt;/a&gt;</span><br><span class="line"></span><br><span class="line"># &lt;p&gt;创建图片链接:</span><br><span class="line"># &lt;a href=&quot;https://www.luckylyh.top/index.html&quot;&gt;</span><br><span class="line"># &lt;img  border=&quot;10&quot; src=&quot;smiley.gif&quot; alt=&quot;LUCKY的博客&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;&lt;/a&gt;&lt;/p&gt;</span><br><span class="line"></span><br><span class="line"># &lt;p&gt;无边框的图片链接:</span><br><span class="line"># &lt;a href=&quot;https://www.luckylyh.top/index.html&quot;&gt;</span><br><span class="line"># &lt;img border=&quot;0&quot; src=&quot;smiley.gif&quot; alt=&quot;LUCKY的博客&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;&lt;/a&gt;&lt;/p&gt;</span><br></pre></td></tr></table></figure><h1 id="七、列表"><a href="#七、列表" class="headerlink" title="七、列表"></a>七、列表</h1><h3 id="（1）无序列表"><a href="#（1）无序列表" class="headerlink" title="（1）无序列表"></a>（1）无序列表</h3><p><b>语法：</b>无序列表使用’-&#x2F;+&#x2F;*’的任意一种符号都可以达到效果。</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">- 内容</span><br><span class="line">+ 内容</span><br><span class="line">* 内容</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><ul><li>内容</li></ul><ul><li>内容</li></ul><ul><li>内容</li></ul><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;li&gt;内容&lt;/li&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><li>内容</li><li>内容</li><li>内容</li><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;p&gt;内容:&lt;/p&gt;</span><br><span class="line">&lt;ul&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;/ul&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><p>内容:</p><ul>  <li>内容</li>  <li>内容</li>  <li>内容</li></ul><hr><h3 id="（2）有序列表"><a href="#（2）有序列表" class="headerlink" title="（2）有序列表"></a>（2）有序列表</h3><p>通过从无序列表进行引申，可以得到有序列表的语法内容:</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1. 内容</span><br><span class="line">2. 内容</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><ol><li>内容</li><li>内容</li></ol><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;ol&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;/ol&gt;</span><br><span class="line"></span><br><span class="line">&lt;ol start=&quot;一个整数值属性，指定了列表编号的起始值。如：50&quot;&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;/ol&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><ol>  <li>内容</li>  <li>内容</li>  <li>内容</li></ol><ol start="50">  <li>内容</li>  <li>内容</li>  <li>内容</li></ol><hr><h3 id="（3）嵌套列表"><a href="#（3）嵌套列表" class="headerlink" title="（3）嵌套列表"></a>（3）嵌套列表</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">- 内容</span><br><span class="line">    - 内容1</span><br><span class="line">    - 内容2</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;p&gt;嵌套列表：&lt;/p&gt;</span><br><span class="line">&lt;ul&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容</span><br><span class="line">    &lt;ul&gt;</span><br><span class="line">      &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">      &lt;li&gt;内容</span><br><span class="line">        &lt;ul&gt;</span><br><span class="line">          &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">          &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">        &lt;/ul&gt;</span><br><span class="line">      &lt;/li&gt;</span><br><span class="line">    &lt;/ul&gt;</span><br><span class="line">  &lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;/ul&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><p>嵌套列表：</p><ul>  <li>内容</li>  <li>内容    <ul>      <li>内容</li>      <li>内容        <ul>          <li>内容</li>          <li>内容</li>        </ul>      </li>    </ul>  </li>  <li>内容</li></ul><hr><h3 id="（4）自定义列表"><a href="#（4）自定义列表" class="headerlink" title="（4）自定义列表"></a>（4）自定义列表</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;p&gt;自定义列表：&lt;/p&gt;</span><br><span class="line">&lt;dl&gt;</span><br><span class="line">  &lt;dt&gt;内容&lt;/dt&gt;</span><br><span class="line">  &lt;dd&gt;- 内容&lt;/dd&gt;</span><br><span class="line">  &lt;dt&gt;内容&lt;/dt&gt;</span><br><span class="line">  &lt;dd&gt;- 内容&lt;/dd&gt;</span><br><span class="line">&lt;/dl&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><p>自定义列表：</p><dl>  <dt>内容</dt>  <dd>- 内容</dd>  <dt>内容</dt>  <dd>- 内容</dd></dl><h1 id="八、表格"><a href="#八、表格" class="headerlink" title="八、表格"></a>八、表格</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">|表头|表头|表头|</span><br><span class="line">|---|:--:|---:|</span><br><span class="line">|内容|内容|内容|</span><br><span class="line">|内容|内容|内容|</span><br><span class="line"></span><br><span class="line">&gt;第二行分割表头和内容。</span><br><span class="line">&gt;- 有一个就行，为了对齐，多加了几个</span><br><span class="line">&gt;文字默认居左</span><br><span class="line">&gt;-两边加：表示文字居中</span><br><span class="line">&gt;-右边加：表示文字居右</span><br><span class="line">&gt;注：原生的语法两边都要用 | 包起来。此处省略</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><table><thead><tr><th>表头</th><th align="center">表头</th><th align="right">表头</th></tr></thead><tbody><tr><td>内容</td><td align="center">内容</td><td align="right">内容</td></tr><tr><td>内容</td><td align="center">内容</td><td align="right">内容</td></tr></tbody></table><hr><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;p&gt;没有单元格间距:&lt;/p&gt;</span><br><span class="line">&lt;table border=&quot;1&quot;&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;/table&gt;</span><br><span class="line"></span><br><span class="line">&lt;p&gt;单元格间距=&quot;0&quot;:&lt;/p&gt;</span><br><span class="line">&lt;table border=&quot;1&quot; cellspacing=&quot;0&quot;&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;/table&gt;</span><br><span class="line"></span><br><span class="line">&lt;p&gt;单元格间距=&quot;10&quot;:&lt;/p&gt;</span><br><span class="line">&lt;table border=&quot;1&quot; cellspacing=&quot;10&quot;&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;/table&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><h4>没有单元格间距:</h4><table border="1"><tr>  <td>内容</td>  <td>内容</td></tr><tr>  <td>内容</td>  <td>内容</td></tr></table><h4>单元格间距="0":</h4><table border="1" cellspacing="0"><tr>  <td>内容</td>  <td>内容</td></tr><tr>  <td>内容</td>  <td>内容</td></tr></table><h4>单元格间距="10":</h4><table border="1" cellspacing="10"><tr>  <td>内容</td>  <td>内容</td></tr><tr>  <td>内容</td>  <td>内容</td></tr></table><h1 id="九、文章对齐与首行缩进"><a href="#九、文章对齐与首行缩进" class="headerlink" title="九、文章对齐与首行缩进"></a>九、文章对齐与首行缩进</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;p align = &quot; 规定段落中文本的对齐方式。left(左对齐)；right(右对齐)；center(中间对齐)；justify(两端对齐)&quot; style = &quot;规定元素的行内样式。text-indent:属性规定文本块中首行文本的缩进；2em：缩进两个字符&quot;&gt;px单位名称为像素，相对长度单位，像素（px）是相对于显示器屏幕分辨率而言的国内推荐；em单位名称为相对长度单位。相对于当前对象内文本的字体尺寸，国外使用比较多；pt单位名称为点（Point），绝对长度单位一般老版本的table使用长度大小单位但是基本上没有再使用。1. 以前IE无法调整那些使用px作为单位的字体大小,但后来几乎IE都支持了 在这里也推荐使用PX作为单位;2. 国外的大部分网站能够调整的原因在于其使用了em作为字体单位;3. Firefox能够调整px和em，但是96%以上的中国网民使用IE浏览器(或内核)。px像素(Pixel)。相对长度单位。像素px是相对于显示器屏幕分辨率而言的，QQ截图也是使用PX作为长度宽度单位。em是相对长度单位。相对于当前对象内文本的字体尺寸。如当前对行内文本的字体尺寸未被人为设置，则相对于浏览器的默认字体尺寸。&lt;/p&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><p align="justify" style="text-indent:2em">px单位名称为像素，相对长度单位，像素（px）是相对于显示器屏幕分辨率而言的国内推荐；em单位名称为相对长度单位。相对于当前对象内文本的字体尺寸，国外使用比较多；pt单位名称为点（Point），绝对长度单位一般老版本的table使用长度大小单位但是基本上没有再使用。1. 以前IE无法调整那些使用px作为单位的字体大小,但后来几乎IE都支持了 在这里也推荐使用PX作为单位;2. 国外的大部分网站能够调整的原因在于其使用了em作为字体单位;3. Firefox能够调整px和em，但是96%以上的中国网民使用IE浏览器(或内核)。px像素(Pixel)。相对长度单位。像素px是相对于显示器屏幕分辨率而言的，QQ截图也是使用PX作为长度宽度单位。em是相对长度单位。相对于当前对象内文本的字体尺寸。如当前对行内文本的字体尺寸未被人为设置，则相对于浏览器的默认字体尺寸。</p><hr><p>后续会持续更新！！！</p></h4>]]></content>
+        <content type="html"><![CDATA[<h1 id="一、【前言】"><a href="#一、【前言】" class="headerlink" title="一、【前言】"></a>一、【前言】</h1><!-- <div style="写css样式 如:display:inline;"> --><p align="justify" style="text-indent:2em">Markdown 是一种轻量级标记语言，它用简洁的语法代替排版，使我们专心于码字。它的目标是实现易读易写，成为一种适用于网络的书写语言。同时，Markdown支持嵌入html标签。</p><p align="justify" style="text-indent:2em">通过使用Github Pages + butterfly的方法也算是搭建了一个属于自己的博客，由于之后post主要都以markdown的文章发布，所以我总结了markdown一些实用的语法（结合了HTML语法），都是自己亲测的。</p><h1 id="二、标题"><a href="#二、标题" class="headerlink" title="二、标题"></a>二、标题</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 这是一级标题,也就是字最大的</span><br><span class="line">## 这是二级标题</span><br><span class="line">### 这是三级标题</span><br><span class="line">#### 这是四级标题</span><br><span class="line">##### 这是五级标题</span><br><span class="line">###### 这是六级标题</span><br></pre></td></tr></table></figure><hr><p>也可以使用html的 <b>h1~h6</b>标签：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;h1&gt;这是一级标题,也就是字最大的&lt;/h1&gt;</span><br><span class="line">&lt;h2&gt;这是二级标题的&lt;/h2&gt;</span><br><span class="line">&lt;h3&gt;这是三级标题&lt;/h3&gt;</span><br><span class="line">&lt;h4&gt;这是四级标题&lt;/h41&gt;</span><br><span class="line">&lt;h5&gt;这是五级标题&lt;/h5&gt;</span><br><span class="line">&lt;h6&gt;这是六级标题&lt;/h6&gt;</span><br></pre></td></tr></table></figure><h1 id="三、字体"><a href="#三、字体" class="headerlink" title="三、字体"></a>三、字体</h1><ul><li><p><strong>加粗</strong></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">**这里是要加粗的字体**</span><br></pre></td></tr></table></figure></li><li><p><b>加粗</b></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;b&gt;这里是要加粗的字体&lt;/b&gt;</span><br></pre></td></tr></table></figure></li><li><p><strong>加粗</strong></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;strong&gt;这里是要加粗的字体&lt;/strong&gt;</span><br></pre></td></tr></table></figure></li></ul><hr><ul><li><p><em>斜体</em></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">*这里是要倾斜的字体*</span><br></pre></td></tr></table></figure></li><li><p><i>斜体</i></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;i&gt;这里是要倾斜的字体&lt;/i&gt;</span><br></pre></td></tr></table></figure></li><li><p><em>斜体</em></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;i&gt;这里是要倾斜的字体&lt;/i&gt;</span><br></pre></td></tr></table></figure></li></ul><hr><ul><li><p><em><strong>斜体加粗</strong></em></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">***这里是要斜体并且加粗的字体***</span><br></pre></td></tr></table></figure></li></ul><hr><ul><li><p><del>删除线</del></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">~~这里是要打删除线的字体~~</span><br></pre></td></tr></table></figure></li><li><p><del>删除线</del></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;del&gt;这里是要打删除线的字体&lt;/del&gt;</span><br></pre></td></tr></table></figure></li></ul><hr><ul><li><p><u>下划线</u></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;u&gt;这里是要加下划线的字体&lt;/u&gt;</span><br></pre></td></tr></table></figure></li></ul><h1 id="四、分割线"><a href="#四、分割线" class="headerlink" title="四、分割线"></a>四、分割线</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">----</span><br><span class="line">***</span><br><span class="line">****</span><br></pre></td></tr></table></figure><h1 id="五、图片"><a href="#五、图片" class="headerlink" title="五、图片"></a>五、图片</h1><p>Markdown中的图片分为三个部分，分别是“图片介绍”，“图床地址”和“图片信息title”</p><ul><li>图片介绍是在图片如果加载失败的时候，将会显示的文字内容</li><li>图床地址用于填写图片存放的位置</li><li>图片信息显示的title，为鼠标移动到图片上面的时候显示的小字内容(可有可无)</li></ul><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![图片介绍](图片url &quot;图片信息显示&quot;) # ![背景](https://lsky.halc.top/LY53bA.jpg)</span><br><span class="line">![可以不写](/文件夹名字/图片名字) # ![](/风景图库/img.png)</span><br></pre></td></tr></table></figure><h1 id="六、超链接"><a href="#六、超链接" class="headerlink" title="六、超链接"></a>六、超链接</h1><h3 id="（1）文本超链接"><a href="#（1）文本超链接" class="headerlink" title="（1）文本超链接"></a>（1）文本超链接</h3><p>超链接的语法和图片的语法很像，唯一的区别就是前面是否有那个感叹号，示例如下:</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[超链接的内容](超链接地址 &quot;超链接的title&quot;) # [百度](http://baidu.com)</span><br></pre></td></tr></table></figure><p>也可以使用html的 <b>a</b> 标签：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;a href=&quot;超链接地址&quot; target=&quot;规定在何处打开目标 URL；_blank：新窗口打开；_parent：在父窗口中打开链接；_self：默认，当前页面跳转；_top：在当前窗体打开链接，并替换当前的整个窗体(框架页)&quot;&gt;超链接名&lt;/a&gt;</span><br><span class="line"># &lt;a href=&quot;https://www.luckylyh.top/index.html&quot; target=&quot;_blank&quot;&gt;LUCKY的博客&lt;/a&gt;</span><br></pre></td></tr></table></figure><h3 id="（2）图片超链接"><a href="#（2）图片超链接" class="headerlink" title="（2）图片超链接"></a>（2）图片超链接</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;a href=&quot;超链接地址&quot;&gt;</span><br><span class="line">&lt;img  border=&quot;规定图像周围的边框&quot; src=&quot;规定显示图像的 URL&quot; alt=&quot;规定图像的替代文本&quot; width=&quot;规定图像的宽度&quot; height=&quot;规定图像的高度&quot;&gt;&lt;/a&gt;</span><br><span class="line"></span><br><span class="line"># &lt;p&gt;创建图片链接:</span><br><span class="line"># &lt;a href=&quot;https://www.luckylyh.top/index.html&quot;&gt;</span><br><span class="line"># &lt;img  border=&quot;10&quot; src=&quot;smiley.gif&quot; alt=&quot;LUCKY的博客&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;&lt;/a&gt;&lt;/p&gt;</span><br><span class="line"></span><br><span class="line"># &lt;p&gt;无边框的图片链接:</span><br><span class="line"># &lt;a href=&quot;https://www.luckylyh.top/index.html&quot;&gt;</span><br><span class="line"># &lt;img border=&quot;0&quot; src=&quot;smiley.gif&quot; alt=&quot;LUCKY的博客&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;&lt;/a&gt;&lt;/p&gt;</span><br></pre></td></tr></table></figure><h1 id="七、列表"><a href="#七、列表" class="headerlink" title="七、列表"></a>七、列表</h1><h3 id="（1）无序列表"><a href="#（1）无序列表" class="headerlink" title="（1）无序列表"></a>（1）无序列表</h3><p><b>语法：</b>无序列表使用’-&#x2F;+&#x2F;*’的任意一种符号都可以达到效果。</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">- 内容</span><br><span class="line">+ 内容</span><br><span class="line">* 内容</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><ul><li>内容</li></ul><ul><li>内容</li></ul><ul><li>内容</li></ul><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;li&gt;内容&lt;/li&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><li>内容</li><li>内容</li><li>内容</li><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;p&gt;内容:&lt;/p&gt;</span><br><span class="line">&lt;ul&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;/ul&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><p>内容:</p><ul>  <li>内容</li>  <li>内容</li>  <li>内容</li></ul><hr><h3 id="（2）有序列表"><a href="#（2）有序列表" class="headerlink" title="（2）有序列表"></a>（2）有序列表</h3><p>通过从无序列表进行引申，可以得到有序列表的语法内容:</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1. 内容</span><br><span class="line">2. 内容</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><ol><li>内容</li><li>内容</li></ol><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;ol&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;/ol&gt;</span><br><span class="line"></span><br><span class="line">&lt;ol start=&quot;一个整数值属性，指定了列表编号的起始值。如：50&quot;&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;/ol&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><ol>  <li>内容</li>  <li>内容</li>  <li>内容</li></ol><ol start="50">  <li>内容</li>  <li>内容</li>  <li>内容</li></ol><hr><h3 id="（3）嵌套列表"><a href="#（3）嵌套列表" class="headerlink" title="（3）嵌套列表"></a>（3）嵌套列表</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">- 内容</span><br><span class="line">    - 内容1</span><br><span class="line">    - 内容2</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;p&gt;嵌套列表：&lt;/p&gt;</span><br><span class="line">&lt;ul&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容</span><br><span class="line">    &lt;ul&gt;</span><br><span class="line">      &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">      &lt;li&gt;内容</span><br><span class="line">        &lt;ul&gt;</span><br><span class="line">          &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">          &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">        &lt;/ul&gt;</span><br><span class="line">      &lt;/li&gt;</span><br><span class="line">    &lt;/ul&gt;</span><br><span class="line">  &lt;/li&gt;</span><br><span class="line">  &lt;li&gt;内容&lt;/li&gt;</span><br><span class="line">&lt;/ul&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><p>嵌套列表：</p><ul>  <li>内容</li>  <li>内容    <ul>      <li>内容</li>      <li>内容        <ul>          <li>内容</li>          <li>内容</li>        </ul>      </li>    </ul>  </li>  <li>内容</li></ul><hr><h3 id="（4）自定义列表"><a href="#（4）自定义列表" class="headerlink" title="（4）自定义列表"></a>（4）自定义列表</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;p&gt;自定义列表：&lt;/p&gt;</span><br><span class="line">&lt;dl&gt;</span><br><span class="line">  &lt;dt&gt;内容&lt;/dt&gt;</span><br><span class="line">  &lt;dd&gt;- 内容&lt;/dd&gt;</span><br><span class="line">  &lt;dt&gt;内容&lt;/dt&gt;</span><br><span class="line">  &lt;dd&gt;- 内容&lt;/dd&gt;</span><br><span class="line">&lt;/dl&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><p>自定义列表：</p><dl>  <dt>内容</dt>  <dd>- 内容</dd>  <dt>内容</dt>  <dd>- 内容</dd></dl><h1 id="八、表格"><a href="#八、表格" class="headerlink" title="八、表格"></a>八、表格</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">|表头|表头|表头|</span><br><span class="line">|---|:--:|---:|</span><br><span class="line">|内容|内容|内容|</span><br><span class="line">|内容|内容|内容|</span><br><span class="line"></span><br><span class="line">&gt;第二行分割表头和内容。</span><br><span class="line">&gt;- 有一个就行，为了对齐，多加了几个</span><br><span class="line">&gt;文字默认居左</span><br><span class="line">&gt;-两边加：表示文字居中</span><br><span class="line">&gt;-右边加：表示文字居右</span><br><span class="line">&gt;注：原生的语法两边都要用 | 包起来。此处省略</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><table><thead><tr><th>表头</th><th align="center">表头</th><th align="right">表头</th></tr></thead><tbody><tr><td>内容</td><td align="center">内容</td><td align="right">内容</td></tr><tr><td>内容</td><td align="center">内容</td><td align="right">内容</td></tr></tbody></table><hr><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;p&gt;没有单元格间距:&lt;/p&gt;</span><br><span class="line">&lt;table border=&quot;1&quot;&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;/table&gt;</span><br><span class="line"></span><br><span class="line">&lt;p&gt;单元格间距=&quot;0&quot;:&lt;/p&gt;</span><br><span class="line">&lt;table border=&quot;1&quot; cellspacing=&quot;0&quot;&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;/table&gt;</span><br><span class="line"></span><br><span class="line">&lt;p&gt;单元格间距=&quot;10&quot;:&lt;/p&gt;</span><br><span class="line">&lt;table border=&quot;1&quot; cellspacing=&quot;10&quot;&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;tr&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">  &lt;td&gt;内容&lt;/td&gt;</span><br><span class="line">&lt;/tr&gt;</span><br><span class="line">&lt;/table&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><h4>没有单元格间距:</h4><table border="1"><tr>  <td>内容</td>  <td>内容</td></tr><tr>  <td>内容</td>  <td>内容</td></tr></table><h4>单元格间距="0":</h4><table border="1" cellspacing="0"><tr>  <td>内容</td>  <td>内容</td></tr><tr>  <td>内容</td>  <td>内容</td></tr></table><h4>单元格间距="10":</h4><table border="1" cellspacing="10"><tr>  <td>内容</td>  <td>内容</td></tr><tr>  <td>内容</td>  <td>内容</td></tr></table><h1 id="九、文章对齐与首行缩进"><a href="#九、文章对齐与首行缩进" class="headerlink" title="九、文章对齐与首行缩进"></a>九、文章对齐与首行缩进</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;p align = &quot; 规定段落中文本的对齐方式。left(左对齐)；right(右对齐)；center(中间对齐)；justify(两端对齐)&quot; style = &quot;规定元素的行内样式。text-indent:属性规定文本块中首行文本的缩进；2em：缩进两个字符&quot;&gt;px单位名称为像素，相对长度单位，像素（px）是相对于显示器屏幕分辨率而言的国内推荐；em单位名称为相对长度单位。相对于当前对象内文本的字体尺寸，国外使用比较多；pt单位名称为点（Point），绝对长度单位一般老版本的table使用长度大小单位但是基本上没有再使用。1. 以前IE无法调整那些使用px作为单位的字体大小,但后来几乎IE都支持了 在这里也推荐使用PX作为单位;2. 国外的大部分网站能够调整的原因在于其使用了em作为字体单位;3. Firefox能够调整px和em，但是96%以上的中国网民使用IE浏览器(或内核)。px像素(Pixel)。相对长度单位。像素px是相对于显示器屏幕分辨率而言的，QQ截图也是使用PX作为长度宽度单位。em是相对长度单位。相对于当前对象内文本的字体尺寸。如当前对行内文本的字体尺寸未被人为设置，则相对于浏览器的默认字体尺寸。&lt;/p&gt;</span><br></pre></td></tr></table></figure><p><strong>【效果显示】</strong></p><p align="justify" style="text-indent:2em">px单位名称为像素，相对长度单位，像素（px）是相对于显示器屏幕分辨率而言的国内推荐；em单位名称为相对长度单位。相对于当前对象内文本的字体尺寸，国外使用比较多；pt单位名称为点（Point），绝对长度单位一般老版本的table使用长度大小单位但是基本上没有再使用。1. 以前IE无法调整那些使用px作为单位的字体大小,但后来几乎IE都支持了 在这里也推荐使用PX作为单位;2. 国外的大部分网站能够调整的原因在于其使用了em作为字体单位;3. Firefox能够调整px和em，但是96%以上的中国网民使用IE浏览器(或内核)。px像素(Pixel)。相对长度单位。像素px是相对于显示器屏幕分辨率而言的，QQ截图也是使用PX作为长度宽度单位。em是相对长度单位。相对于当前对象内文本的字体尺寸。如当前对行内文本的字体尺寸未被人为设置，则相对于浏览器的默认字体尺寸。</p><hr><p>后续会持续更新！！！</p>]]></content>
       
       
       <categories>
@@ -464,6 +491,17 @@
     
     
     <entry>
+      <title>C4D</title>
+      <link href="/C4D/index.html"/>
+      <url>/C4D/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/baidu_verify_codeva-Woaz6OQjb1.html"/>
       <url>/baidu_verify_codeva-Woaz6OQjb1.html</url>
@@ -486,20 +524,9 @@
     
     
     <entry>
-      <title>C4D</title>
-      <link href="/C4D/index.html"/>
-      <url>/C4D/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>问题解答区</title>
-      <link href="/arch/index.html"/>
-      <url>/arch/index.html</url>
+      <title>LUCKY</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -519,66 +546,33 @@
     
     
     <entry>
-      <title>源码资料库</title>
-      <link href="/categor/index.html"/>
-      <url>/categor/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>LUCKY</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>计算机</title>
-      <link href="/computer/index.html"/>
-      <url>/computer/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>高数</title>
-      <link href="/gaoshu/index.html"/>
-      <url>/gaoshu/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
         <content type="html"><![CDATA[/* 文章页H1-H6图标样式效果 */h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {    -webkit-animation: ccc 1.6s linear infinite ;    animation: ccc 1.6s linear infinite ;}@-webkit-keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}@keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}#content-inner.layout h1:hover, #content-inner.layout h2:hover, #content-inner.layout h3:hover, #content-inner.layout h4:hover, #content-inner.layout h5:hover, #content-inner.layout h6:hover {    color: #49b1f5 ;}#content-inner.layout h1:hover::after, #content-inner.layout h2:hover::after, #content-inner.layout h3:hover::after, #content-inner.layout h4:hover::after, #content-inner.layout h5:hover::after, #content-inner.layout h6:hover::after {    color: #49b1f5 ;    -webkit-animation: ccc 3.2s linear infinite ;    animation: ccc 3.2s linear infinite ;}#content-inner.layout h1::after {    color: #ef50a8 ;    margin-left: -1.55rem;    font-size: 1.3rem;    margin-top: -0.23rem;}#content-inner.layout h2::after {    color: #fb7061 ;    margin-left: -1.35rem;    font-size: 1.1rem;    margin-top: -0.12rem;}#content-inner.layout h3::after {    color: #ffbf00 ;    margin-left: -1.22rem;    font-size: 0.95rem;    margin-top: -0.09rem;}#content-inner.layout h4::after {    color: #a9e000 ;    margin-left: -1.05rem;    font-size: 0.8rem;    margin-top: -0.09rem;}#content-inner.layout h5::after {    color: #57c850 ;    margin-left: -0.9rem;    font-size: 0.7rem;    margin-top: 0.0rem;}#content-inner.layout h6::after {    color: #5ec1e0 ;    margin-left: -0.9rem;    font-size: 0.66rem;    margin-top: 0.0rem;}/* 页面设置icon转动速度调整 */#rightside_config i.fas.fa-cog.fa-spin {    animation: fa-spin 5s linear infinite ;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>问题解答区</title>
+      <link href="/arch/index.html"/>
+      <url>/arch/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>源码资料库</title>
+      <link href="/categor/index.html"/>
+      <url>/categor/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -607,11 +601,44 @@
     
     
     <entry>
+      <title>计算机</title>
+      <link href="/computer/index.html"/>
+      <url>/computer/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/nav.css"/>
       <url>/css/nav.css</url>
       
         <content type="html"><![CDATA[#nav-right {    flex: 1 1 auto;    justify-content: flex-end;    margin-left: auto;    display: flex;    flex-wrap: nowrap;}#nav *::after {    background-color: transparent !important;}#nav {    font-size: 22px !important;}.site-page {    padding: 5px;    margin: 3px;    padding-left: 10px;    padding-right: 10px;    white-space: nowrap;    font-size: 0.78em;}.site-page:hover {    background-color: var(--mlemontx-theme);    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 7px;}.site-page.child:hover {    background-color: var(--mlemontx-theme) !important;    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 4px;}.menus_item_child li:not(#sidebar-menus li) {    float: left;    border-radius: 6px !important;    -webkit-border-radius: 6px !important;    -moz-border-radius: 6px !important;    -ms-border-radius: 6px !important;    -o-border-radius: 6px !important;}.menus_item_child:not(#sidebar-menus ul) {    left: 50%;    translate: -50%;}#blog-info a {    padding: 8px}.site-name::before {    opacity: 0;    background-color: var(--mlemontx-theme) !important;    border-radius: 12px;    -webkit-border-radius: 12px;    -moz-border-radius: 12px;    -ms-border-radius: 12px;    -o-border-radius: 12px;    transition: .3s;    -webkit-transition: .3s;    -moz-transition: .3s;    -ms-transition: .3s;    -o-transition: .3s;    position: absolute;    top: 0 !important;    right: 0 !important;    width: 100%;    height: 100%;    content: "\f015";    box-shadow: 0 0 5px var(--mlemontx-theme);    font-family: "Font Awesome 6 Free";    text-align: center;    color: white;    line-height: 34px;    font-size: 18px;}.site-name:hover::before {    opacity: 1;    scale: 1.03;}.site-name {    position: relative;    font-size: 24px;}.nav-fixed #nav {    transform: translateY(58px) !important;    -webkit-transform: translateY(58px) !important;    -moz-transform: translateY(58px) !important;    -ms-transform: translateY(58px) !important;    -o-transform: translateY(58px) !important;}#nav {    transition: none !important;    -webkit-transition: none !important;    -moz-transition: none !important;    -ms-transition: none !important;    -o-transition: none !important;}#page-name::before {    font-size: 18px;    position: absolute;    width: 100%;    height: 100%;    border-radius: 8px;    color: white !important;    top: 0;    left: 0;    content: '回到顶部';    background-color: var(--mlemontx-theme);    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;    opacity: 0;    box-shadow: 0 0 3px var(--mlemontx-theme);    line-height: 45px;}#page-name:hover:before {    opacity: 1;}@media screen and (max-width: 900px) {    #page-name, #menus {        display: none !important;    }}#name-container {    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;}#name-container:hover {    scale: 1.03;}#page-name {    position: relative;    padding: 10px 30px;}#nav {    padding: 0 20px;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高数</title>
+      <link href="/gaoshu/index.html"/>
+      <url>/gaoshu/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -640,22 +667,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/nav.js"/>
-      <url>/js/nav.js</url>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[document.addEventListener('pjax:complete', tonav);document.addEventListener('DOMContentLoaded', tonav);function tonav() {    document.getElementById("name-container").setAttribute("style", "display:none");    var position = $(window).scrollTop();    $(window).scroll(function () {        var scroll = $(window).scrollTop();        if (scroll > position) {            document.getElementById("name-container").setAttribute("style", "");            document.getElementsByClassName("menus_items")[1].setAttribute("style", "display:none!important");        } else {            document.getElementsByClassName("menus_items")[1].setAttribute("style", "");            document.getElementById("name-container").setAttribute("style", "display:none");        }        position = scroll;    });    document.getElementById("page-name").innerText = document.title.split(" |柠檬mlemontx")[0];}function scrollToTop() {    document.getElementsByClassName("menus_items")[1].setAttribute("style", "");    document.getElementById("name-container").setAttribute("style", "display:none");    btf.scrollToDest(0, 500);}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/js/nav.js"/>
+      <url>/js/nav.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[document.addEventListener('pjax:complete', tonav);document.addEventListener('DOMContentLoaded', tonav);function tonav() {    document.getElementById("name-container").setAttribute("style", "display:none");    var position = $(window).scrollTop();    $(window).scroll(function () {        var scroll = $(window).scrollTop();        if (scroll > position) {            document.getElementById("name-container").setAttribute("style", "");            document.getElementsByClassName("menus_items")[1].setAttribute("style", "display:none!important");        } else {            document.getElementsByClassName("menus_items")[1].setAttribute("style", "");            document.getElementById("name-container").setAttribute("style", "display:none");        }        position = scroll;    });    document.getElementById("page-name").innerText = document.title.split(" |柠檬mlemontx")[0];}function scrollToTop() {    document.getElementsByClassName("menus_items")[1].setAttribute("style", "");    document.getElementById("name-container").setAttribute("style", "display:none");    btf.scrollToDest(0, 500);}]]></content>
       
     </entry>
     
