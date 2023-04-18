@@ -4,6 +4,141 @@
   
     
     <entry>
+      <title>高数基础（九）二重积分</title>
+      <link href="/post/59169fd.html"/>
+      <url>/post/59169fd.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、二重积分的概念及性质"><a href="#一、二重积分的概念及性质" class="headerlink" title="一、二重积分的概念及性质"></a>一、二重积分的概念及性质</h2><h3 id="1、二重积分的概念及二重积分的性质"><a href="#1、二重积分的概念及二重积分的性质" class="headerlink" title="1、二重积分的概念及二重积分的性质"></a>1、二重积分的概念及二重积分的性质</h3><p><img src="/post/59169fd/img_23041801.png"></p><p><img src="/post/59169fd/img_23041802.png"></p><hr><h2 id="二、二重积分的计算"><a href="#二、二重积分的计算" class="headerlink" title="二、二重积分的计算"></a>二、二重积分的计算</h2><h3 id="1、利用直角坐标系计算"><a href="#1、利用直角坐标系计算" class="headerlink" title="1、利用直角坐标系计算"></a>1、利用直角坐标系计算</h3><p><img src="/post/59169fd/img_23041803.png"></p><hr><h3 id="2、利用极坐标计算"><a href="#2、利用极坐标计算" class="headerlink" title="2、利用极坐标计算"></a>2、利用极坐标计算</h3><p><img src="/post/59169fd/img_23041804.png"></p><hr><h3 id="3、利用函数的对称性和奇偶性计算"><a href="#3、利用函数的对称性和奇偶性计算" class="headerlink" title="3、利用函数的对称性和奇偶性计算"></a>3、利用函数的对称性和奇偶性计算</h3><p><img src="/post/59169fd/img_23041805.png"></p><hr><h3 id="4、利用变量对称性计算"><a href="#4、利用变量对称性计算" class="headerlink" title="4、利用变量对称性计算"></a>4、利用变量对称性计算</h3><p><img src="/post/59169fd/img_23041806.png"></p><hr><h2 id="常考题型与典型例题"><a href="#常考题型与典型例题" class="headerlink" title="常考题型与典型例题"></a>常考题型与典型例题</h2><p>1、累次积分交换次序或计算</p><p>2、二重积分计算</p><hr><h3 id="例题1"><a href="#例题1" class="headerlink" title="例题1"></a>例题1</h3><p><img src="/post/59169fd/img_23041807.png"></p><hr><h3 id="例题2"><a href="#例题2" class="headerlink" title="例题2"></a>例题2</h3><p><img src="/post/59169fd/img_23041808.png"></p><hr><h3 id="例题3"><a href="#例题3" class="headerlink" title="例题3"></a>例题3</h3><p><img src="/post/59169fd/img_23041809.png"></p><hr><h3 id="例题4"><a href="#例题4" class="headerlink" title="例题4"></a>例题4</h3><p><img src="/post/59169fd/img_23041810.png"></p><hr><h3 id="例题5"><a href="#例题5" class="headerlink" title="例题5"></a>例题5</h3><p><img src="/post/59169fd/img_23041811.png"></p><hr><h3 id="例题6"><a href="#例题6" class="headerlink" title="例题6"></a>例题6</h3><p><img src="/post/59169fd/img_23041812.png"></p><hr><h3 id="例题7"><a href="#例题7" class="headerlink" title="例题7"></a>例题7</h3><p><img src="/post/59169fd/img_23041813.png"></p><hr><h3 id="例题8"><a href="#例题8" class="headerlink" title="例题8"></a>例题8</h3><p><img src="/post/59169fd/img_23041814.png"></p><hr><h3 id="例题"><a href="#例题" class="headerlink" title="例题*"></a>例题*</h3><p><img src="/post/59169fd/img_23041815.png"></p><hr><h3 id="例题9"><a href="#例题9" class="headerlink" title="例题9"></a>例题9</h3><p><img src="/post/59169fd/img_23041816.png"></p><hr><h3 id="例题10"><a href="#例题10" class="headerlink" title="例题10"></a>例题10</h3><p><img src="/post/59169fd/img_23041817.png"></p><p><img src="/post/59169fd/img_23041818.png"></p><hr><h3 id="例题11"><a href="#例题11" class="headerlink" title="例题11"></a>例题11</h3><p><img src="/post/59169fd/img_23041819.png"></p><p><img src="/post/59169fd/img_23041820.png"></p><hr><h3 id="例题12"><a href="#例题12" class="headerlink" title="例题12"></a>例题12</h3><p><img src="/post/59169fd/img_23041821.png"></p><hr><h3 id="例题-1"><a href="#例题-1" class="headerlink" title="例题*"></a>例题*</h3><p><img src="/post/59169fd/img_23041822.png"></p><hr><p>内容取自武忠祥老师基础班教程，参考书《高等数学·基础篇》</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 高数 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高数 </tag>
+            
+            <tag> 高数基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高数基础（八）多元函数微分学</title>
+      <link href="/post/6f6f0bb.html"/>
+      <url>/post/6f6f0bb.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="第一节-多元函数的基本概念"><a href="#第一节-多元函数的基本概念" class="headerlink" title="第一节 多元函数的基本概念"></a>第一节 多元函数的基本概念</h1><h2 id="一、多元函数的极限"><a href="#一、多元函数的极限" class="headerlink" title="一、多元函数的极限"></a>一、多元函数的极限</h2><hr><h2 id="二、多元函数的连续性"><a href="#二、多元函数的连续性" class="headerlink" title="二、多元函数的连续性"></a>二、多元函数的连续性</h2><h3 id="1、连续的概念"><a href="#1、连续的概念" class="headerlink" title="1、连续的概念"></a>1、连续的概念</h3><hr><h3 id="2、连续函数的性质"><a href="#2、连续函数的性质" class="headerlink" title="2、连续函数的性质"></a>2、连续函数的性质</h3><hr><h2 id="三、偏导数"><a href="#三、偏导数" class="headerlink" title="三、偏导数"></a>三、偏导数</h2><h3 id="1、偏导数的定义"><a href="#1、偏导数的定义" class="headerlink" title="1、偏导数的定义"></a>1、偏导数的定义</h3><hr><h3 id="2、二元函数偏导数的几何意义"><a href="#2、二元函数偏导数的几何意义" class="headerlink" title="2、二元函数偏导数的几何意义"></a>2、二元函数偏导数的几何意义</h3><hr><h3 id="3、高阶偏导数"><a href="#3、高阶偏导数" class="headerlink" title="3、高阶偏导数"></a>3、高阶偏导数</h3><hr><h2 id="四、全微分"><a href="#四、全微分" class="headerlink" title="四、全微分"></a>四、全微分</h2><hr><h2 id="第一节常考题型与典型例题"><a href="#第一节常考题型与典型例题" class="headerlink" title="第一节常考题型与典型例题"></a>第一节常考题型与典型例题</h2><p>多元函数连续、偏导数、全微分的概念及其之间的关系</p><hr><h1 id="第二节-多元函数的微分法"><a href="#第二节-多元函数的微分法" class="headerlink" title="第二节 多元函数的微分法"></a>第二节 多元函数的微分法</h1><h2 id="一、复合函数微分法"><a href="#一、复合函数微分法" class="headerlink" title="一、复合函数微分法"></a>一、复合函数微分法</h2><hr><h2 id="二、隐函数微分法"><a href="#二、隐函数微分法" class="headerlink" title="二、隐函数微分法"></a>二、隐函数微分法</h2><hr><h2 id="第二节常考题型与典型例题"><a href="#第二节常考题型与典型例题" class="headerlink" title="第二节常考题型与典型例题"></a>第二节常考题型与典型例题</h2><h2 id="复合函数及隐函数的偏导数和全微分的计算"><a href="#复合函数及隐函数的偏导数和全微分的计算" class="headerlink" title="复合函数及隐函数的偏导数和全微分的计算"></a>复合函数及隐函数的偏导数和全微分的计算</h2><h1 id="第三节-多元函数的极值与最值"><a href="#第三节-多元函数的极值与最值" class="headerlink" title="第三节 多元函数的极值与最值"></a>第三节 多元函数的极值与最值</h1><h2 id="一、无约束极值"><a href="#一、无约束极值" class="headerlink" title="一、无约束极值"></a>一、无约束极值</h2><hr><h2 id="二、条件极值极拉格朗日乘数法"><a href="#二、条件极值极拉格朗日乘数法" class="headerlink" title="二、条件极值极拉格朗日乘数法"></a>二、条件极值极拉格朗日乘数法</h2><hr><h2 id="三、最大最小值"><a href="#三、最大最小值" class="headerlink" title="三、最大最小值"></a>三、最大最小值</h2><h3 id="1、求连续函数-amp-fnof-x-y-在有界闭域D上的最大最小值"><a href="#1、求连续函数-amp-fnof-x-y-在有界闭域D上的最大最小值" class="headerlink" title="1、求连续函数&amp;fnof;(x,y)在有界闭域D上的最大最小值"></a>1、求连续函数&amp;fnof;(x,y)在有界闭域D上的最大最小值</h3><hr><h3 id="2、应用题"><a href="#2、应用题" class="headerlink" title="2、应用题"></a>2、应用题</h3><hr><h2 id="第三节常考题型与典型例题"><a href="#第三节常考题型与典型例题" class="headerlink" title="第三节常考题型与典型例题"></a>第三节常考题型与典型例题</h2><p>1、求极值（无条件）</p><p>2、求连续函数&amp;fnof;(x,y)在有界闭域D上的最大最小值</p><p>3、最大最小值应用题</p><hr><hr><p>内容取自武忠祥老师基础班教程，参考书《高等数学·基础篇》</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 高数 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高数 </tag>
+            
+            <tag> 高数基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高数基础（七）微分方程</title>
+      <link href="/post/d38bf568.html"/>
+      <url>/post/d38bf568.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、常微分方程的基本概念"><a href="#一、常微分方程的基本概念" class="headerlink" title="一、常微分方程的基本概念"></a>一、常微分方程的基本概念</h2><p><img src="/post/d38bf568/img_23041801.png"></p><hr><h2 id="二、一阶微分方程"><a href="#二、一阶微分方程" class="headerlink" title="二、一阶微分方程"></a>二、一阶微分方程</h2><h3 id="1、可分离变量的方程"><a href="#1、可分离变量的方程" class="headerlink" title="1、可分离变量的方程"></a>1、可分离变量的方程</h3><p><img src="/post/d38bf568/img_23041802.png"></p><hr><h3 id="例题1"><a href="#例题1" class="headerlink" title="例题1"></a>例题1</h3><p><img src="/post/d38bf568/img_23041803.png"></p><hr><h3 id="2、齐次微分方程"><a href="#2、齐次微分方程" class="headerlink" title="2、齐次微分方程"></a>2、齐次微分方程</h3><p><img src="/post/d38bf568/img_23041804.png"></p><hr><h3 id="例题2"><a href="#例题2" class="headerlink" title="例题2"></a>例题2</h3><p><img src="/post/d38bf568/img_23041805.png"></p><hr><h3 id="3、一阶线性微分方程"><a href="#3、一阶线性微分方程" class="headerlink" title="3、一阶线性微分方程"></a>3、一阶线性微分方程</h3><p><img src="/post/d38bf568/img_23041806.png"></p><hr><h3 id="例题3"><a href="#例题3" class="headerlink" title="例题3"></a>例题3</h3><p><img src="/post/d38bf568/img_23041807.png"></p><hr><h2 id="三、可降阶的高阶方程（数三不要求）"><a href="#三、可降阶的高阶方程（数三不要求）" class="headerlink" title="三、可降阶的高阶方程（数三不要求）"></a>三、可降阶的高阶方程（数三不要求）</h2><p><img src="/post/d38bf568/img_23041808.png"></p><hr><h3 id="例题4"><a href="#例题4" class="headerlink" title="例题4"></a>例题4</h3><p><img src="/post/d38bf568/img_23041809.png"></p><hr><h3 id="例题5"><a href="#例题5" class="headerlink" title="例题5"></a>例题5</h3><p><img src="/post/d38bf568/img_23041810.png"></p><hr><h2 id="四、高阶线性微分方程"><a href="#四、高阶线性微分方程" class="headerlink" title="四、高阶线性微分方程"></a>四、高阶线性微分方程</h2><h3 id="1、线性微分方程的解的机构"><a href="#1、线性微分方程的解的机构" class="headerlink" title="1、线性微分方程的解的机构"></a>1、线性微分方程的解的机构</h3><p><img src="/post/d38bf568/img_23041811.png"></p><p><img src="/post/d38bf568/img_23041812.png"></p><hr><h3 id="2、常系数齐次线性微分方程"><a href="#2、常系数齐次线性微分方程" class="headerlink" title="2、常系数齐次线性微分方程"></a>2、常系数齐次线性微分方程</h3><p><img src="/post/d38bf568/img_23041813.png"></p><hr><h3 id="例题6"><a href="#例题6" class="headerlink" title="例题6"></a>例题6</h3><p><img src="/post/d38bf568/img_23041814.png"></p><hr><h3 id="例题7"><a href="#例题7" class="headerlink" title="例题7"></a>例题7</h3><p><img src="/post/d38bf568/img_23041815.png"></p><hr><h3 id="例题8"><a href="#例题8" class="headerlink" title="例题8"></a>例题8</h3><p><img src="/post/d38bf568/img_23041816.png"></p><hr><h3 id="3、常系数非次线性微分方程"><a href="#3、常系数非次线性微分方程" class="headerlink" title="3、常系数非次线性微分方程"></a>3、常系数非次线性微分方程</h3><p><img src="/post/d38bf568/img_23041817.png"></p><hr><h3 id="例题9"><a href="#例题9" class="headerlink" title="例题9"></a>例题9</h3><p><img src="/post/d38bf568/img_23041818.png"></p><hr><h3 id="例题10"><a href="#例题10" class="headerlink" title="例题10"></a>例题10</h3><p><img src="/post/d38bf568/img_23041819.png"></p><hr><h2 id="常考题型与典型例题"><a href="#常考题型与典型例题" class="headerlink" title="常考题型与典型例题"></a>常考题型与典型例题</h2><p>1、方程求解</p><p>2、综合题</p><p>3、应用题</p><hr><h3 id="例题16"><a href="#例题16" class="headerlink" title="例题16"></a>例题16</h3><p><img src="/post/d38bf568/img_23041820.png"></p><hr><h3 id="例题17"><a href="#例题17" class="headerlink" title="例题17"></a>例题17</h3><p><img src="/post/d38bf568/img_23041821.png"></p><hr><h3 id="例题18"><a href="#例题18" class="headerlink" title="例题18"></a>例题18</h3><p><img src="/post/d38bf568/img_23041822.png"></p><hr><h3 id="例题19"><a href="#例题19" class="headerlink" title="例题19"></a>例题19</h3><p><img src="/post/d38bf568/img_23041823.png"></p><hr><h3 id="例题20"><a href="#例题20" class="headerlink" title="例题20"></a>例题20</h3><p><img src="/post/d38bf568/img_23041824.png"></p><hr><h3 id="例题21"><a href="#例题21" class="headerlink" title="例题21"></a>例题21</h3><p><img src="/post/d38bf568/img_23041825.png"></p><hr><h3 id="例题22"><a href="#例题22" class="headerlink" title="例题22"></a>例题22</h3><p><img src="/post/d38bf568/img_23041826.png"></p><hr><h3 id="例题23"><a href="#例题23" class="headerlink" title="例题23"></a>例题23</h3><p><img src="/post/d38bf568/img_23041827.png"></p><hr><h3 id="例题24"><a href="#例题24" class="headerlink" title="例题24"></a>例题24</h3><p><img src="/post/d38bf568/img_23041828.png"></p><hr><h3 id="例题25"><a href="#例题25" class="headerlink" title="例题25"></a>例题25</h3><p><img src="/post/d38bf568/img_23041829.png"></p><hr><h3 id="例题26"><a href="#例题26" class="headerlink" title="例题26"></a>例题26</h3><p><img src="/post/d38bf568/img_23041830.png"></p><hr><h3 id="例题27"><a href="#例题27" class="headerlink" title="例题27"></a>例题27</h3><p><img src="/post/d38bf568/img_23041831.png"></p><hr><h3 id="例题28"><a href="#例题28" class="headerlink" title="例题28"></a>例题28</h3><p><img src="/post/d38bf568/img_23041832.png"></p><hr><h3 id="例题29"><a href="#例题29" class="headerlink" title="例题29"></a>例题29</h3><p><img src="/post/d38bf568/img_23041833.png"></p><hr><h3 id="例题30"><a href="#例题30" class="headerlink" title="例题30"></a>例题30</h3><p><img src="/post/d38bf568/img_23041834.png"></p><hr><h3 id="例题31"><a href="#例题31" class="headerlink" title="例题31"></a>例题31</h3><p><img src="/post/d38bf568/img_23041835.png"></p><p><img src="/post/d38bf568/img_23041836.png"></p><hr><p>内容取自武忠祥老师基础班教程，参考书《高等数学·基础篇》</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 高数 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高数 </tag>
+            
+            <tag> 高数基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高数基础（六）定积分的应用</title>
+      <link href="/post/63dd6277.html"/>
+      <url>/post/63dd6277.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、几何应用"><a href="#一、几何应用" class="headerlink" title="一、几何应用"></a>一、几何应用</h2><h3 id="1、平面图形的面积"><a href="#1、平面图形的面积" class="headerlink" title="1、平面图形的面积"></a>1、平面图形的面积</h3><p><img src="/post/63dd6277/img_23041801.png"></p><hr><h3 id="2、旋转体体积"><a href="#2、旋转体体积" class="headerlink" title="2、旋转体体积"></a>2、旋转体体积</h3><p><img src="/post/63dd6277/img_23041802.png"></p><hr><h3 id="3、曲线弧长（数三不要求）"><a href="#3、曲线弧长（数三不要求）" class="headerlink" title="3、曲线弧长（数三不要求）"></a>3、曲线弧长（数三不要求）</h3><p><img src="/post/63dd6277/img_23041803.png"></p><hr><h3 id="4、旋转体侧面积（数三不要求）"><a href="#4、旋转体侧面积（数三不要求）" class="headerlink" title="4、旋转体侧面积（数三不要求）"></a>4、旋转体侧面积（数三不要求）</h3><p><img src="/post/63dd6277/img_23041804.png"></p><hr><h2 id="二、物理应用（数三不要求）"><a href="#二、物理应用（数三不要求）" class="headerlink" title="二、物理应用（数三不要求）"></a>二、物理应用（数三不要求）</h2><p><img src="/post/63dd6277/img_23041805.png"></p><hr><h2 id="常考题型与典型例题"><a href="#常考题型与典型例题" class="headerlink" title="常考题型与典型例题"></a>常考题型与典型例题</h2><p>1、几何应用</p><p>2、物理应用</p><hr><h3 id="例题1"><a href="#例题1" class="headerlink" title="例题1"></a>例题1</h3><p><img src="/post/63dd6277/img_23041806.png"></p><hr><h3 id="例题2"><a href="#例题2" class="headerlink" title="例题2"></a>例题2</h3><p><img src="/post/63dd6277/img_23041807.png"></p><hr><h3 id="例题3"><a href="#例题3" class="headerlink" title="例题3"></a>例题3</h3><p><img src="/post/63dd6277/img_23041808.png"></p><hr><h3 id="例题4"><a href="#例题4" class="headerlink" title="例题4"></a>例题4</h3><p><img src="/post/63dd6277/img_23041809.png"></p><hr><h3 id="例题5"><a href="#例题5" class="headerlink" title="例题5"></a>例题5</h3><p><img src="/post/63dd6277/img_23041810.png"></p><hr><h3 id="例题6"><a href="#例题6" class="headerlink" title="例题6"></a>例题6</h3><p><img src="/post/63dd6277/img_23041811.png"></p><hr><h3 id="例题7"><a href="#例题7" class="headerlink" title="例题7"></a>例题7</h3><p><img src="/post/63dd6277/img_23041812.png"></p><hr><p>内容取自武忠祥老师基础班教程，参考书《高等数学·基础篇》</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 高数 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高数 </tag>
+            
+            <tag> 高数基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高数基础（五）定积分与反常积分</title>
+      <link href="/post/2d090ce3.html"/>
+      <url>/post/2d090ce3.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="第一节-定积分"><a href="#第一节-定积分" class="headerlink" title="第一节 定积分"></a>第一节 定积分</h1><h2 id="一、定积分的概念"><a href="#一、定积分的概念" class="headerlink" title="一、定积分的概念"></a>一、定积分的概念</h2><h3 id="1、定积分的定义"><a href="#1、定积分的定义" class="headerlink" title="1、定积分的定义"></a>1、定积分的定义</h3><p><img src="/post/2d090ce3/img_23041801.png"></p><hr><h3 id="2、定积分存在的充分条件及定积分的几何意义"><a href="#2、定积分存在的充分条件及定积分的几何意义" class="headerlink" title="2、定积分存在的充分条件及定积分的几何意义"></a>2、定积分存在的充分条件及定积分的几何意义</h3><p><img src="/post/2d090ce3/img_23041802.png"></p><hr><h2 id="二、定积分的性质"><a href="#二、定积分的性质" class="headerlink" title="二、定积分的性质"></a>二、定积分的性质</h2><h3 id="1、不等式性质及中值定理"><a href="#1、不等式性质及中值定理" class="headerlink" title="1、不等式性质及中值定理"></a>1、不等式性质及中值定理</h3><p><img src="/post/2d090ce3/img_23041803.png"></p><hr><h2 id="三、积分上限的函数"><a href="#三、积分上限的函数" class="headerlink" title="三、积分上限的函数"></a>三、积分上限的函数</h2><p><img src="/post/2d090ce3/img_23041804.png"></p><hr><h2 id="四、定积分的计算"><a href="#四、定积分的计算" class="headerlink" title="四、定积分的计算"></a>四、定积分的计算</h2><h3 id="1、牛顿-莱布尼茨公式、换元积分法、分部积分法、利用奇偶性和周期性、利用已有公式"><a href="#1、牛顿-莱布尼茨公式、换元积分法、分部积分法、利用奇偶性和周期性、利用已有公式" class="headerlink" title="1、牛顿-莱布尼茨公式、换元积分法、分部积分法、利用奇偶性和周期性、利用已有公式"></a>1、牛顿-莱布尼茨公式、换元积分法、分部积分法、利用奇偶性和周期性、利用已有公式</h3><p><img src="/post/2d090ce3/img_23041805.png"></p><p><img src="/post/2d090ce3/img_23041806.png"></p><hr><h2 id="第一节常考题型与典型例题"><a href="#第一节常考题型与典型例题" class="headerlink" title="第一节常考题型与典型例题"></a>第一节常考题型与典型例题</h2><p>1、定积分的概念、性质及几何意义</p><p>2、定积分的计算</p><p>3、变上限积分</p><hr><h3 id="例题1"><a href="#例题1" class="headerlink" title="例题1"></a>例题1</h3><p><img src="/post/2d090ce3/img_23041807.png"></p><hr><h3 id="例题2"><a href="#例题2" class="headerlink" title="例题2"></a>例题2</h3><p><img src="/post/2d090ce3/img_23041808.png"></p><hr><h3 id="例题3"><a href="#例题3" class="headerlink" title="例题3"></a>例题3</h3><p><img src="/post/2d090ce3/img_23041809.png"></p><hr><h3 id="例题4"><a href="#例题4" class="headerlink" title="例题4"></a>例题4</h3><p><img src="/post/2d090ce3/img_23041810.png"></p><hr><h3 id="例题5"><a href="#例题5" class="headerlink" title="例题5"></a>例题5</h3><p><img src="/post/2d090ce3/img_23041811.png"></p><hr><h3 id="例题6"><a href="#例题6" class="headerlink" title="例题6"></a>例题6</h3><p><img src="/post/2d090ce3/img_23041812.png"></p><hr><h3 id="例题7"><a href="#例题7" class="headerlink" title="例题7"></a>例题7</h3><p><img src="/post/2d090ce3/img_23041813.png"></p><hr><h3 id="例题8"><a href="#例题8" class="headerlink" title="例题8"></a>例题8</h3><p><img src="/post/2d090ce3/img_23041814.png"></p><hr><h3 id="例题9"><a href="#例题9" class="headerlink" title="例题9"></a>例题9</h3><p><img src="/post/2d090ce3/img_23041815.png"></p><hr><h3 id="例题10"><a href="#例题10" class="headerlink" title="例题10"></a>例题10</h3><p><img src="/post/2d090ce3/img_23041816.png"></p><hr><h3 id="例题11"><a href="#例题11" class="headerlink" title="例题11"></a>例题11</h3><p><img src="/post/2d090ce3/img_23041817.png"></p><hr><h3 id="例题12"><a href="#例题12" class="headerlink" title="例题12"></a>例题12</h3><p><img src="/post/2d090ce3/img_23041818.png"></p><hr><h3 id="例题13"><a href="#例题13" class="headerlink" title="例题13"></a>例题13</h3><p><img src="/post/2d090ce3/img_23041819.png"></p><hr><h3 id="例题14"><a href="#例题14" class="headerlink" title="例题14"></a>例题14</h3><p><img src="/post/2d090ce3/img_23041820.png"></p><hr><h3 id="例题15"><a href="#例题15" class="headerlink" title="例题15"></a>例题15</h3><p><img src="/post/2d090ce3/img_23041821.png"></p><hr><h3 id="例题16"><a href="#例题16" class="headerlink" title="例题16"></a>例题16</h3><p><img src="/post/2d090ce3/img_23041822.png"></p><hr><h3 id="例题17"><a href="#例题17" class="headerlink" title="例题17"></a>例题17</h3><p><img src="/post/2d090ce3/img_23041823.png"></p><hr><h3 id="例题18"><a href="#例题18" class="headerlink" title="例题18"></a>例题18</h3><p><img src="/post/2d090ce3/img_23041824.png"></p><hr><h3 id="例题19"><a href="#例题19" class="headerlink" title="例题19"></a>例题19</h3><p><img src="/post/2d090ce3/img_23041825.png"></p><hr><h3 id="例题20"><a href="#例题20" class="headerlink" title="例题20"></a>例题20</h3><p><img src="/post/2d090ce3/img_23041826.png"></p><hr><h3 id="例题21"><a href="#例题21" class="headerlink" title="例题21"></a>例题21</h3><p><img src="/post/2d090ce3/img_23041827.png"></p><hr><h3 id="例题22"><a href="#例题22" class="headerlink" title="例题22"></a>例题22</h3><p><img src="/post/2d090ce3/img_23041828.png"></p><hr><h3 id="例题23"><a href="#例题23" class="headerlink" title="例题23"></a>例题23</h3><p><img src="/post/2d090ce3/img_23041829.png"></p><hr><h3 id="例题24"><a href="#例题24" class="headerlink" title="例题24"></a>例题24</h3><p><img src="/post/2d090ce3/img_23041830.png"></p><hr><h3 id="例题25"><a href="#例题25" class="headerlink" title="例题25"></a>例题25</h3><p><img src="/post/2d090ce3/img_23041831.png"></p><hr><h3 id="例题26"><a href="#例题26" class="headerlink" title="例题26"></a>例题26</h3><p><img src="/post/2d090ce3/img_23041832.png"></p><hr><h1 id="第二节-反常积分"><a href="#第二节-反常积分" class="headerlink" title="第二节 反常积分"></a>第二节 反常积分</h1><h2 id="一、无穷区间上的反常积分"><a href="#一、无穷区间上的反常积分" class="headerlink" title="一、无穷区间上的反常积分"></a>一、无穷区间上的反常积分</h2><p><img src="/post/2d090ce3/img_23041833.png"></p><p><img src="/post/2d090ce3/img_23041834.png"></p><hr><h3 id="例题1-1"><a href="#例题1-1" class="headerlink" title="例题1"></a>例题1</h3><p><img src="/post/2d090ce3/img_23041835.png"></p><hr><h2 id="二、无界函数的反常积分"><a href="#二、无界函数的反常积分" class="headerlink" title="二、无界函数的反常积分"></a>二、无界函数的反常积分</h2><p><img src="/post/2d090ce3/img_23041836.png"></p><p><img src="/post/2d090ce3/img_23041837.png"></p><hr><h3 id="例题2-1"><a href="#例题2-1" class="headerlink" title="例题2"></a>例题2</h3><p><img src="/post/2d090ce3/img_23041838.png"></p><hr><h2 id="第二节常考题型与典型例题"><a href="#第二节常考题型与典型例题" class="headerlink" title="第二节常考题型与典型例题"></a>第二节常考题型与典型例题</h2><p>1、反常积分的敛散性</p><p>2、反常积分的计算</p><hr><h3 id="例题3-1"><a href="#例题3-1" class="headerlink" title="例题3"></a>例题3</h3><p><img src="/post/2d090ce3/img_23041839.png"></p><hr><h3 id="例题4-1"><a href="#例题4-1" class="headerlink" title="例题4"></a>例题4</h3><p><img src="/post/2d090ce3/img_23041840.png"></p><hr><h3 id="例题5-1"><a href="#例题5-1" class="headerlink" title="例题5"></a>例题5</h3><p><img src="/post/2d090ce3/img_23041841.png"></p><hr><h3 id="例题6-1"><a href="#例题6-1" class="headerlink" title="例题6"></a>例题6</h3><p><img src="/post/2d090ce3/img_23041842.png"></p><hr><h3 id="例题7-1"><a href="#例题7-1" class="headerlink" title="例题7"></a>例题7</h3><p><img src="/post/2d090ce3/img_23041843.png"></p><hr><h3 id="例题8-1"><a href="#例题8-1" class="headerlink" title="例题8"></a>例题8</h3><p><img src="/post/2d090ce3/img_23041844.png"></p><hr><h3 id="例题9-1"><a href="#例题9-1" class="headerlink" title="例题9"></a>例题9</h3><p><img src="/post/2d090ce3/img_23041845.png"></p><hr><p>内容取自武忠祥老师基础班教程，参考书《高等数学·基础篇》</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 高数 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高数 </tag>
+            
+            <tag> 高数基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>考研英语二阅读真题词汇（八）</title>
       <link href="/post/8e3687e5.html"/>
       <url>/post/8e3687e5.html</url>
@@ -529,17 +664,6 @@
     
     
     <entry>
-      <title>C4D</title>
-      <link href="/C4D/index.html"/>
-      <url>/C4D/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>英语</title>
       <link href="/English/index.html"/>
       <url>/English/index.html</url>
@@ -551,31 +675,9 @@
     
     
     <entry>
-      <title>LUCKY</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>问题解答区</title>
-      <link href="/arch/index.html"/>
-      <url>/arch/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>归档</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>C4D</title>
+      <link href="/C4D/index.html"/>
+      <url>/C4D/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -595,31 +697,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/iconfont.css"/>
-      <url>/css/iconfont.css</url>
-      
-        <content type="html"><![CDATA[@font-face {  font-family: "iconfont"; /* Project id 3963606 */  src: url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.woff2?t=1680617567168') format('woff2'),       url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.woff?t=1680617567168') format('woff'),       url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.ttf?t=1680617567168') format('truetype');}.iconfont {  font-family: "iconfont" !important;  font-size: 22px;  font-style: normal;  -webkit-font-smoothing: antialiased;  -moz-osx-font-smoothing: grayscale;}.icon-zhihu:before {  content: "\e675";}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>计算机</title>
-      <link href="/computer/index.html"/>
-      <url>/computer/index.html</url>
+      <title>归档</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -633,6 +713,50 @@
       <url>/css/custom.css</url>
       
         <content type="html"><![CDATA[/* 文章页H1-H6图标样式效果 */h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {    -webkit-animation: ccc 1.6s linear infinite ;    animation: ccc 1.6s linear infinite ;}@-webkit-keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}@keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}#content-inner.layout h1:hover, #content-inner.layout h2:hover, #content-inner.layout h3:hover, #content-inner.layout h4:hover, #content-inner.layout h5:hover, #content-inner.layout h6:hover {    color: #49b1f5 ;}#content-inner.layout h1:hover::after, #content-inner.layout h2:hover::after, #content-inner.layout h3:hover::after, #content-inner.layout h4:hover::after, #content-inner.layout h5:hover::after, #content-inner.layout h6:hover::after {    color: #49b1f5 ;    -webkit-animation: ccc 3.2s linear infinite ;    animation: ccc 3.2s linear infinite ;}#content-inner.layout h1::after {    color: #ef50a8 ;    margin-left: -1.55rem;    font-size: 1.3rem;    margin-top: -0.23rem;}#content-inner.layout h2::after {    color: #fb7061 ;    margin-left: -1.35rem;    font-size: 1.1rem;    margin-top: -0.12rem;}#content-inner.layout h3::after {    color: #ffbf00 ;    margin-left: -1.22rem;    font-size: 0.95rem;    margin-top: -0.09rem;}#content-inner.layout h4::after {    color: #a9e000 ;    margin-left: -1.05rem;    font-size: 0.8rem;    margin-top: -0.09rem;}#content-inner.layout h5::after {    color: #57c850 ;    margin-left: -0.9rem;    font-size: 0.7rem;    margin-top: 0.0rem;}#content-inner.layout h6::after {    color: #5ec1e0 ;    margin-left: -0.9rem;    font-size: 0.66rem;    margin-top: 0.0rem;}/* 页面设置icon转动速度调整 */#rightside_config i.fas.fa-cog.fa-spin {    animation: fa-spin 5s linear infinite ;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>问题解答区</title>
+      <link href="/arch/index.html"/>
+      <url>/arch/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>LUCKY</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机</title>
+      <link href="/computer/index.html"/>
+      <url>/computer/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -662,17 +786,6 @@
     
     <entry>
       <title></title>
-      <link href="/css/transparent.css"/>
-      <url>/css/transparent.css</url>
-      
-        <content type="html"><![CDATA[/* 主页所有文章页面背景 */#aside_content .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{    /* 以下代表透明度为0.5 */    background: rgba(255, 255, 255, .98);}/*侧边栏页面*/#aside-content>.card-widget  {    background: rgba(255,255,255,.98);}#aside-content>.sticky_layout>.card-widget{    background: rgba(255,255,255,.98);}/*文章页面*/.layout>#post{    background: rgba(255,255,255,.98);}/*分类页面*/.layout>#page{        background: rgba(255,255,255,.98);}/*时间轴页面*/.layout>#archive{    background: rgba(255,255,255,.98);}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/css/text_01.css"/>
       <url>/css/text_01.css</url>
       
@@ -683,9 +796,53 @@
     
     
     <entry>
+      <title></title>
+      <link href="/css/transparent.css"/>
+      <url>/css/transparent.css</url>
+      
+        <content type="html"><![CDATA[/* 主页所有文章页面背景 */#aside_content .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{    /* 以下代表透明度为0.5 */    background: rgba(255, 255, 255, .98);}/*侧边栏页面*/#aside-content>.card-widget  {    background: rgba(255,255,255,.98);}#aside-content>.sticky_layout>.card-widget{    background: rgba(255,255,255,.98);}/*文章页面*/.layout>#post{    background: rgba(255,255,255,.98);}/*分类页面*/.layout>#page{        background: rgba(255,255,255,.98);}/*时间轴页面*/.layout>#archive{    background: rgba(255,255,255,.98);}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/iconfont.css"/>
+      <url>/css/iconfont.css</url>
+      
+        <content type="html"><![CDATA[@font-face {  font-family: "iconfont"; /* Project id 3963606 */  src: url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.woff2?t=1680617567168') format('woff2'),       url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.woff?t=1680617567168') format('woff'),       url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.ttf?t=1680617567168') format('truetype');}.iconfont {  font-family: "iconfont" !important;  font-size: 22px;  font-style: normal;  -webkit-font-smoothing: antialiased;  -moz-osx-font-smoothing: grayscale;}.icon-zhihu:before {  content: "\e675";}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>高数</title>
       <link href="/gaoshu/index.html"/>
       <url>/gaoshu/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -705,31 +862,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>论文</title>
       <link href="/lunwen/index.html"/>
       <url>/lunwen/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
