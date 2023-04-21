@@ -745,17 +745,6 @@
     
     
     <entry>
-      <title>英语</title>
-      <link href="/English/index.html"/>
-      <url>/English/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>C4D</title>
       <link href="/C4D/index.html"/>
       <url>/C4D/index.html</url>
@@ -767,42 +756,9 @@
     
     
     <entry>
-      <title>问题解答区</title>
-      <link href="/arch/index.html"/>
-      <url>/arch/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>LUCKY</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>源码资料库</title>
-      <link href="/categor/index.html"/>
-      <url>/categor/index.html</url>
+      <title>英语</title>
+      <link href="/English/index.html"/>
+      <url>/English/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -822,11 +778,88 @@
     
     
     <entry>
+      <title>LUCKY</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<p align="center"></p><h2>-博主简介-<p></p><p align="justify" style="text-indent:2em">LUCKY，一枚00年的博主，喜欢发一些自己平时在学习和工作中的心得。本人是一个计算机专业的小学生，</p><p align="center"></p><h2>-联系博主-<p></p><ul><li>微信：LYHLUCKY20</li><li>QQ邮箱：<a href="mailto:&#x32;&#57;&#x30;&#48;&#x31;&#56;&#57;&#x31;&#52;&#54;&#64;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;">&#x32;&#57;&#x30;&#48;&#x31;&#56;&#57;&#x31;&#52;&#54;&#64;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;</a></li><li>Gmail邮箱：<a href="mailto:&#x6c;&#x79;&#x68;&#x32;&#57;&#48;&#x30;&#49;&#x38;&#x39;&#49;&#x34;&#54;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#109;">&#x6c;&#x79;&#x68;&#x32;&#57;&#48;&#x30;&#49;&#x38;&#x39;&#49;&#x34;&#54;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#109;</a></li><li>个人博客：<a href="https://www.luckylyh.top/">https://www.luckylyh.top</a></li><li>GitHub：<a href="https://luckyliyonghhui.github.io/">https://luckyliyonghhui.github.io</a></li></ul></h2></h2>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>源码资料库</title>
+      <link href="/categor/index.html"/>
+      <url>/categor/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>问题解答区</title>
+      <link href="/arch/index.html"/>
+      <url>/arch/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
         <content type="html"><![CDATA[/* 文章页H1-H6图标样式效果 */h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {    -webkit-animation: ccc 1.6s linear infinite ;    animation: ccc 1.6s linear infinite ;}@-webkit-keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}@keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}#content-inner.layout h1:hover, #content-inner.layout h2:hover, #content-inner.layout h3:hover, #content-inner.layout h4:hover, #content-inner.layout h5:hover, #content-inner.layout h6:hover {    color: #49b1f5 ;}#content-inner.layout h1:hover::after, #content-inner.layout h2:hover::after, #content-inner.layout h3:hover::after, #content-inner.layout h4:hover::after, #content-inner.layout h5:hover::after, #content-inner.layout h6:hover::after {    color: #49b1f5 ;    -webkit-animation: ccc 3.2s linear infinite ;    animation: ccc 3.2s linear infinite ;}#content-inner.layout h1::after {    color: #ef50a8 ;    margin-left: -1.55rem;    font-size: 1.3rem;    margin-top: -0.23rem;}#content-inner.layout h2::after {    color: #fb7061 ;    margin-left: -1.35rem;    font-size: 1.1rem;    margin-top: -0.12rem;}#content-inner.layout h3::after {    color: #ffbf00 ;    margin-left: -1.22rem;    font-size: 0.95rem;    margin-top: -0.09rem;}#content-inner.layout h4::after {    color: #a9e000 ;    margin-left: -1.05rem;    font-size: 0.8rem;    margin-top: -0.09rem;}#content-inner.layout h5::after {    color: #57c850 ;    margin-left: -0.9rem;    font-size: 0.7rem;    margin-top: 0.0rem;}#content-inner.layout h6::after {    color: #5ec1e0 ;    margin-left: -0.9rem;    font-size: 0.66rem;    margin-top: 0.0rem;}/* 页面设置icon转动速度调整 */#rightside_config i.fas.fa-cog.fa-spin {    animation: fa-spin 5s linear infinite ;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机</title>
+      <link href="/computer/index.html"/>
+      <url>/computer/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/iconfont.css"/>
+      <url>/css/iconfont.css</url>
+      
+        <content type="html"><![CDATA[@font-face {  font-family: "iconfont"; /* Project id 3963606 */  src: url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.woff2?t=1680617567168') format('woff2'),       url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.woff?t=1680617567168') format('woff'),       url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.ttf?t=1680617567168') format('truetype');}.iconfont {  font-family: "iconfont" !important;  font-size: 22px;  font-style: normal;  -webkit-font-smoothing: antialiased;  -moz-osx-font-smoothing: grayscale;}.icon-zhihu:before {  content: "\e675";}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/text_01.css"/>
+      <url>/css/text_01.css</url>
+      
+        <content type="html"><![CDATA[.text {    display: flex;    flex-direction: row;    width: 100%;}.text1 {    display: flex;    flex-direction: column;    justify-content: center;}.text2 {    margin-left: 14px;    display: flex;    flex-direction: column;    justify-content: center;}]]></content>
       
     </entry>
     
@@ -856,39 +889,6 @@
     
     <entry>
       <title></title>
-      <link href="/css/iconfont.css"/>
-      <url>/css/iconfont.css</url>
-      
-        <content type="html"><![CDATA[@font-face {  font-family: "iconfont"; /* Project id 3963606 */  src: url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.woff2?t=1680617567168') format('woff2'),       url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.woff?t=1680617567168') format('woff'),       url('//at.alicdn.com/t/c/font_3963606_t1a6qzq3s9.ttf?t=1680617567168') format('truetype');}.iconfont {  font-family: "iconfont" !important;  font-size: 22px;  font-style: normal;  -webkit-font-smoothing: antialiased;  -moz-osx-font-smoothing: grayscale;}.icon-zhihu:before {  content: "\e675";}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/text_01.css"/>
-      <url>/css/text_01.css</url>
-      
-        <content type="html"><![CDATA[.text {    display: flex;    flex-direction: row;    width: 100%;}.text1 {    display: flex;    flex-direction: column;    justify-content: center;}.text2 {    margin-left: 14px;    display: flex;    flex-direction: column;    justify-content: center;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>计算机</title>
-      <link href="/computer/index.html"/>
-      <url>/computer/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/nav.js"/>
       <url>/js/nav.js</url>
       
@@ -899,9 +899,20 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>论文</title>
+      <link href="/lunwen/index.html"/>
+      <url>/lunwen/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -921,17 +932,6 @@
     
     
     <entry>
-      <title>论文</title>
-      <link href="/lunwen/index.html"/>
-      <url>/lunwen/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/transparent.css"/>
       <url>/css/transparent.css</url>
@@ -943,9 +943,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       

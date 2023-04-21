@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.luckylyh.top/about/index.html</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.luckylyh.top/post/ce5393e0.html</loc>
     
     <lastmod>2023-04-21</lastmod>
@@ -336,15 +345,6 @@
   
   <url>
     <loc>https://www.luckylyh.top/computer/index.html</loc>
-    
-    <lastmod>2023-03-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.luckylyh.top/about/index.html</loc>
     
     <lastmod>2023-03-20</lastmod>
     
