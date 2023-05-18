@@ -1109,6 +1109,17 @@
     
     
     <entry>
+      <title>C4D</title>
+      <link href="/C4D/index.html"/>
+      <url>/C4D/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>英语</title>
       <link href="/English/index.html"/>
       <url>/English/index.html</url>
@@ -1120,9 +1131,20 @@
     
     
     <entry>
-      <title>C4D</title>
-      <link href="/C4D/index.html"/>
-      <url>/C4D/index.html</url>
+      <title>LUCKY</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<div align="center"><h2>-博主简介-</h2></div><p align="justify" style="text-indent:2em">LUCKY，一枚00后的博主，乐于分享技术与快乐的博主。本人同时也是一个计算机专业的小学生，热爱研究技术问题。</p><div align="center"><h2>-联系博主-</h2></div><ul><li>微信：LYHLUCKY20</li><li>QQ邮箱：<a href="mailto:&#50;&#57;&#x30;&#x30;&#49;&#x38;&#57;&#49;&#52;&#54;&#64;&#x71;&#113;&#46;&#99;&#x6f;&#109;">&#50;&#57;&#x30;&#x30;&#49;&#x38;&#57;&#49;&#52;&#54;&#64;&#x71;&#113;&#46;&#99;&#x6f;&#109;</a></li><li>Gmail邮箱：<a href="mailto:&#108;&#x79;&#x68;&#x32;&#x39;&#48;&#48;&#49;&#x38;&#57;&#x31;&#52;&#x36;&#x40;&#x67;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#111;&#109;">&#108;&#x79;&#x68;&#x32;&#x39;&#48;&#48;&#49;&#x38;&#57;&#x31;&#52;&#x36;&#x40;&#x67;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#111;&#109;</a></li><li>个人博客：<a href="https://www.luckylyh.top/">https://www.luckylyh.top</a></li><li>GitHub：<a href="https://luckyliyonghhui.github.io/">https://luckyliyonghhui.github.io</a></li></ul>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>归档</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1142,31 +1164,9 @@
     
     
     <entry>
-      <title>LUCKY</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<div align="center"><h2>-博主简介-</h2></div><p align="justify" style="text-indent:2em">LUCKY，一枚00后的博主，乐于分享技术与快乐的博主。本人同时也是一个计算机专业的小学生，热爱研究技术问题。</p><div align="center"><h2>-联系博主-</h2></div><ul><li>微信：LYHLUCKY20</li><li>QQ邮箱：<a href="mailto:&#x32;&#57;&#x30;&#x30;&#49;&#x38;&#57;&#49;&#x34;&#54;&#64;&#113;&#113;&#x2e;&#x63;&#111;&#x6d;">&#x32;&#57;&#x30;&#x30;&#49;&#x38;&#57;&#49;&#x34;&#54;&#64;&#113;&#113;&#x2e;&#x63;&#111;&#x6d;</a></li><li>Gmail邮箱：<a href="mailto:&#x6c;&#x79;&#104;&#50;&#x39;&#48;&#48;&#x31;&#x38;&#x39;&#x31;&#x34;&#54;&#x40;&#x67;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#x6c;&#x79;&#104;&#50;&#x39;&#48;&#48;&#x31;&#x38;&#x39;&#x31;&#x34;&#54;&#x40;&#x67;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a></li><li>个人博客：<a href="https://www.luckylyh.top/">https://www.luckylyh.top</a></li><li>GitHub：<a href="https://luckyliyonghhui.github.io/">https://luckyliyonghhui.github.io</a></li></ul>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>源码资料库</title>
-      <link href="/categor/index.html"/>
-      <url>/categor/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>归档</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>计算机</title>
+      <link href="/computer/index.html"/>
+      <url>/computer/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1186,9 +1186,9 @@
     
     
     <entry>
-      <title>计算机</title>
-      <link href="/computer/index.html"/>
-      <url>/computer/index.html</url>
+      <title>源码资料库</title>
+      <link href="/categor/index.html"/>
+      <url>/categor/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1220,6 +1220,28 @@
     
     <entry>
       <title></title>
+      <link href="/css/text_01.css"/>
+      <url>/css/text_01.css</url>
+      
+        <content type="html"><![CDATA[.text {    display: flex;    flex-direction: row;    width: 100%;}.text1 {    display: flex;    flex-direction: column;    justify-content: center;}.text2 {    margin-left: 14px;    display: flex;    flex-direction: column;    justify-content: center;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/nav.css"/>
+      <url>/css/nav.css</url>
+      
+        <content type="html"><![CDATA[#nav-right {    flex: 1 1 auto;    justify-content: flex-end;    margin-left: auto;    display: flex;    flex-wrap: nowrap;}#nav *::after {    background-color: transparent !important;}#nav {    font-size: 22px !important;}.site-page {    padding: 5px;    margin: 3px;    padding-left: 10px;    padding-right: 10px;    white-space: nowrap;    font-size: 0.78em;}.site-page:hover {    background-color: var(--mlemontx-theme);    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 7px;}.site-page.child:hover {    background-color: var(--mlemontx-theme) !important;    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 4px;}.menus_item_child li:not(#sidebar-menus li) {    float: left;    border-radius: 6px !important;    -webkit-border-radius: 6px !important;    -moz-border-radius: 6px !important;    -ms-border-radius: 6px !important;    -o-border-radius: 6px !important;}.menus_item_child:not(#sidebar-menus ul) {    left: 50%;    translate: -50%;}#blog-info a {    padding: 8px}.site-name::before {    opacity: 0;    background-color: var(--mlemontx-theme) !important;    border-radius: 12px;    -webkit-border-radius: 12px;    -moz-border-radius: 12px;    -ms-border-radius: 12px;    -o-border-radius: 12px;    transition: .3s;    -webkit-transition: .3s;    -moz-transition: .3s;    -ms-transition: .3s;    -o-transition: .3s;    position: absolute;    top: 0 !important;    right: 0 !important;    width: 100%;    height: 100%;    content: "\f015";    box-shadow: 0 0 5px var(--mlemontx-theme);    font-family: "Font Awesome 6 Free";    text-align: center;    color: white;    line-height: 34px;    font-size: 18px;}.site-name:hover::before {    opacity: 1;    scale: 1.03;}.site-name {    position: relative;    font-size: 24px;}.nav-fixed #nav {    transform: translateY(58px) !important;    -webkit-transform: translateY(58px) !important;    -moz-transform: translateY(58px) !important;    -ms-transform: translateY(58px) !important;    -o-transform: translateY(58px) !important;}#nav {    transition: none !important;    -webkit-transition: none !important;    -moz-transition: none !important;    -ms-transition: none !important;    -o-transition: none !important;}#page-name::before {    font-size: 18px;    position: absolute;    width: 100%;    height: 100%;    border-radius: 8px;    color: white !important;    top: 0;    left: 0;    content: '回到顶部';    background-color: var(--mlemontx-theme);    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;    opacity: 0;    box-shadow: 0 0 3px var(--mlemontx-theme);    line-height: 45px;}#page-name:hover:before {    opacity: 1;}@media screen and (max-width: 900px) {    #page-name, #menus {        display: none !important;    }}#name-container {    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;}#name-container:hover {    scale: 1.03;}#page-name {    position: relative;    padding: 10px 30px;}#nav {    padding: 0 20px;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/css/iconfont.css"/>
       <url>/css/iconfont.css</url>
       
@@ -1230,11 +1252,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/text_01.css"/>
-      <url>/css/text_01.css</url>
+      <title>高数</title>
+      <link href="/gaoshu/index.html"/>
+      <url>/gaoshu/index.html</url>
       
-        <content type="html"><![CDATA[.text {    display: flex;    flex-direction: row;    width: 100%;}.text1 {    display: flex;    flex-direction: column;    justify-content: center;}.text2 {    margin-left: 14px;    display: flex;    flex-direction: column;    justify-content: center;}]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/nav.js"/>
+      <url>/js/nav.js</url>
+      
+        <content type="html"><![CDATA[document.addEventListener('pjax:complete', tonav);document.addEventListener('DOMContentLoaded', tonav);function tonav() {    document.getElementById("name-container").setAttribute("style", "display:none");    var position = $(window).scrollTop();    $(window).scroll(function () {        var scroll = $(window).scrollTop();        if (scroll > position) {            document.getElementById("name-container").setAttribute("style", "");            document.getElementsByClassName("menus_items")[1].setAttribute("style", "display:none!important");        } else {            document.getElementsByClassName("menus_items")[1].setAttribute("style", "");            document.getElementById("name-container").setAttribute("style", "display:none");        }        position = scroll;    });    document.getElementById("page-name").innerText = document.title.split(" |柠檬mlemontx")[0];}function scrollToTop() {    document.getElementsByClassName("menus_items")[1].setAttribute("style", "");    document.getElementById("name-container").setAttribute("style", "display:none");    btf.scrollToDest(0, 500);}]]></content>
       
     </entry>
     
@@ -1263,44 +1296,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/nav.css"/>
-      <url>/css/nav.css</url>
-      
-        <content type="html"><![CDATA[#nav-right {    flex: 1 1 auto;    justify-content: flex-end;    margin-left: auto;    display: flex;    flex-wrap: nowrap;}#nav *::after {    background-color: transparent !important;}#nav {    font-size: 22px !important;}.site-page {    padding: 5px;    margin: 3px;    padding-left: 10px;    padding-right: 10px;    white-space: nowrap;    font-size: 0.78em;}.site-page:hover {    background-color: var(--mlemontx-theme);    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 7px;}.site-page.child:hover {    background-color: var(--mlemontx-theme) !important;    box-shadow: 0 0 3px var(--mlemontx-theme) !important;    border-radius: 4px;}.menus_item_child li:not(#sidebar-menus li) {    float: left;    border-radius: 6px !important;    -webkit-border-radius: 6px !important;    -moz-border-radius: 6px !important;    -ms-border-radius: 6px !important;    -o-border-radius: 6px !important;}.menus_item_child:not(#sidebar-menus ul) {    left: 50%;    translate: -50%;}#blog-info a {    padding: 8px}.site-name::before {    opacity: 0;    background-color: var(--mlemontx-theme) !important;    border-radius: 12px;    -webkit-border-radius: 12px;    -moz-border-radius: 12px;    -ms-border-radius: 12px;    -o-border-radius: 12px;    transition: .3s;    -webkit-transition: .3s;    -moz-transition: .3s;    -ms-transition: .3s;    -o-transition: .3s;    position: absolute;    top: 0 !important;    right: 0 !important;    width: 100%;    height: 100%;    content: "\f015";    box-shadow: 0 0 5px var(--mlemontx-theme);    font-family: "Font Awesome 6 Free";    text-align: center;    color: white;    line-height: 34px;    font-size: 18px;}.site-name:hover::before {    opacity: 1;    scale: 1.03;}.site-name {    position: relative;    font-size: 24px;}.nav-fixed #nav {    transform: translateY(58px) !important;    -webkit-transform: translateY(58px) !important;    -moz-transform: translateY(58px) !important;    -ms-transform: translateY(58px) !important;    -o-transform: translateY(58px) !important;}#nav {    transition: none !important;    -webkit-transition: none !important;    -moz-transition: none !important;    -ms-transition: none !important;    -o-transition: none !important;}#page-name::before {    font-size: 18px;    position: absolute;    width: 100%;    height: 100%;    border-radius: 8px;    color: white !important;    top: 0;    left: 0;    content: '回到顶部';    background-color: var(--mlemontx-theme);    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;    opacity: 0;    box-shadow: 0 0 3px var(--mlemontx-theme);    line-height: 45px;}#page-name:hover:before {    opacity: 1;}@media screen and (max-width: 900px) {    #page-name, #menus {        display: none !important;    }}#name-container {    transition: all .3s;    -webkit-transition: all .3s;    -moz-transition: all .3s;    -ms-transition: all .3s;    -o-transition: all .3s;}#name-container:hover {    scale: 1.03;}#page-name {    position: relative;    padding: 10px 30px;}#nav {    padding: 0 20px;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>高数</title>
-      <link href="/gaoshu/index.html"/>
-      <url>/gaoshu/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>论文</title>
       <link href="/lunwen/index.html"/>
       <url>/lunwen/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/nav.js"/>
-      <url>/js/nav.js</url>
-      
-        <content type="html"><![CDATA[document.addEventListener('pjax:complete', tonav);document.addEventListener('DOMContentLoaded', tonav);function tonav() {    document.getElementById("name-container").setAttribute("style", "display:none");    var position = $(window).scrollTop();    $(window).scroll(function () {        var scroll = $(window).scrollTop();        if (scroll > position) {            document.getElementById("name-container").setAttribute("style", "");            document.getElementsByClassName("menus_items")[1].setAttribute("style", "display:none!important");        } else {            document.getElementsByClassName("menus_items")[1].setAttribute("style", "");            document.getElementById("name-container").setAttribute("style", "display:none");        }        position = scroll;    });    document.getElementById("page-name").innerText = document.title.split(" |柠檬mlemontx")[0];}function scrollToTop() {    document.getElementsByClassName("menus_items")[1].setAttribute("style", "");    document.getElementById("name-container").setAttribute("style", "display:none");    btf.scrollToDest(0, 500);}]]></content>
       
     </entry>
     
