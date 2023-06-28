@@ -1566,6 +1566,17 @@
     
     
     <entry>
+      <title>LUCKY</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<div align="center"><h2>-博主简介-</h2></div><p align="justify" style="text-indent:2em">LUCKY，一枚00后的博主，乐于分享技术与快乐的博主。本人同时也是一个计算机专业的小学生，热爱研究技术问题。</p><div align="center"><h2>-联系博主-</h2></div><ul><li>微信：LYHLUCKY20</li><li>QQ邮箱：<a href="mailto:&#50;&#x39;&#48;&#48;&#x31;&#x38;&#x39;&#x31;&#x34;&#x36;&#x40;&#113;&#x71;&#46;&#x63;&#111;&#109;">&#50;&#x39;&#48;&#48;&#x31;&#x38;&#x39;&#x31;&#x34;&#x36;&#x40;&#113;&#x71;&#46;&#x63;&#111;&#109;</a></li><li>Gmail邮箱：<a href="mailto:&#x6c;&#x79;&#104;&#50;&#57;&#48;&#48;&#x31;&#56;&#57;&#49;&#x34;&#x36;&#64;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;">&#x6c;&#x79;&#104;&#50;&#57;&#48;&#48;&#x31;&#56;&#57;&#49;&#x34;&#x36;&#64;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;</a></li><li>个人博客：<a href="https://www.luckylyh.top/">https://www.luckylyh.top</a></li><li>GitHub：<a href="https://luckyliyonghhui.github.io/">https://luckyliyonghhui.github.io</a></li></ul>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>英语</title>
       <link href="/English/index.html"/>
       <url>/English/index.html</url>
@@ -1577,9 +1588,9 @@
     
     
     <entry>
-      <title>问题解答区</title>
-      <link href="/arch/index.html"/>
-      <url>/arch/index.html</url>
+      <title>归档</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1588,20 +1599,9 @@
     
     
     <entry>
-      <title>LUCKY</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<div align="center"><h2>-博主简介-</h2></div><p align="justify" style="text-indent:2em">LUCKY，一枚00后的博主，乐于分享技术与快乐的博主。本人同时也是一个计算机专业的小学生，热爱研究技术问题。</p><div align="center"><h2>-联系博主-</h2></div><ul><li>微信：LYHLUCKY20</li><li>QQ邮箱：<a href="mailto:&#50;&#x39;&#x30;&#x30;&#49;&#56;&#57;&#49;&#52;&#54;&#64;&#113;&#113;&#x2e;&#99;&#111;&#x6d;">&#50;&#x39;&#x30;&#x30;&#49;&#56;&#57;&#49;&#52;&#54;&#64;&#113;&#113;&#x2e;&#99;&#111;&#x6d;</a></li><li>Gmail邮箱：<a href="mailto:&#108;&#x79;&#x68;&#x32;&#x39;&#x30;&#48;&#x31;&#56;&#x39;&#49;&#52;&#x36;&#x40;&#103;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#99;&#x6f;&#109;">&#108;&#x79;&#x68;&#x32;&#x39;&#x30;&#48;&#x31;&#56;&#x39;&#49;&#52;&#x36;&#x40;&#103;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#99;&#x6f;&#109;</a></li><li>个人博客：<a href="https://www.luckylyh.top/">https://www.luckylyh.top</a></li><li>GitHub：<a href="https://luckyliyonghhui.github.io/">https://luckyliyonghhui.github.io</a></li></ul>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>归档</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>问题解答区</title>
+      <link href="/arch/index.html"/>
+      <url>/arch/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1632,6 +1632,17 @@
     
     
     <entry>
+      <title>计算机</title>
+      <link href="/computer/index.html"/>
+      <url>/computer/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>高数</title>
       <link href="/gaoshu/index.html"/>
       <url>/gaoshu/index.html</url>
@@ -1648,17 +1659,6 @@
       <url>/css/custom.css</url>
       
         <content type="html"><![CDATA[/* 文章页H1-H6图标样式效果 */h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {    -webkit-animation: ccc 1.6s linear infinite ;    animation: ccc 1.6s linear infinite ;}@-webkit-keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}@keyframes ccc {    0% {        -webkit-transform: rotate(0deg);        transform: rotate(0deg)    }    to {        -webkit-transform: rotate(-1turn);        transform: rotate(-1turn)    }}#content-inner.layout h1:hover, #content-inner.layout h2:hover, #content-inner.layout h3:hover, #content-inner.layout h4:hover, #content-inner.layout h5:hover, #content-inner.layout h6:hover {    color: #49b1f5 ;}#content-inner.layout h1:hover::after, #content-inner.layout h2:hover::after, #content-inner.layout h3:hover::after, #content-inner.layout h4:hover::after, #content-inner.layout h5:hover::after, #content-inner.layout h6:hover::after {    color: #49b1f5 ;    -webkit-animation: ccc 3.2s linear infinite ;    animation: ccc 3.2s linear infinite ;}#content-inner.layout h1::after {    color: #ef50a8 ;    margin-left: -1.55rem;    font-size: 1.3rem;    margin-top: -0.23rem;}#content-inner.layout h2::after {    color: #fb7061 ;    margin-left: -1.35rem;    font-size: 1.1rem;    margin-top: -0.12rem;}#content-inner.layout h3::after {    color: #ffbf00 ;    margin-left: -1.22rem;    font-size: 0.95rem;    margin-top: -0.09rem;}#content-inner.layout h4::after {    color: #a9e000 ;    margin-left: -1.05rem;    font-size: 0.8rem;    margin-top: -0.09rem;}#content-inner.layout h5::after {    color: #57c850 ;    margin-left: -0.9rem;    font-size: 0.7rem;    margin-top: 0.0rem;}#content-inner.layout h6::after {    color: #5ec1e0 ;    margin-left: -0.9rem;    font-size: 0.66rem;    margin-top: 0.0rem;}/* 页面设置icon转动速度调整 */#rightside_config i.fas.fa-cog.fa-spin {    animation: fa-spin 5s linear infinite ;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>计算机</title>
-      <link href="/computer/index.html"/>
-      <url>/computer/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -1688,17 +1688,6 @@
     
     <entry>
       <title></title>
-      <link href="/css/text_01.css"/>
-      <url>/css/text_01.css</url>
-      
-        <content type="html"><![CDATA[.text {    display: flex;    flex-direction: row;    width: 100%;}.text1 {    display: flex;    flex-direction: column;    justify-content: center;}.text2 {    margin-left: 14px;    display: flex;    flex-direction: column;    justify-content: center;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/css/nav.css"/>
       <url>/css/nav.css</url>
       
@@ -1710,10 +1699,10 @@
     
     <entry>
       <title></title>
-      <link href="/css/transparent.css"/>
-      <url>/css/transparent.css</url>
+      <link href="/css/text_01.css"/>
+      <url>/css/text_01.css</url>
       
-        <content type="html"><![CDATA[/* 主页所有文章页面背景 */#aside_content .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{    /* 以下代表透明度为0.5 */    background: rgba(255, 255, 255, .98);}/*侧边栏页面*/#aside-content>.card-widget  {    background: rgba(255,255,255,.98);}#aside-content>.sticky_layout>.card-widget{    background: rgba(255,255,255,.98);}/*文章页面*/.layout>#post{    background: rgba(255,255,255,.98);}/*分类页面*/.layout>#page{        background: rgba(255,255,255,.98);}/*时间轴页面*/.layout>#archive{    background: rgba(255,255,255,.98);}]]></content>
+        <content type="html"><![CDATA[.text {    display: flex;    flex-direction: row;    width: 100%;}.text1 {    display: flex;    flex-direction: column;    justify-content: center;}.text2 {    margin-left: 14px;    display: flex;    flex-direction: column;    justify-content: center;}]]></content>
       
     </entry>
     
@@ -1731,9 +1720,9 @@
     
     
     <entry>
-      <title>论文</title>
-      <link href="/lunwen/index.html"/>
-      <url>/lunwen/index.html</url>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1742,9 +1731,20 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/css/transparent.css"/>
+      <url>/css/transparent.css</url>
+      
+        <content type="html"><![CDATA[/* 主页所有文章页面背景 */#aside_content .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{    /* 以下代表透明度为0.5 */    background: rgba(255, 255, 255, .98);}/*侧边栏页面*/#aside-content>.card-widget  {    background: rgba(255,255,255,.98);}#aside-content>.sticky_layout>.card-widget{    background: rgba(255,255,255,.98);}/*文章页面*/.layout>#post{    background: rgba(255,255,255,.98);}/*分类页面*/.layout>#page{        background: rgba(255,255,255,.98);}/*时间轴页面*/.layout>#archive{    background: rgba(255,255,255,.98);}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>论文</title>
+      <link href="/lunwen/index.html"/>
+      <url>/lunwen/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
