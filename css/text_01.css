@@ -1,0 +1,18 @@
+.text {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.text1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.text2 {
+    margin-left: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

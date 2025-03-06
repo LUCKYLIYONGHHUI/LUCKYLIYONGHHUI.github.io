@@ -1,0 +1,215 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>LUCKY - һ�����ڷ�����������ֵĲ���</title><meta name="author" content="LUCKY"><meta name="copyright" content="LUCKY"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="�е����������п��������޵���ֹ����">
+<meta property="og:type" content="website">
+<meta property="og:title" content="LUCKY">
+<meta property="og:url" content="https://www.luckylyh.top/page/3/index.html">
+<meta property="og:site_name" content="LUCKY">
+<meta property="og:description" content="�е����������п��������޵���ֹ����">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://www.luckylyh.top/img/butterfly-icon.png">
+<meta property="article:author" content="LUCKY">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://www.luckylyh.top/img/butterfly-icon.png"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://www.luckylyh.top/page/3/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><script>
+    (() => {
+      
+    const saveToLocal = {
+      set: (key, value, ttl) => {
+        if (!ttl) return
+        const expiry = Date.now() + ttl * 86400000
+        localStorage.setItem(key, JSON.stringify({ value, expiry }))
+      },
+      get: key => {
+        const itemStr = localStorage.getItem(key)
+        if (!itemStr) return undefined
+        const { value, expiry } = JSON.parse(itemStr)
+        if (Date.now() > expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return value
+      }
+    }
+
+    window.btf = {
+      saveToLocal,
+      getScript: (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        Object.entries(attr).forEach(([key, val]) => script.setAttribute(key, val))
+        script.onload = script.onreadystatechange = () => {
+          if (!script.readyState || /loaded|complete/.test(script.readyState)) resolve()
+        }
+        script.onerror = reject
+        document.head.appendChild(script)
+      }),
+      getCSS: (url, id) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onload = link.onreadystatechange = () => {
+          if (!link.readyState || /loaded|complete/.test(link.readyState)) resolve()
+        }
+        link.onerror = reject
+        document.head.appendChild(link)
+      }),
+      addGlobalFn: (key, fn, name = false, parent = window) => {
+        if (!false && key.startsWith('pjax')) return
+        const globalFn = parent.globalFn || {}
+        globalFn[key] = globalFn[key] || {}
+        globalFn[key][name || Object.keys(globalFn[key]).length] = fn
+        parent.globalFn = globalFn
+      }
+    }
+  
+      
+      const activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      const activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+
+      btf.activateDarkMode = activateDarkMode
+      btf.activateLightMode = activateLightMode
+
+      const theme = saveToLocal.get('theme')
+    
+          theme === 'dark' ? activateDarkMode() : theme === 'light' ? activateLightMode() : null
+        
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        document.documentElement.classList.toggle('hide-aside', asideStatus === 'hide')
+      }
+    
+      
+    const detectApple = () => {
+      if (/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)) {
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+  
+    })()
+  </script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false,"highlightFullpage":false,"highlightMacStyle":false},
+  copy: {
+    success: '复制成功',
+    error: '复制失败',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'null',
+  Snackbar: undefined,
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyloadPlugin: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: false,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: 'LUCKY',
+  isHighlightShrink: false,
+  isToc: false,
+  pageType: 'home'
+}</script><meta name="generator" content="Hexo 7.3.0"></head><body><div class="page" id="body-wrap"><header class="full_page" id="page-header"><nav id="nav"><span id="blog-info"><a class="nav-site-title" href="/"><span class="site-name">LUCKY</span></a></span><div id="menus"></div></nav><div id="site-info"><h1 id="site-title">LUCKY</h1></div><div id="scroll-down"><i class="fas fa-angle-down scroll-down-effects"></i></div></header><main class="layout" id="content-inner"><div class="recent-posts nc" id="recent-posts"><div class="recent-post-items"><div class="recent-post-item"><div class="post_cover left"><a href="/2023/05/25/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E5%85%AD%EF%BC%89/" title="考研英语二阅读真题词汇（二十六）"><img class="post-bg" src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="考研英语二阅读真题词汇（二十六）"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/05/25/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E5%85%AD%EF%BC%89/" title="考研英语二阅读真题词汇（二十六）">考研英语二阅读真题词汇（二十六）</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2023-05-24T23:56:57.000Z" title="发表于 2023-05-25 07:56:57">2023-05-25</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%8B%B1%E8%AF%AD/">英语</a></span></div><div class="content">   mislead   /ˌmɪsˈliːd/   v.误导 – Perhaps I misled you, but it was quite unintentional.  也许我误导了你，但那绝不是有意的。     strange   /streɪndʒ/   adj.奇怪的；陌生的 – He has some very strange ideas about education.  他对教育有些非常奇怪的看法。 【联想】：①stranger n.陌生人；外地人 ②strong adj.强壮的；强烈的 ③straight adj.直的；笔直的     widespread   /ˈwaɪdspred/   adj.流传甚广的；分布广的 – The plan received widespread support throughout the country.  这项计划得到了全国的普遍支持。  in conjunction with  与…协力；和…一起 – The police are working in conjunction with tax officers...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/2023/05/23/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E4%BA%94%EF%BC%89/" title="考研英语二阅读真题词汇（二十五）"><img class="post-bg" src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="考研英语二阅读真题词汇（二十五）"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/05/23/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E4%BA%94%EF%BC%89/" title="考研英语二阅读真题词汇（二十五）">考研英语二阅读真题词汇（二十五）</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2023-05-23T00:44:20.000Z" title="发表于 2023-05-23 08:44:20">2023-05-23</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%8B%B1%E8%AF%AD/">英语</a></span></div><div class="content">   community   /kəˈmjuːnəti/   n.社区；团体；群落 – The school has established a successful relationship with the local community.  这所学校与当地社区建立了良好的关系。     inspire   /ɪnˈspaɪər/   v.鼓舞；启迪；促成 – She has inspired a whole generation of fashion school graduates.  她激励了整整一届时装学校的毕业生。     event   /ɪˈvent/   n.事件；大事；比赛项目 – The event is bound to attract wide press coverage.  这个事件一定会在各报刊广泛报道。 【联想】：accident&#x2F;incident&#x2F;event&#x2F;thing&#x2F;issue&#x2F;affair     abroad   /əˈbrɔːd/   adv.在国外；出国 – I would...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/2023/05/16/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E5%9B%9B%EF%BC%89/" title="考研英语二阅读真题词汇（二十四）"><img class="post-bg" src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="考研英语二阅读真题词汇（二十四）"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/05/16/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E5%9B%9B%EF%BC%89/" title="考研英语二阅读真题词汇（二十四）">考研英语二阅读真题词汇（二十四）</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2023-05-15T23:48:49.000Z" title="发表于 2023-05-16 07:48:49">2023-05-16</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%8B%B1%E8%AF%AD/">英语</a></span></div><div class="content">   retirement   /rɪˈtaɪərmənt/   n.退休；退役；退职 – The money was being kept in reserve for their retirement.  他们把钱存着以备退休后使用。 【联想】：①retire v.退休 ②pension n.退休金     prize   /praɪz/   (1) n.奖赏；奖金；战利品 – She was awarded the Nobel Peace prize. 她获颁诺贝尔和平奖。 (2) v.珍视；珍藏；估价 – Military figures, made out of lead are prized by collectors. 收藏家们对铅铸的军人塑像视若珍宝。     mark   /mɑːrk/   (1) n.记号；痕迹；分数 – The children left dirty marks all over the kitchen floor. 孩子们把厨房的地板弄得污渍斑斑。 (2) v.做标记；评分 – Prices are marked on the...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/2023/05/15/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E4%B8%89%EF%BC%89/" title="考研英语二阅读真题词汇（二十三）"><img class="post-bg" src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="考研英语二阅读真题词汇（二十三）"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/05/15/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E4%B8%89%EF%BC%89/" title="考研英语二阅读真题词汇（二十三）">考研英语二阅读真题词汇（二十三）</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2023-05-15T01:51:45.000Z" title="发表于 2023-05-15 09:51:45">2023-05-15</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%8B%B1%E8%AF%AD/">英语</a></span></div><div class="content">   repetitive   /rɪˈpetətɪv/   adj.重复的 – These tasks were repetitive, lengthy and lacking any intrinsic interest.  这些作业重复冗长，没有什么意义。 【联想】：①repeat v.重复；背诵 ②repetition n.重复；反复；背诵 ③repeatable adj.可重复的     guaranteed   /ˌɡærənˈtiːd/   (1) adj.有保障的；确定的 – Your acceptance into the insurance plan is guaranteed.  你参加保险计划一事已有保证。 (2) v.保证；确保 – We guarantee to deliver your goods within a week.  我们保证一周内交货。 【联想】：①guard n&#x2F;v.守卫；保卫 ②guarantor n.保证人 ③secured 有担保的     exhausted   /ɪɡˈzɔːstɪd/   (1)...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/2023/05/12/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E4%BA%8C%EF%BC%89/" title="考研英语二阅读真题词汇（二十二）"><img class="post-bg" src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="考研英语二阅读真题词汇（二十二）"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/05/12/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E4%BA%8C%EF%BC%89/" title="考研英语二阅读真题词汇（二十二）">考研英语二阅读真题词汇（二十二）</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2023-05-12T12:46:12.000Z" title="发表于 2023-05-12 20:46:12">2023-05-12</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%8B%B1%E8%AF%AD/">英语</a></span></div><div class="content">   drastically   /ˈdræstɪkli/   adv.大幅度地；彻底地 – They cut prices drastically to try and shift stock.  他们大幅度降价，试图销出存货。 【联想】：①drastic adj.激烈的；猛烈的 ②dramatically adv.显著地；急剧地     underestimate   /ˌʌndərˈestɪmeɪt , ˌʌndərˈestɪmət/   (1) v.低估；对…估计不足 – We underestimated the time it would take to get there. 我们低估了抵达那里所需的时间。 (2) n.低估；轻视 – My guess of 400 proved to be a serious underestimate. 我猜400，结果证明是严重的低估。 【联想】：overestimate v.高估     grassland   /ˈɡræslænd/   n.草原；草地；草场 – There is a reach of grassland...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/2023/05/11/%E8%8B%B1%E8%AF%AD/%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%B6%E6%AE%B5%E6%B5%8B%E8%AF%95%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%80%EF%BC%89/" title="英语二阶段测试总结（一）"><img class="post-bg" src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="英语二阶段测试总结（一）"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/05/11/%E8%8B%B1%E8%AF%AD/%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%B6%E6%AE%B5%E6%B5%8B%E8%AF%95%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%80%EF%BC%89/" title="英语二阶段测试总结（一）">英语二阶段测试总结（一）</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2023-05-11T07:23:25.000Z" title="发表于 2023-05-11 15:23:25">2023-05-11</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%8B%B1%E8%AF%AD/">英语</a></span></div><div class="content">   excess   /ɪkˈses/   (1) n.过度；超过；过量 – He started drinking to excess after losing his job. 他失业后便开始酗酒了。 (2) adj.多余的；过多的 – Excess food is stored as fat. 多余的食物作为脂肪贮存起来。 【联想】：①exceed v.超过 ②excessive adj.过分的；极度的     competitive   /kəmˈpetətɪv/   adj.竞争的；有竞争力的 – Graduates have to fight for jobs in a highly competitive market. 毕业生不得不在竞争激烈的市场上奋力争取找到工作。     concession   /kənˈseʃn/   n.让步；特许权，优惠 – The firm will be forced to make concessions if it wants to avoid a...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/2023/05/11/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E4%B8%80%EF%BC%89/" title="考研英语二阅读真题词汇（二十一）"><img class="post-bg" src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="考研英语二阅读真题词汇（二十一）"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/05/11/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E4%B8%80%EF%BC%89/" title="考研英语二阅读真题词汇（二十一）">考研英语二阅读真题词汇（二十一）</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2023-05-11T00:56:14.000Z" title="发表于 2023-05-11 08:56:14">2023-05-11</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%8B%B1%E8%AF%AD/">英语</a></span></div><div class="content">   exposure   /ɪkˈspoʊʒər/   n.接触；暴露；揭露 – Exposure to lead is known to damage the brains of young children. 众所周知，接触铅对幼儿的大脑有害。     remodel   /ˌriːˈmɑːdl/   v.重塑；改建；改造 – The house was remodelled by its present owner.  现在的房主改建了这座房子。     formulate   /ˈfɔːrmjuleɪt/   v.制定；规划；确切表达 – She has lots of good ideas, but she has difficulty formulating them.  她有很多好的想法，但就是不善于表达。     hypothesis   /haɪˈpɑːθəsɪs/   n.假设；假说 – Work will now begin to test the hypothesis in...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/2023/05/01/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%EF%BC%89/" title="考研英语二阅读真题词汇（二十）"><img class="post-bg" src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="考研英语二阅读真题词汇（二十）"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/05/01/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%EF%BC%89/" title="考研英语二阅读真题词汇（二十）">考研英语二阅读真题词汇（二十）</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2023-05-01T08:13:40.000Z" title="发表于 2023-05-01 16:13:40">2023-05-01</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%8B%B1%E8%AF%AD/">英语</a></span></div><div class="content">   prospect   /ˈprɑːspekt/   (1) n.展望；前景；希望 – There’s a reasonable prospect that his debts will be paid. 有理由相信他会偿还债务的。 (2) v.勘探；寻找 – Thousands moved to the area to prospect for gold. 数以千计的人涌入那个地区淘金。 【联想】：①inspect v.检查 ②suspect v.怀疑 ③prospective adj.未来的；预期的 ③prosperous adj.繁荣的；兴旺的 ④perspective n.远景；前景；观点     market   /ˈmɑːrkɪt/   (1) n.市场；商场；行情 – The foreign market was increasingly crucial. 国外市场越来越重要了。 (2) v.在市场上交易；营销 – It is marketed as a low-alcohol wine. 它作为一种低度酒投放市场。 【联想】：①supermarket...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/2023/04/29/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E5%8D%81%E4%B9%9D%EF%BC%89/" title="考研英语二阅读真题词汇（十九）"><img class="post-bg" src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="考研英语二阅读真题词汇（十九）"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/04/29/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E5%8D%81%E4%B9%9D%EF%BC%89/" title="考研英语二阅读真题词汇（十九）">考研英语二阅读真题词汇（十九）</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2023-04-29T02:21:17.000Z" title="发表于 2023-04-29 10:21:17">2023-04-29</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%8B%B1%E8%AF%AD/">英语</a></span></div><div class="content">   emotional   /ɪˈmoʊʃənl/   adj.感情的；情绪的 – Abuse can lead to both psychological and emotional problems.  虐待可造成心理和情绪上的问题。 【联想】：①motion v.示意；打手势 n.运动；动作；提议 ②emotion n.感情 ③mental adj.精神的；情感的     energetic   /ˌenərˈdʒetɪk/   adj.精力旺盛的；有活力的 – He knew I was energetic and dynamic and would get things done.  他知道我精力充沛、生气勃勃，会把事情办成的。 【联想】：energy n.精力；能源；能量     strategic   /strəˈtiːdʒɪk/   adj.战略性的；战略上的 – Strategic alliances are being forged with major European companies....</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/2023/04/28/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E5%8D%81%E5%85%AB%EF%BC%89/" title="考研英语二阅读真题词汇（十八）"><img class="post-bg" src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="考研英语二阅读真题词汇（十八）"></a></div><div class="recent-post-info"><a class="article-title" href="/2023/04/28/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E5%8D%81%E5%85%AB%EF%BC%89/" title="考研英语二阅读真题词汇（十八）">考研英语二阅读真题词汇（十八）</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2023-04-28T02:24:54.000Z" title="发表于 2023-04-28 10:24:54">2023-04-28</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E8%8B%B1%E8%AF%AD/">英语</a></span></div><div class="content">   recruit   /rɪˈkruːt/   (1) v.征募；招聘；招收 – He’s responsible for recruiting at all levels. 他负责各级征募工作。 (2) n.新成员；新兵 – He spoke of us scornfully as raw recruits (&#x3D; people without training or experience). 他轻蔑地称我们是新兵娃娃。 【联想】：①crew n.全体成员；职员 ②recruiting adj.招聘的 ③recruitment n.招聘；征募 ④novice n.新手；初学者 ⑤fresh adj.新鲜的 n.新人；大一新生 ⑥conscript v.征兵 ⑦enroll v.入学；入伍     reduce   /rɪˈduːs/   v.减少；降低；减量 – Their aim is to reduce people’s dependency on the welfare state.  他们旨在减少人们对福利制度的依赖。     droput  ...</div></div></div></div><nav id="pagination"><div class="pagination"><a class="extend prev" rel="prev" href="/page/2/#content-inner"><i class="fas fa-chevron-left fa-fw"></i></a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/#content-inner">2</a><span class="page-number current">3</span><a class="page-number" href="/page/4/#content-inner">4</a><span class="space">&hellip;</span><a class="page-number" href="/page/7/#content-inner">7</a><a class="extend next" rel="next" href="/page/4/#content-inner"><i class="fas fa-chevron-right fa-fw"></i></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info text-center"><div class="avatar-img"><img src="/img/butterfly-icon.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info-name">LUCKY</div><div class="author-info-description">�е����������п��������޵���ֹ����</div><div class="site-data"><a href="/archives/"><div class="headline">文章</div><div class="length-num">63</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">12</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/xxxxxx"><i class="fab fa-github"></i><span>Follow Me</span></a></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content">This is my Blog</div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/2025/03/06/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E5%85%AB%EF%BC%89/" title="考研英语二阅读真题词汇（二十八）"><img src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="考研英语二阅读真题词汇（二十八）"/></a><div class="content"><a class="title" href="/2025/03/06/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%E5%8D%81%E5%85%AB%EF%BC%89/" title="考研英语二阅读真题词汇（二十八）">考研英语二阅读真题词汇（二十八）</a><time datetime="2025-03-06T08:09:08.918Z" title="发表于 2025-03-06 16:09:08">2025-03-06</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/2025/03/06/hello-world/" title="Hello World">Hello World</a><time datetime="2025-03-06T07:36:28.378Z" title="发表于 2025-03-06 15:36:28">2025-03-06</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2023/07/04/%E8%8B%B1%E8%AF%AD/%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%EF%BC%89/" title="阅读真题词汇（二）"><img src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="阅读真题词汇（二）"/></a><div class="content"><a class="title" href="/2023/07/04/%E8%8B%B1%E8%AF%AD/%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%BA%8C%EF%BC%89/" title="阅读真题词汇（二）">阅读真题词汇（二）</a><time datetime="2023-07-04T00:34:55.000Z" title="发表于 2023-07-04 08:34:55">2023-07-04</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2023/07/03/%E8%8B%B1%E8%AF%AD/%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%B8%80%EF%BC%89/" title="阅读真题词汇（一）"><img src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="阅读真题词汇（一）"/></a><div class="content"><a class="title" href="/2023/07/03/%E8%8B%B1%E8%AF%AD/%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E4%B8%80%EF%BC%89/" title="阅读真题词汇（一）">阅读真题词汇（一）</a><time datetime="2023-07-03T01:33:59.000Z" title="发表于 2023-07-03 09:33:59">2023-07-03</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2023/06/30/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E5%9B%9B%E5%8D%81%EF%BC%89/" title="考研英语二阅读真题词汇（四十）"><img src="/img/romain-vignes-ywqa9IZB-dU-unsplash.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="考研英语二阅读真题词汇（四十）"/></a><div class="content"><a class="title" href="/2023/06/30/%E8%8B%B1%E8%AF%AD/%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%E9%98%85%E8%AF%BB%E7%9C%9F%E9%A2%98%E8%AF%8D%E6%B1%87%EF%BC%88%E5%9B%9B%E5%8D%81%EF%BC%89/" title="考研英语二阅读真题词汇（四十）">考研英语二阅读真题词汇（四十）</a><time datetime="2023-06-29T23:43:26.000Z" title="发表于 2023-06-30 07:43:26">2023-06-30</time></div></div></div></div><div class="card-widget card-categories"><div class="item-headline">
+            <i class="fas fa-folder-open"></i>
+            <span>分类</span>
+            
+          </div>
+          <ul class="card-category-list" id="aside-cat-list">
+            <li class="card-category-list-item "><a class="card-category-list-link" href="/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"><span class="card-category-list-name">数据结构</span><span class="card-category-list-count">2</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/%E8%8B%B1%E8%AF%AD/"><span class="card-category-list-name">英语</span><span class="card-category-list-count">47</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94%E5%8C%BA/"><span class="card-category-list-name">问题解答区</span><span class="card-category-list-count">4</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/%E9%AB%98%E6%95%B0/"><span class="card-category-list-name">高数</span><span class="card-category-list-count">9</span></a></li>
+          </ul></div><div class="card-widget card-tags"><div class="item-headline"><i class="fas fa-tags"></i><span>标签</span></div><div class="card-tag-cloud"><a href="/tags/%E9%AB%98%E6%95%B0/" style="font-size: 1.37em; color: #99a4b2">高数</a> <a href="/tags/%E9%AB%98%E6%95%B0%E5%9F%BA%E7%A1%80/" style="font-size: 1.37em; color: #99a4b2">高数基础</a> <a href="/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" style="font-size: 1.17em; color: #999c9f">数据结构</a> <a href="/tags/%E8%8B%B1%E8%AF%AD/" style="font-size: 1.5em; color: #99a9bf">英语</a> <a href="/tags/%E5%8D%95%E9%93%BE%E8%A1%A8/" style="font-size: 1.1em; color: #999">单链表</a> <a href="/tags/C4D/" style="font-size: 1.17em; color: #999c9f">C4D</a> <a href="/tags/%E9%A1%BA%E5%BA%8F%E8%A1%A8/" style="font-size: 1.1em; color: #999">顺序表</a> <a href="/tags/%E8%80%83%E7%A0%94%E7%9F%A5%E8%AF%86/" style="font-size: 1.1em; color: #999">考研知识</a> <a href="/tags/%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94%E5%8C%BA/" style="font-size: 1.23em; color: #999ea6">问题解答区</a> <a href="/tags/%E8%AF%8D%E6%B1%87/" style="font-size: 1.43em; color: #99a6b9">词汇</a> <a href="/tags/Markdown/" style="font-size: 1.1em; color: #999">Markdown</a> <a href="/tags/%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9D%97/" style="font-size: 1.3em; color: #99a1ac">写作模块</a></div></div><div class="card-widget card-archives">
+    <div class="item-headline">
+      <i class="fas fa-archive"></i>
+      <span>归档</span>
+      
+    </div>
+  
+    <ul class="card-archive-list">
+      
+        <li class="card-archive-list-item">
+          <a class="card-archive-list-link" href="/archives/2025/03/">
+            <span class="card-archive-list-date">
+              三月 2025
+            </span>
+            <span class="card-archive-list-count">2</span>
+          </a>
+        </li>
+      
+        <li class="card-archive-list-item">
+          <a class="card-archive-list-link" href="/archives/2023/07/">
+            <span class="card-archive-list-date">
+              七月 2023
+            </span>
+            <span class="card-archive-list-count">2</span>
+          </a>
+        </li>
+      
+        <li class="card-archive-list-item">
+          <a class="card-archive-list-link" href="/archives/2023/06/">
+            <span class="card-archive-list-date">
+              六月 2023
+            </span>
+            <span class="card-archive-list-count">15</span>
+          </a>
+        </li>
+      
+        <li class="card-archive-list-item">
+          <a class="card-archive-list-link" href="/archives/2023/05/">
+            <span class="card-archive-list-date">
+              五月 2023
+            </span>
+            <span class="card-archive-list-count">9</span>
+          </a>
+        </li>
+      
+        <li class="card-archive-list-item">
+          <a class="card-archive-list-link" href="/archives/2023/04/">
+            <span class="card-archive-list-date">
+              四月 2023
+            </span>
+            <span class="card-archive-list-count">32</span>
+          </a>
+        </li>
+      
+        <li class="card-archive-list-item">
+          <a class="card-archive-list-link" href="/archives/2023/03/">
+            <span class="card-archive-list-date">
+              三月 2023
+            </span>
+            <span class="card-archive-list-count">3</span>
+          </a>
+        </li>
+      
+    </ul>
+  </div><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站信息</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">63</div></div><div class="webinfo-item"><div class="item-name">本站访客数 :</div><div class="item-count" id="busuanzi_value_site_uv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">本站总浏览量 :</div><div class="item-count" id="busuanzi_value_site_pv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2025-03-06T08:40:05.470Z"><i class="fa-solid fa-spinner fa-spin"></i></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2019 - 2025 By LUCKY</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo 7.3.0</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly 5.3.5</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="日间和夜间模式切换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><div class="js-pjax"></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
